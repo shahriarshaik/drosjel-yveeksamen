@@ -1,0 +1,294 @@
+<form id="frontQuizForm" onsubmit="event.preventDefault();window.checkQuiz(this)">
+        <div class="course_quiz_element" id="course_quiz_element_1" style="display: block;"><span
+                        class="course_quiz_qnum">Spørsmål 1: </span><span class="quiz_element_title">Hvilken løyvetype
+                        gir
+                        tillatelse til å drive drosjetransport i Norge?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_1" value="1">A) Turvognløyve</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_1" value="2">B) Bussløyve</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_1" value="3">C) Drosjeløyve</label></div>
+                <input type="hidden" name="right_1" value="3"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_1"></div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.c_next(this)">Neste</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_2"><span class="course_quiz_qnum">Spørsmål 2:
+                </span><span class="quiz_element_title">Hvilket av følgende utsagn om drosjeløyve i Norge er
+                        korrekt?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_2" value="1">A) Et drosjeløyve tillater
+                                transport
+                                av gods i bysentrum.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_2" value="2">B) Drosjeløyve gir enerett
+                                til å
+                                operere drosjetjenester i en hel region uten konkurrenter.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_2" value="3">C) Drosjeløyve er en
+                                tillatelse som
+                                lar deg transportere passasjerer hvor reisen starter og ender der kunden ønsker.</label>
+                </div>
+                <div class="form-group"><label><input type="radio" name="quiz_2" value="4">D) Alle som ønsker kan få
+                                drosjeløyve
+                                uten krav til kompetanse eller bakgrunnssjekk.</label></div><input type="hidden"
+                        name="right_2" value="3"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_2">
+                        <div class="correctExplanationBlock">
+                                <div class="explanationTitle" id="correct_title_2">Riktigt!</div>
+                                <div class="explanationText" id="correct_explanation_2">Drosjeløyve er en tillatelse som
+                                        lar deg
+                                        transportere passasjerer hvor reisen starter og ender der kunden ønsker.</div>
+                        </div>
+                        <div class="incorrectExplanationBlock">
+                                <div class="explanationTitle" id="incorrect_title_2">Galt!</div>
+                                <div class="explanationText" id="incorrect_explanation_2">Forklaring til feil svar:
+
+                                        A) Drosjeløyve handler om transport av passasjerer, ikke gods.
+
+                                        B) Selv med et drosjeløyve, vil det være konkurranse fra andre drosjeoperatører.
+                                        Det gir ikke
+                                        enerett i en region.
+
+                                        D) Det er vanligvis krav til kompetanse (for eksempel gjennomføring av
+                                        drosjekurs) og bakgrunnssjekk
+                                        før tildeling av drosjeløyve.</div>
+                        </div>
+                </div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.confirmQuestion(this, 0)">Confirm</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_3"><span class="course_quiz_qnum">Spørsmål 3:
+                </span><span class="quiz_element_title">Hvilket kriterium MÅ være oppfylt for å motta et drosjeløyve i
+                        Norge?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_3" value="1">A) Eie minst fem
+                                drosjebiler.</label>
+                </div>
+                <div class="form-group"><label><input type="radio" name="quiz_3" value="2">B) bestå
+                                drosjeprøven.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_3" value="3">C) Være medlem av en bestemt
+                                drosjesentral.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_3" value="4">D) Ha minst ti års erfaring
+                                som
+                                drosjesjåfør.</label></div><input type="hidden" name="right_3" value="2"><input
+                        type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_3">
+                        <div class="incorrectExplanationBlock">
+                                <div class="explanationTitle" id="incorrect_title_3">Galt!</div>
+                                <div class="explanationText" id="incorrect_explanation_3">A) Det er ikke et krav å eie
+                                        et bestemt antall
+                                        drosjebiler for å få drosjeløyve.
+
+                                        C) Medlemskap i en spesifikk drosjesentral er ikke et obligatorisk krav for å
+                                        motta drosjeløyve.
+
+                                        D) Selv om erfaring er verdifull, er det ikke et krav å ha ti års erfaring for å
+                                        få drosjeløyve.
+                                </div>
+                        </div>
+                </div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.confirmQuestion(this, 0)">Confirm</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_4"><span class="course_quiz_qnum">Spørsmål 4:
+                </span><span class="quiz_element_title">Hva er hovedformålet med å ha en drosjeløyveordning i
+                        Norge?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_4" value="1">A) For å begrense antall
+                                drosjer i
+                                byene.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_4" value="2">B) For å sikre at
+                                drosjesjåfører har
+                                en fast inntekt.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_4" value="3">C) For å regulere og sikre
+                                kvaliteten
+                                på drosjetjenesten til beste for forbrukeren.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_4" value="4">D) For å sikre at alle
+                                drosjesjåfører
+                                er medlemmer av en drosjesentral.</label></div><input type="hidden" name="right_4"
+                        value="3"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_4">
+                        <div class="correctExplanationBlock">
+                                <div class="explanationTitle" id="correct_title_4">Riktigt!</div>
+                                <div class="explanationText" id="correct_explanation_4">Drosjeløyveordningen er innført
+                                        for å regulere
+                                        drosjetjenesten i Norge og sikre at den holder en viss standard. Dette er for å
+                                        beskytte forbrukerne
+                                        mot uærlige praksiser, sørge for sikkerhet og garantere en viss kvalitet på
+                                        tjenesten.</div>
+                        </div>
+                        <div class="incorrectExplanationBlock">
+                                <div class="explanationTitle" id="incorrect_title_4">Galt!</div>
+                                <div class="explanationText" id="incorrect_explanation_4">A) Selv om det kan være
+                                        begrensninger i antall
+                                        løyver i enkelte områder, er ikke hovedformålet å begrense antall drosjer.
+
+                                        B) Drosjeløyveordningen sikrer ikke nødvendigvis en fast inntekt for sjåførene.
+                                        Dette avhenger av
+                                        markedet og arbeidsmengde.
+
+                                        D) Det er ikke et krav at alle drosjesjåfører må være medlemmer av en
+                                        drosjesentral for å motta
+                                        drosjeløyve.</div>
+                        </div>
+                </div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.confirmQuestion(this, 0)">Confirm</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_5"><span class="course_quiz_qnum">Spørsmål 5:
+                </span><span class="quiz_element_title">Hvilket av de følgende kravene MÅ være oppfylt for å erverve
+                        drosjeløyve i
+                        Norge?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_5" value="1">A) Eie minst to drosjebiler
+                                før
+                                søknad.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_5" value="2">B) Politiattest.</label>
+                </div>
+                <div class="form-group"><label><input type="radio" name="quiz_5" value="3">C) Være medlem av den største
+                                drosjesentralen i regionen.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_5" value="4">D) Ha jobbet som
+                                drosjesjåførassistent i minst ett år.</label></div><input type="hidden" name="right_5"
+                        value="2"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_5">
+                        <div class="correctExplanationBlock">
+                                <div class="explanationTitle" id="correct_title_5">Riktigt!</div>
+                                <div class="explanationText" id="correct_explanation_5">For å sikre passasjersikkerheten
+                                        og integriteten
+                                        til drosjebransjen, er det viktig at de som får løyve har en god vandel. Dette
+                                        vurderes gjennom en
+                                        politiattest der man ser på eventuelle lovbrudd som kan være relevante for
+                                        yrket, spesielt relatert
+                                        til narkotika, alkohol, og økonomisk kriminalitet.</div>
+                        </div>
+                        <div class="incorrectExplanationBlock">
+                                <div class="explanationTitle" id="incorrect_title_5">Galt</div>
+                                <div class="explanationText" id="incorrect_explanation_5">A) Selv om det kan være
+                                        nødvendig med biler
+                                        for å drive drosjevirksomhet, er det ikke et spesifikt krav om å eie et bestemt
+                                        antall biler før man
+                                        søker om løyve.
+                                        C) Medlemskap i en drosjesentral kan være fordelaktig, men det er ikke et
+                                        obligatorisk krav for å
+                                        motta drosjeløyve, og det stilles heller ikke krav om hvilken sentral man skal
+                                        være medlem av.
+                                        D) Det er ingen krav om å ha jobbet som en "drosjesjåførassistent" eller
+                                        lignende roller før man
+                                        søker om drosjeløyve.</div>
+                        </div>
+                </div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.confirmQuestion(this, 0)">Confirm</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_6"><span class="course_quiz_qnum">Spørsmål 6:
+                </span><span class="quiz_element_title">Hva kreves av en drosjeløyvehaver i Norge angående kjøretøyets
+                        tekniske
+                        tilstand?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_6" value="1">A) Kjøretøyet må gjennomgå en
+                                teknisk
+                                kontroll hver måned.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_6" value="2">B) Kjøretøyet må ha grønn
+                                farge for å
+                                bli godkjent som drosje</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_6" value="3">C) Kjøretøyet må være merket
+                                med
+                                offisielt drosjeskilt og lys.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_6" value="4">D) Kjøretøyet må ha en
+                                spesifikk type
+                                dekk for alle årstider.</label></div><input type="hidden" name="right_6"
+                        value="3"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_6">
+                        <div class="correctExplanationBlock">
+                                <div class="explanationTitle" id="correct_title_6">Riktigt!</div>
+                                <div class="explanationText" id="correct_explanation_6">For å lett kunne identifiseres
+                                        som en drosje av
+                                        allmennheten, kreves det at drosjekjøretøy er tydelig merket. Dette inkluderer
+                                        vanligvis et
+                                        offisielt drosjeskilt samt et taklys.</div>
+                        </div>
+                        <div class="incorrectExplanationBlock">
+                                <div class="explanationTitle" id="incorrect_title_6">Galt!</div>
+                                <div class="explanationText" id="incorrect_explanation_6">A) Selv om det er viktig med
+                                        vedlikehold, er
+                                        det ikke et spesifikt krav om månedlig teknisk kontroll. Kjøretøyet skal derimot
+                                        gjennomgå
+                                        periodiske EU-kontroller.
+
+                                        B) Det er ingen spesifikk fargekrav for drosjekjøretøy i Norge, selv om noen
+                                        byer eller regioner kan
+                                        ha fargekoder for drosjer.
+
+                                        D) Det er krav om vinterdekk i vintersesongen, men det er ikke spesifikke
+                                        dekktyper som er
+                                        obligatoriske for drosjer utover dette.</div>
+                        </div>
+                </div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.confirmQuestion(this, 0)">Confirm</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_7"><span class="course_quiz_qnum">Spørsmål 7:
+                </span><span class="quiz_element_title">Hvilket av de følgende kravene gjelder for kjøretøy som skal
+                        brukes som drosje i
+                        Norge?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_7" value="1">A) Kjøretøyet må være utstyrt
+                                med
+                                firehjulstrekk for å kunne operere i alle værforhold.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_7" value="2">B) Kjøretøyet kan ikke ha
+                                noen form
+                                for reklame utenom drosjeselskapets logo.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_7" value="3">C) Kjøretøyet kan kun være
+                                svart
+                                eller hvit i farge for å skille seg ut i trafikken.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_7" value="4">D) Kjøretøyet må ha en
+                                tydelig
+                                taksameter som er synlig for passasjeren.</label></div><input type="hidden"
+                        name="right_7" value="4"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_7">
+                        <div class="correctExplanationBlock">
+                                <div class="explanationTitle" id="correct_title_7">Riktigt!</div>
+                                <div class="explanationText" id="correct_explanation_7">Kjøretøyet må ha en tydelig
+                                        taksameter som er
+                                        synlig for passasjeren</div>
+                        </div>
+                        <div class="incorrectExplanationBlock">
+                                <div class="explanationTitle" id="incorrect_title_7">Galt!</div>
+                                <div class="explanationText" id="incorrect_explanation_7">A) Selv om firehjulstrekk kan
+                                        være fordelaktig
+                                        i visse værforhold, er det ikke et obligatorisk krav for alle drosjekjøretøy.
+
+                                        B) Kjøretøy kan ha andre former for reklame, men de skal ikke forveksles med
+                                        kjøretøyets offisielle
+                                        merking som drosje.
+
+                                        C) Det er ingen spesifikke fargekrav for drosjekjøretøy i Norge. Fargen kan
+                                        variere basert på
+                                        drosjeselskapet eller regionale preferanser.</div>
+                        </div>
+                </div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Forrige</button><button type="button" class="start_q_btn"
+                                onclick="window.confirmQuestion(this, 0)">Confirm</button></div>
+        </div>
+        <div class="course_quiz_element" id="course_quiz_element_8"><span class="course_quiz_qnum">Spørsmål 8:
+                </span><span class="quiz_element_title">I hvilke norske kommuner kan det ikke tildeles enerett for
+                        bestemte tjenester
+                        eller rettigheter?</span>
+                <div class="form-group"><label><input type="radio" name="quiz_8" value="1">A) Kommuner med mer enn 15
+                                000
+                                innbyggere og en befolkningstetthet på mindre enn 50 innbyggere per km².</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_8" value="2">B) Kommuner med 20 000
+                                innbyggere
+                                eller flere, som også har en befolkningstetthet på 80 innbyggere per km² eller
+                                høyere.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_8" value="3">C) Kommuner med mindre enn 20
+                                000
+                                innbyggere, uansett befolkningstetthet.</label></div>
+                <div class="form-group"><label><input type="radio" name="quiz_8" value="4">D) Alle kommuner med en
+                                befolkningstetthet på mindre enn 80 innbyggere per km².</label></div><input
+                        type="hidden" name="right_8" value="2"><input type="hidden" name="mca" id="mca" value="0">
+                <div class="mainExplanationBlock" id="explanation_8"></div>
+                <div class="quiz_actions_btns"><button type="button" class="prev_q_btn"
+                                onclick="window.c_prevQ(this)">Tilbake</button><button type="submit"
+                                class="start_q_btn">Neste</button>
+                </div>
+        </div>
+</form>
