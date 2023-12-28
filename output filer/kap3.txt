@@ -1,0 +1,60 @@
+Question Number: Spørsmål 1:
+Title: Hva er hovedformålet med Arbeidsmiljøloven?
+Options: 
+A) Å regulere lønnsnivået i forskjellige bransjer.
+B) Å sikre trygge ansettelsesforhold og et godt arbeidsmiljø, uavhengig av arbeidstakernes jobbtype og arbeidssted.
+C) Å begrense antall arbeidstimer en ansatt kan jobbe per uke.
+D) Å fremme norske industriinteresser i utlandet.
+Right Answer: 2
+Explanation: Arbeidsmiljøloven har som formål å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger, med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet.
+---
+Question Number: Spørsmål 2:
+Title: Hvilken av følgende informasjoner er LOVPÅLAGT å inkludere i en arbeidsavtale i Norge?
+Options: 
+A) Lønnens størrelse og eventuelle tillegg og andre godtgjøringer som ikke går fram av tariffavtalen.
+B) Anbefalinger for videre karriereutvikling.
+C) En liste over tidligere arbeidsgivere til arbeidstakeren.
+D) Arbeidsgiverens hobbyer og interesser.
+Right Answer: 1
+Explanation: Arbeidsavtaleloven (arbeidsmiljøloven kapittel 14) stiller krav til hva som skal være med i en arbeidsavtale. Blant de obligatoriske elementene er lønnens størrelse, eventuelle tillegg, og andre godtgjøringer som ikke er beskrevet i en tariffavtale.
+---
+Question Number: Spørsmål 3:
+Title: Hva er en vesentlig forskjell mellom oppsigelse og avskjed i arbeidsforhold i Norge?
+Options: 
+A) Oppsigelse gis ved mindre forseelser, mens avskjed gis ved alvorlige forseelser.
+B) Oppsigelse og avskjed er to ord for det samme fenomenet og har ingen vesentlig forskjell.
+C) Avskjed kan kun gis til arbeidstakere som har vært i bedriften i mindre enn to år.
+D) Oppsigelse krever en oppsigelsesperiode, mens avskjed ikke krever noen slik periode.
+Right Answer: 4
+Explanation: Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på og krever som regel en oppsigelsesperiode. Avskjed brukes i tilfeller der arbeidstakeren har brutt arbeidsavtalen på en alvorlig måte, og arbeidsforholdet avsluttes umiddelbart uten noen oppsigelsesperiode.
+---
+Question Number: Spørsmål 4:
+Title: Hvor lenge kan en arbeidstaker jobbe sammenhengende uten å ha rett til pause, ifølge den norske arbeidsmiljøloven?
+Options: 
+A) 2 timer
+B) 4 timer
+C) 6 timer
+D) 8 timer
+Right Answer: 3
+Explanation: Ifølge den norske arbeidsmiljøloven har arbeidstakere rett til en pause dersom arbeidsdagen er lengre enn 6 timer. Pausen skal gi arbeidstakeren en mulighet til hvile og forpleining.
+---
+Question Number: Spørsmål 5:
+Title: Hvor mange virkedager ferie har en arbeidstaker rett til per år i henhold til den norske ferieloven?
+Options: 
+A) 20 virkedager
+B) 25 virkedager
+C) 28 virkedager
+D) 30 virkedager
+Right Answer: 2
+Explanation: Ifølge den norske ferieloven har alle arbeidstakere rett til 25 virkedager ferie hvert år. Dette tilsvarer 5 ukers ferie, da lørdag regnes som virkedag selv om de fleste ikke jobber denne dagen.
+---
+Question Number: Spørsmål 6:
+Title: Hvor mange prosent av fjorårets lønn opptjenes som feriepenger for vanlige arbeidstakere i Norge?
+Options: 
+A) 8%
+B) 10,2%
+C) 12%
+D) 14,3%
+Right Answer: 2
+Explanation: For vanlige arbeidstakere er feriepengegrunnlaget 10,2% av fjorårets lønn. Dette gjelder for de som har mindre enn 5 ukers ferie. For de som har 5 ukers ferie, vil prosentsatsen være høyere.
+---

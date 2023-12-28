@@ -1,0 +1,370 @@
+Question Number: Spørsmål 1:
+Title: Spørsmål: Hva gjelder forskriften for?
+Options: 
+a. All drosjetransport med motorvogn
+b. Kun drosjetransport i kommuner med under 20 000 innbyggere
+c. Løyvepliktig drosjetransport med motorvogn
+d. Drosjetransport hvor vilkårene er fastsatt i anbudskonkurranse
+Right Answer: 3
+Explanation: Forklaring: Forskriften gjelder for løyvepliktig drosjetransport med motorvogn. De andre alternativene er enten for spesifikke eller ikke dekket av forskriftens anvendelsesområde.
+---
+Question Number: Spørsmål 2:
+Title: Spørsmål: Hva menes med parallelltakst i løyvepliktig drosjetransport?
+Options: 
+a. Kun tidstakst
+b. Kun avstandstakst
+c. Kombinasjon av tidstakst og avstandstakst
+d. Fastpris for bestemte strekninger
+Right Answer: 3
+Explanation: Forklaring: Parallelltakst refererer til en prisberegning basert på samtidig anvendelse av tidstakst og avstandstakst under hele turen. De andre alternativene representerer ikke parallelltakst.
+---
+Question Number: Spørsmål 3:
+Title: Spørsmål: Når kan en drosjetilbyder sette en fastpris for transporten?
+Options: 
+a. Når kunden ønsker det
+b. Kun på lange turer
+c. Når det finnes en spesifikk avtale for strekningen
+d. Kun under spesielle arrangementer
+Right Answer: 3
+Explanation: Forklaring: En fastpris kan fastsettes når det finnes en spesifikk avtale for strekningen, ikke bare basert på kundens ønske eller for bestemte turer.
+---
+Question Number: Spørsmål 4:
+Title: Spørsmål: Hva er forbudt i beregningen av takster i ikke-maksimalprisregulerte områder?
+Options: 
+a. Differensiering av takster basert på turens varighet
+b. Inkludering av merverdiavgift i takstene
+c. Å sette en minimumspris for turen
+d. Å kreve tillegg for bompenger
+Right Answer: 1
+Explanation: Forklaring: I ikke-maksimalprisregulerte områder er det forbudt å differensiere takster etter turens varighet, strekning eller geografisk område. De andre alternativene er ikke spesifikt forbudt i denne sammenheng.
+---
+Question Number: Spørsmål 5:
+Title: Spørsmål: Hva er drosjebilenes plikt i forhold til denne forskriften?
+Options: 
+a. Å informere passasjerer om forskriften ved hver tur
+b. Å oppbevare og forevise forskriften på oppfordring
+c. Å publisere forskriften på drosjeselskapets nettside
+d. Å ha forskriften synlig i drosjebilen til enhver tid
+Right Answer: 2
+Explanation: Forklaring: Forskriften skal oppbevares i drosjebilen og forevises på oppfordring fra passasjerene. Det er ikke et krav at forskriften skal være synlig til enhver tid eller informeres om ved hver tur.
+---
+Question Number: Spørsmål 6:
+Title: Spørsmål: Hva bestemmer maksimalprisene i løyvepliktig drosjetransport?
+Options: 
+a. Kommunale reguleringer
+b. Tilbud og etterspørsel
+c. Statlig fastsatte takster
+d. Individuelle avtaler mellom sjåfør og kunde
+Right Answer: 3
+Explanation: Forklaring: Maksimalprisene for løyvepliktig drosjetransport er statlig fastsatte. De er ikke bestemt av lokale reguleringer, markedskrefter eller individuelle avtaler.
+---
+Question Number: Spørsmål 7:
+Title: Spørsmål: Hva inkluderer grunnprisen i drosjetransport?
+Options: 
+a. Kun startprisen
+b. Startpris og et fast kilometerantall
+c. Startpris, tidstakst og eventuelle tillegg
+d. Kun tidstaksten
+Right Answer: 1
+Explanation: Forklaring: Grunnprisen refererer vanligvis til startprisen for en drosjetur, uten å inkludere tidstakst, avstand eller eventuelle tillegg.
+---
+Question Number: Spørsmål 8:
+Title: Spørsmål: Når benyttes tidstakst i drosjetransport?
+Options: 
+a. Kun under rushtrafikk
+b. Når kjøretøyet står stille eller kjører sakte
+c. På alle turer, uavhengig av trafikkforhold
+d. Kun på lengre turer
+Right Answer: 2
+Explanation: Forklaring: Tidstakst brukes når drosjen står stille eller kjører sakte, typisk i situasjoner med kø eller trafikklys. Den brukes ikke konsekvent på alle turer eller bare under spesifikke forhold som rushtrafikk eller lange turer.
+---
+Question Number: Spørsmål 9:
+Title: Spørsmål: Hvordan beregnes avstandstaksten i drosjetransport?
+Options: 
+a. Per passasjer
+b. Per kilometer uavhengig av antall passasjerer
+c. Varierer basert på tid på døgnet
+d. Per reisetid
+Right Answer: 2
+Explanation: Forklaring: Avstandstaksten i drosjetransport beregnes per kjørte kilometer, uavhengig av antall passasjerer. Den er ikke avhengig av reisetid, tid på døgnet eller antall passasjerer.
+---
+Question Number: Spørsmål 10:
+Title: Spørsmål: Hva er minsteprisen i drosjetransport?
+Options: 
+a. Fast pris for alle turer
+b. Minimumsbeløp en tur vil koste
+c. Startpris pluss et bestemt antall kilometer
+d. Startpris pluss tidstakst
+Right Answer: 2
+Explanation: Forklaring: Minsteprisen er det minimumsbeløpet en tur vil koste, uavhengig av distanse eller tid. Den er ikke en fast pris for alle turer eller en kombinasjon av startpris og andre takster.
+---
+Question Number: Spørsmål 11:
+Title: Spørsmål: Når kan det kreves tillegg for bestilling i drosjetransport?
+Options: 
+a. For alle turer som er bestilt på forhånd
+b. Kun for turer bestilt utenfor normal arbeidstid
+c. Når turen overstiger en viss distanse
+d. Kun for turer bestilt via en app
+Right Answer: 1
+Explanation: Forklaring: Tillegg for bestilling kan kreves for turer som er bestilt på forhånd, uavhengig av tidspunkt eller bestillingsmåte. De andre alternativene spesifiserer unødvendige begrensninger som ikke er dekket av forskriften.
+---
+Question Number: Spørsmål 12:
+Title: Spørsmål: Hva gjelder for tillegg for bagasje og spesialutstyr i drosjetransport?
+Options: 
+a. Alltid ekstra tillegg per bagasjeenhet
+b. Tillegg kun for spesialbagasje
+c. Ingen tillegg for bagasje
+d. Tillegg avhenger av størrelsen på bagasjen
+Right Answer: 2
+Explanation: Forklaring: Tillegg for bagasje og spesialutstyr gjelder vanligvis for spesielle tilfeller som spesialbagasje. Generell bagasje medfører vanligvis ikke ekstra kostnader.
+---
+Question Number: Spørsmål 13:
+Title: Spørsmål: Når gjelder tillegg for flere passasjerer i drosjetransport?
+Options: 
+a. For hver ekstra passasjer over to
+b. Kun for grupper på fem eller flere
+c. For alle passasjerer over én
+d. Ingen tillegg uansett antall passasjerer
+Right Answer: 1
+Explanation: Forklaring: Tillegg for flere passasjerer gjelder vanligvis når det er mer enn to passasjerer i bilen. De andre alternativene gir ikke riktig fremstilling av når tillegg for flere passasjerer er aktuelt.
+---
+Question Number: Spørsmål 14:
+Title: Spørsmål: Hva er reglene for tillegg for transport av dyr i drosje?
+Options: 
+a. Alltid tillegg for alle typer dyr
+b. Ingen tillegg for kjæledyr
+c. Tillegg kun for større dyr
+d. Tillegg avhenger av sjåførens skjønn
+Right Answer: 3
+Explanation: Forklaring: Det er vanlig å kreve tillegg for transport av større dyr, mens mindre kjæledyr som kan holdes på fanget ofte transporteres uten ekstra kostnad.
+---
+Question Number: Spørsmål 15:
+Title: Spørsmål: Når gjelder tillegg for helligdager og spesielle tider i drosjetransport?
+Options: 
+a. Bare på nasjonale helligdager
+b. På alle helligdager og i helgene
+c. Under lokale arrangementer og festivaler
+d. På helligdager, kvelder og netter
+Right Answer: 4
+Explanation: Forklaring: Tillegg for helligdager og spesielle tider gjelder typisk på helligdager, samt kvelder og netter. Dette inkluderer ikke kun nasjonale helligdager eller spesifikke lokale hendelser.
+---
+Question Number: Spørsmål 16:
+Title: Spørsmål: Når kan tillegg for elektronisk kommunikasjon kreves i drosjetransport?
+Options: 
+a. For alle turer bestilt via telefon eller app
+b. Kun for turer bestilt via SMS
+c. For turer der elektronisk betaling benyttes
+d. Ingen tillegg for elektronisk kommunikasjon
+Right Answer: 4
+Explanation: Forklaring: Det er vanligvis ikke tillatt å kreve tillegg for bruk av elektronisk kommunikasjon, som bestilling via telefon, app eller SMS, eller for elektronisk betaling.
+---
+Question Number: Spørsmål 17:
+Title: Spørsmål: Hva inngår i maksimalprisen for en drosjetur?
+Options: 
+a. Kun grunnpris og avstandstakst
+b. Grunnpris, tidstakst, tillegg og merverdiavgift
+c. Grunnpris og tidstakst, men ikke tillegg
+d. Kun avstandstakst og tillegg
+Right Answer: 2
+Explanation: Forklaring: Maksimalprisen for en drosjetur inkluderer alle komponenter som grunnpris, tidstakst, eventuelle tillegg, samt merverdiavgift. Den dekker ikke bare enkelte elementer av prisen.
+---
+Question Number: Spørsmål 18:
+Title: Spørsmål: Hva er kravet ved overholdelse av maksimalprisene?
+Options: 
+a. Sjåføren kan velge å ikke følge maksimalprisene
+b. Maksimalprisene kan overskrides ved lengre turer
+c. Maksimalprisene skal ikke overskrides
+d. Maksimalprisene gjelder kun i helgene
+Right Answer: 3
+Explanation: Forklaring: Kravet er at maksimalprisene ikke skal overskrides under noen omstendigheter. Sjåførene har ikke anledning til å velge bort eller overskride disse prisene.
+---
+Question Number: Spørsmål 19:
+Title: Spørsmål: Når kan det gis dispensasjon fra maksimalprisene?
+Options: 
+a. Aldri, under noen omstendigheter
+b. Ved spesielle arrangementer eller høytider
+c. Ved skriftlig avtale med kunden
+d. Ved ekstraordinære trafikkforhold
+Right Answer: 2
+Explanation: Forklaring: Dispensasjon fra maksimalprisene kan gis i spesielle tilfeller som under store arrangementer eller høytider. Dette er ikke en generell mulighet og krever spesielle omstendigheter.
+---
+Question Number: Spørsmål 20:
+Title: Spørsmål: Hva er drosjeselskapenes informasjonsplikt om priser?
+Options: 
+a. Å informere om prisene kun på forespørsel
+b. Å publisere prisene på selskapets nettside
+c. Å opplyse om prisene ved hver turstart
+d. Ingen spesifikk informasjonsplikt om priser
+Right Answer: 3
+Explanation: Forklaring: Dispensasjon fra maksimalprisene kan gis i spesielle tilfeller som under store arrangementer eller høytider. Dette er ikke en generell mulighet og krever spesielle omstendigheter.
+---
+Question Number: Spørsmål 21:
+Title: Spørsmål: Når kan det kreves tillegg for forhåndsbestilling av drosjetransport?
+Options: 
+a. Kun ved bestilling mer enn 24 timer i forveien
+b. For enhver forhåndsbestilling
+c. Kun ved bestilling til spesielle destinasjoner
+d. Ingen tillegg for forhåndsbestilling
+Right Answer: 2
+Explanation: Forklaring: Forskriften tillater tillegg for forhåndsbestilling av drosjetransport, uavhengig av når bestillingen finner sted eller destinasjonen for turen.
+---
+Question Number: Spørsmål 22:
+Title: § 10. Tillegg for bompenger mv. Spørsmål: Hvordan håndteres bompenger i drosjetransport?
+Options: 
+a. Alltid inkludert i grunnprisen
+b. Kan ikke kreves tillegg for
+c. Kreves tillegg for alle bompasseringer
+d. Kreves tillegg unntatt for passering av bomring
+Right Answer: 4
+Explanation: Forklaring: Forskriften tillater ikke tillegg for passering av bomring, men det kan kreves tillegg for andre bompasseringer, fergebilletter og parkeringsavgifter.
+---
+Question Number: Spørsmål 23:
+Title: § 11. Tillegg for rullestol Spørsmål: Når kan det kreves tillegg for drosjetransport av passasjerer i rullestol?
+Options: 
+a. For enhver transport av rullestolbrukere
+b. Kun når passasjeren sitter i rullestolen under transporten
+c. For all transport av rullestoler, uavhengig av bruk
+d. Ingen tillegg for rullestoltransport
+Right Answer: 2
+Explanation: Forklaring: Tillegg kan kreves når passasjeren sitter i rullestolen under transporten. Tillegg er ikke tillatt for transport av rullestoler som ikke er i bruk under turen.
+---
+Question Number: Spørsmål 24:
+Title: Spørsmål: Når kan det kreves tillegg for sykekjøring i drosje?
+Options: 
+a. For all sykekjøring
+b. Kun når pasienten er på båre
+c. For transport av smittefarlige personer
+d. B og C er riktige
+Right Answer: 1
+Explanation: Forklaring: Tillegg kan kreves for transport av personer på båre eller smittefarlige personer som nødvendiggjør desinfeksjon av drosjebilen. Det er ikke generelt tillegg for all sykekjøring.
+---
+Question Number: Spørsmål 25:
+Title: Spørsmål: Når kan det kreves tillegg for spesiell drosjetransport, som bryllup eller begravelse?
+Options: 
+a. Alltid for slike turer
+b. Kun ved forhåndsavtale
+c. Avhengig av distansen
+d. Ingen tillegg tillatt for slike turer
+Right Answer: 2
+Explanation: Forklaring: Tillegg for spesiell drosjetransport, som ved bryllup eller begravelse, kan kreves, men dette forutsetter en forhåndsavtale med kunden.
+---
+Question Number: Spørsmål 26:
+Title: Spørsmål: Er merverdiavgift inkludert i takstene som er fastsatt i forskriften?
+Options: 
+a. Nei, den legges til separat
+b. Ja, for alle takster og tillegg
+c. Kun for enkelte typer takster
+d. Ikke spesifisert i forskriften
+Right Answer: 2
+Explanation: Forklaring: Forskriften inkluderer merverdiavgift i alle takster og tillegg som er fastsatt, så det legges ikke til separat.
+---
+Question Number: Spørsmål 27:
+Title: § 15. Ikrafttreden Spørsmål: Når trådte denne forskriften i kraft?
+Options: 
+a. 1. januar 2010
+b. 1. september 2011
+c. 1. januar 2012
+d. Datoen er ikke spesifisert i forskriften
+Right Answer: 2
+Explanation: Forklaring: Forskriften trådte i kraft 1. september 2011, noe som er tydelig angitt i teksten.
+---
+Question Number: Spørsmål 28:
+Title: Spørsmål: Hva er et unntak fra anvendelsesområdet for forskriften om makspriser for drosjebilkjøring?
+Options: 
+a. Drosjetransport i mindre kommuner
+b. Drosjetransport avtalt etter anbudskonkurranse
+c. Drosjetransport med mer enn to passasjerer
+d. All offentlig betalt transport
+Right Answer: 2
+Explanation: Forklaring: Forskriften gjelder ikke for drosjetransport der vilkårene er fastsatt i avtale etter anbudskonkurranse. Dette inkluderer større transportavtaler og anbudskontrakter, som ikke reguleres av forskriften.
+---
+Question Number: Spørsmål 29:
+Title: Spørsmål: Hva innebærer parallelltakst i henhold til forskriften?
+Options: 
+a. Kun tidstakst
+b. Kun avstandstakst
+c. Kombinasjon av tidstakst og avstandstakst
+d. Fastpris for bestemte strekninger
+Right Answer: 3
+Explanation: Forklaring: Parallelltakst betyr en prisberegning basert på samtidig anvendelse av tidstakst og avstandstakst under hele turen, som er standard for all drosjetransport som omfattes av forskriften.
+---
+Question Number: Spørsmål 30:
+Title: Spørsmål: Hva gjelder når det tilbys fastpris eller gis et pristilbud for en drosjetur?
+Options: 
+a. Kunden skal betale fastprisen
+b. Kunden skal betale pristilbudet
+c. Kunden skal betale det laveste av pristilbud, fastpris eller parallelltakst
+d. Kunden skal alltid betale parallelltaksten
+Right Answer: 3
+Explanation: Forklaring: Kunden skal betale det som gir den laveste totale prisen av et eventuelt pristilbud, fastpris og parallelltakst med eventuelle tillegg. Dette sikrer at kunden betaler den mest fordelaktige prisen.
+---
+Question Number: Spørsmål 31:
+Title: Spørsmål: Hva er forbudt ved fastsettelse av starttakst for bestilt drosjetransport i ikke-maksimalprisregulerte områder?
+Options: 
+a. Å variere starttaksten med tilkjøringsavstand
+b. Å ha en starttakst
+c. Å inkludere tidstakst i starttaksten
+d. Å tilby fastpris i stedet for starttakst
+Right Answer: 1
+Explanation: Forklaring: I ikke-maksimalprisregulerte områder skal eventuell starttakst for bestilt drosjetransport være uavhengig av tilkjøring, noe som betyr at starttaksten ikke kan variere med tilbakelagt avstand eller medgått tid for tilkjøring.
+---
+Question Number: Spørsmål 32:
+Title: Spørsmål: Hva er plikten til drosjeeiere i henhold til forskriften om å oppbevare og forevise forskriften?
+Options: 
+a. Å vise forskriften ved hver turstart
+b. Å ha forskriften synlig i bilen til enhver tid
+c. Å oppbevare og forevise forskriften på oppfordring fra passasjerer
+d. Å informere passasjerer om forskriften ved hver tur
+Right Answer: 3
+Explanation: Forklaring: Forskriften skal oppbevares i drosjebilen og forevises på oppfordring fra passasjerene. Det er ikke nødvendig å vise eller informere om forskriften ved hver turstart eller ha den synlig hele tiden.
+---
+Question Number: Spørsmål 33:
+Title: Spørsmål: Hva er regelen for vederlag i maksimalprisregulert drosjetransport?
+Options: 
+a. Det kan kreves ekstra tillegg utover maksimalprisene
+b. Kun fastsatte takster og tillegg kan kreves
+c. Sjåføren kan sette egne priser etter eget skjønn
+d. Prisene kan endres basert på tilbud og etterspørsel
+Right Answer: 2
+Explanation: Forklaring: For maksimalprisregulert drosjetransport er det kun tillatt å kreve vederlag i henhold til de takstene og tilleggene som er fastsatt i forskriften. Det er ikke anledning til å kreve ekstra tillegg eller høyere vederlag utover dette.
+---
+Question Number: Spørsmål 34:
+Title: Spørsmål: Hvordan håndteres tilkjøringsvederlag for turer under 10 kilometer?
+Options: 
+a. Det kreves alltid tillegg for tilkjøring
+b. Det kreves ikke vederlag for tilkjøring opp til 10 kilometer
+c. Tilkjøringsvederlaget øker proporsjonalt med distansen
+d. Det kreves en fast starttakst uavhengig av distansen
+Right Answer: 2
+Explanation: Forklaring: For tilkjøring som er 10 kilometer eller mindre, kreves det ikke vederlag for tilkjøringen. Dette er inkludert i starttaksten ved bestilling. For tilkjøringer ut over 10 kilometer, kan det kreves vederlag.
+---
+Question Number: Spørsmål 35:
+Title: Spørsmål: Hvilke tidspunkter kan det kreves tillegg til drosjetakstene?
+Options: 
+a. I helgene og på helligdager
+b. På kveldstid og i helgene
+c. På helligdager, kvelder og netter
+d. Det kan ikke kreves tillegg på bestemte tidspunkter
+Right Answer: 3
+Explanation: Forklaring: Det kan kreves prosentvise tillegg til takstene i forskjellige dag- og tidsrom, inkludert kvelder, netter, helger og helligdager. Dette varierer etter dag og klokkeslett.
+---
+Question Number: Spørsmål 36:
+Title: Spørsmål: Når kan det kreves tillegg for forhåndsbestilling av drosje?
+Options: 
+a. Kun for bestillinger gjort mer enn 24 timer i forveien
+b. For enhver bestilling til et bestemt tidspunkt
+c. Kun for bestillinger til spesielle destinasjoner
+d. Ingen tillegg for forhåndsbestilling
+Right Answer: 2
+Explanation: Forklaring: Det kan kreves tillegg for bestilling av drosjetransport til et bestemt tidspunkt, uavhengig av hvor lang tid i forveien bestillingen er gjort eller destinasjonen for turen.
+---
+Question Number: Spørsmål 37:
+Title: Spørsmål: Hvordan håndteres tillegg for bompasseringer i drosjetransport?
+Options: 
+a. Alltid tillegg for alle bompasseringer
+b. Ingen tillegg for passering av bomring
+c. Tillegg kun for bompasseringer på lange turer
+d. Fast tillegg uavhengig av antall passeringer
+Right Answer: 2
+Explanation: Forklaring: Det kan ikke kreves tillegg for passering av bomring, men det kan kreves tillegg for å dekke utgifter til andre bompasseringer, fergebilletter og parkeringsavgift. Dette inkluderer også tilkjøring og returkjøring uten passasjer.
+---
