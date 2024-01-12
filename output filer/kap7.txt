@@ -1,4 +1,4 @@
-Question Number: Spørsmål 1:
+Spørsmål 1:
 Title: Hva er forskjellen mellom direkte og indirekte kostnader i en drosjevirksomhet?
 Options: 
 A) Direkte kostnader er kun drivstoffkostnader, mens indirekte kostnader er kun lønnskostnader.
@@ -6,9 +6,9 @@ B) Direkte kostnader kan spores direkte til en spesifikk drosjetur, mens indirek
 C) Direkte kostnader påvirkes av sesongvariasjoner, mens indirekte kostnader forblir konstante.
 D) Direkte kostnader er alltid høyere enn indirekte kostnader.
 Right Answer: 2
-Explanation: Direkte kostnader er de kostnadene som direkte kan knyttes til en bestemt tjeneste eller produkt, i dette tilfellet en drosjetur. Eksempler kan være drivstoffkostnader for en spesifikk tur. Indirekte kostnader er de kostnadene som ikke direkte kan tilordnes en enkelt tur, men som er en del av driften av hele virksomheten, som husleie eller administrasjonskostnader.
+Direkte kostnader er de kostnadene som direkte kan knyttes til en bestemt tjeneste eller produkt, i dette tilfellet en drosjetur. Eksempler kan være drivstoffkostnader for en spesifikk tur. Indirekte kostnader er de kostnadene som ikke direkte kan tilordnes en enkelt tur, men som er en del av driften av hele virksomheten, som husleie eller administrasjonskostnader.
 ---
-Question Number: Spørsmål 2:
+Spørsmål 2:
 Title: Hva beskriver best hovedformålet med et regnskap for en drosjevirksomhet?
 Options: 
 A) Å vise virksomhetens markedsverdi.
@@ -16,9 +16,9 @@ B) Å dokumentere virksomhetens inntekter og utgifter i løpet av en bestemt per
 C) Å beregne hvor mye skatt virksomheten skal betale neste år.
 D) Å vurdere sjåførenes kjøreferdigheter.
 Right Answer: 2
-Explanation: Regnskapet gir en oversikt over virksomhetens økonomiske transaksjoner, herunder inntekter og utgifter, over en bestemt regnskapsperiode. Det gir viktige økonomiske data som kan brukes til analyse, beslutningstaking, og for å oppfylle lovbestemte rapporteringskrav.
+Regnskapet gir en oversikt over virksomhetens økonomiske transaksjoner, herunder inntekter og utgifter, over en bestemt regnskapsperiode. Det gir viktige økonomiske data som kan brukes til analyse, beslutningstaking, og for å oppfylle lovbestemte rapporteringskrav.
 ---
-Question Number: Spørsmål 3:
+Spørsmål 3:
 Title: Hva er hovedhensikten med en investering for en drosjevirksomhet?
 Options: 
 A) Å øke bedriftens omdømme på sosiale medier.
@@ -26,9 +26,9 @@ B) Å kjøpe inn snacks og drikke for sjåførene.
 C) Å skaffe kortsiktig likviditet for daglige utgifter.
 D) Å sette penger eller ressurser i et prosjekt med forventning om å oppnå en fremtidig avkastning.
 Right Answer: 4
-Explanation: En investering handler om å plassere penger, tid eller andre ressurser i en aktivitet eller et objekt med forventningen om en positiv avkastning i fremtiden. For en drosjevirksomhet kan dette være å investere i nye kjøretøyer, teknologi eller opplæring av ansatte for å forbedre tjenesten og dermed øke inntektene i fremtiden.
+En investering handler om å plassere penger, tid eller andre ressurser i en aktivitet eller et objekt med forventningen om en positiv avkastning i fremtiden. For en drosjevirksomhet kan dette være å investere i nye kjøretøyer, teknologi eller opplæring av ansatte for å forbedre tjenesten og dermed øke inntektene i fremtiden.
 ---
-Question Number: Spørsmål 4:
+Spørsmål 4:
 Title: Hvilken av de følgende alternativene beskriver best hensikten med finansiering for en drosjevirksomhet?
 Options: 
 A) Å oppnå mediedekning for virksomheten.
@@ -36,9 +36,9 @@ B) Å sikre nødvendige midler for å starte, drive eller utvide virksomheten.
 C) Å redusere antall ansatte for å spare kostnader.
 D) Å sette pris på drosjetjenester basert på kundetilfredshet.
 Right Answer: 2
-Explanation: Finansiering handler om å sikre de økonomiske ressursene som er nødvendige for å realisere bedriftens mål. For en drosjevirksomhet kan dette inkludere å skaffe midler til å kjøpe nye biler, implementere teknologiske løsninger eller ekspandere virksomheten til nye områder.
+Finansiering handler om å sikre de økonomiske ressursene som er nødvendige for å realisere bedriftens mål. For en drosjevirksomhet kan dette inkludere å skaffe midler til å kjøpe nye biler, implementere teknologiske løsninger eller ekspandere virksomheten til nye områder.
 ---
-Question Number: Spørsmål 5:
+Spørsmål 5:
 Title: Hva er hovedformålet med budsjettering i en drosjevirksomhet?
 Options: 
 A) Å fastsette daglige priser på drosjetjenester.
@@ -46,5 +46,5 @@ B) Å anslå inntektene og utgiftene for en bestemt fremtidig periode.
 C) Å beregne drivstofforbruk per tur.
 D) Å bestemme antall drosjer i en flåte.
 Right Answer: 2
-Explanation: Budsjettering handler om å lage en økonomisk plan for en fremtidig periode. Dette hjelper drosjevirksomheter med å forutse potensielle inntekter og kostnader, slik at de kan ta informerte beslutninger, styre ressurser effektivt, og sikre økonomisk stabilitet.
+Budsjettering handler om å lage en økonomisk plan for en fremtidig periode. Dette hjelper drosjevirksomheter med å forutse potensielle inntekter og kostnader, slik at de kan ta informerte beslutninger, styre ressurser effektivt, og sikre økonomisk stabilitet.
 ---

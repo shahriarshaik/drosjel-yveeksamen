@@ -1,4 +1,4 @@
-Question Number: Spørsmål 1:
+Spørsmål 1:
 Title: Hva kreves ifølge Yrkestransportlova § 9 for den som vil drive persontransport utenfor rute med motorvogn registrert for inntil 9 personer?
 Options: 
 A) Man må ha en særskilt bussløyve.
@@ -6,9 +6,9 @@ B) Man må ha en særskilt drosjeløyve.
 C) Det kreves ingen spesiell løyve.
 D) Man må ha en spesiell løyve utstedt av Samferdselsdepartementet.
 Right Answer: 2
-Explanation: Yrkestransportlova § 9 (1) presiserer at den som ønsker å drive persontransport utenfor rute med motorvogn registrert for inntil 9 personer, må ha en særskilt drosjeløyve.
+Yrkestransportlova § 9 (1) presiserer at den som ønsker å drive persontransport utenfor rute med motorvogn registrert for inntil 9 personer, må ha en særskilt drosjeløyve.
 ---
-Question Number: Spørsmål 2:
+Spørsmål 2:
 Title: Hvilket krav kan løyvestyresmakta gi ifølge Yrkestransportlova § 9 angående drosjekjøring innenfor en kommune?
 Options: 
 A) Krav om elektriske drosjer.
@@ -16,9 +16,9 @@ B) Krav om at alle drosjer skal ha plass til minimum 5 passasjerer.
 C) Krav om at drosjekjøring skal drives med motorvogn som har en øvre grense for miljøskadelig utslipp.
 D) Krav om at alle drosjesjåfører må ha minimum 5 års erfaring.
 Right Answer: 3
-Explanation: Yrkestransportlova § 9 (2) sier at løyvestyresmakta kan gi påbud om at drosjekjøring innenfor en kommune skal drives med motorvogn som har en øvre grense for miljøskadelig utslipp.
+Yrkestransportlova § 9 (2) sier at løyvestyresmakta kan gi påbud om at drosjekjøring innenfor en kommune skal drives med motorvogn som har en øvre grense for miljøskadelig utslipp.
 ---
-Question Number: Spørsmål 3:
+Spørsmål 3:
 Title: Hva gir Yrkestransportforskrift § 48 d) løyvemyndigheten mulighet til i særskilte tilfeller?
 Options: 
 A) Dispensasjon fra kravet om loggføring av drosjeturer.
@@ -26,9 +26,9 @@ B) Dispensasjon fra kravet om miljøvennlige drosjer.
 C) Dispensasjon fra kravet om taksameter i drosje.
 D) Dispensasjon fra kravet om minimum antall drosjeløyver i en kommune.
 Right Answer: 1
-Explanation: Yrkestransportforskrift § 48 d) gir løyvemyndigheten mulighet, i særskilte tilfeller, til å gi dispensasjon fra kravet om loggføring i yrkestransportloven § 9 (3).
+Yrkestransportforskrift § 48 d) gir løyvemyndigheten mulighet, i særskilte tilfeller, til å gi dispensasjon fra kravet om loggføring i yrkestransportloven § 9 (3).
 ---
-Question Number: Spørsmål 4:
+Spørsmål 4:
 Title: Hva er hovedhensikten med kravet som Yrkestransportforskrift § 48 d) gir mulighet for dispensasjon fra?
 Options: 
 A) Å sikre kvaliteten på drosjesjåfører.
@@ -36,5 +36,5 @@ B) Å sikre økonomisk transparens for drosjeeiere.
 C) Å overvåke og registrere drosjens ruter for offentlig innsyn.
 D) Å ha en løpende registrering av den geografiske posisjonen til drosja.
 Right Answer: 4
-Explanation: Yrkestransportforskrift § 48 d) gir mulighet for dispensasjon fra kravet om loggføring av drosjeturer, spesielt med hensyn til løpende registrering av drosjens geografiske posisjon.
+Yrkestransportforskrift § 48 d) gir mulighet for dispensasjon fra kravet om loggføring av drosjeturer, spesielt med hensyn til løpende registrering av drosjens geografiske posisjon.
 ---

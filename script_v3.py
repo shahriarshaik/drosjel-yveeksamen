@@ -1,21 +1,18 @@
 import os
+import json
 from bs4 import BeautifulSoup
 
 def process_html_file(file_name):
-
     # Get the base name of the file without the extension
     base_name = os.path.splitext(os.path.basename(file_name))[0]
-    output_file_name = os.path.join('output filer', base_name + '.txt')
+    output_file_name = os.path.join('JSON filer', base_name + '.json')
 
-    # Open the HTML file and read its content
+    # Open the HTML file and parse it with BeautifulSoup
     with open(file_name, 'r', encoding='utf-8') as html_file:
-        html_content = html_file.read()
+        soup = BeautifulSoup(html_file, 'html.parser')
 
-    # Parse the HTML content
-    soup = BeautifulSoup(html_content, 'html.parser')
-
-    # Find all divs with class 'course_quiz_element'
-    quiz_elements = soup.find_all('div', class_='course_quiz_element')
+    # Find all quiz elements in the parsed HTML
+    quiz_elements = soup.find_all('div', class_='quiz_element')
 
     # Open the output file
     with open(output_file_name, 'w', encoding='utf-8') as output_file:
@@ -32,14 +29,18 @@ def process_html_file(file_name):
             right_answer = right_answer_element.get('value') if right_answer_element else 'Not found'
             explanation_element = quiz_element.find('div', class_='explanationText')
             explanation = ' '.join(explanation_element.text.split()) if explanation_element else 'Not found'
-            
-            # Write the parsed data to the output file
-            output_file.write(f'{qnum}\n')
-            output_file.write(f'Title: {title}\n')
-            output_file.write(f'Options: \n{options}\n')  # Write options to file
-            output_file.write(f'Right Answer: {right_answer}\n')
-            output_file.write(f'{explanation}\n')
-            output_file.write('---\n')
+
+            # Before writing to the JSON file
+            data = {
+                'Question Number': qnum,
+                'Title': title,
+                'Options': options,
+                'Right Answer': right_answer,
+                'Explanation': explanation
+            }
+            print(f"data: {data}")  # Debug print
+            json.dump(data, output_file)
+            output_file.write('\n')
 
 def process_all_html_files_in_folder(folder_path):
     # Get a list of all files in the directory

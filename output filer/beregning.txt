@@ -1,4 +1,4 @@
-Question Number: Spørsmål 1:
+Spørsmål 1:
 Title: En drosjeeier har hatt inntekter på 280 000 NOK inkludert merverdiavgift (MVA) i en periode. Hvis MVA-satsen er 12%, hva blir den utgående MVA for denne perioden?
 Options: 
 a) 25 000 NOK
@@ -6,9 +6,9 @@ b) 30 000 NOK
 35700
 d) 35 000 NOK
 Right Answer: 2
-Explanation: Dette er det riktige svaret. Når totalinntekten på 280 000 NOK deles med 1.12, får vi inntekt eksklusive MVA på omtrent 250 000 NOK. 12% av dette beløpet, som er den utgående MVA, blir da 30 000 NOK.
+Dette er det riktige svaret. Når totalinntekten på 280 000 NOK deles med 1.12, får vi inntekt eksklusive MVA på omtrent 250 000 NOK. 12% av dette beløpet, som er den utgående MVA, blir da 30 000 NOK.
 ---
-Question Number: Spørsmål 2:
+Spørsmål 2:
 Title: En drosjeeier har hatt inntekter på 350 000 NOK inkludert merverdiavgift (MVA) i en periode. Hvis MVA-satsen er 12%, hva blir den utgående MVA for denne perioden?
 Options: 
 a) 37 500 NOK
@@ -16,9 +16,9 @@ b) 40 000 NOK
 c) 42 000 NOK
 d) 45 000 NOK
 Right Answer: 1
-Explanation: a) 37 500 NOK: Dette er det riktige svaret. För att beräkna den utgående MVA, må vi først finne beløpet eksklusive MVA: 350 000 NOK / 1.12 ≈ 312 500 NOK. Deretter beregner vi 12% av dette beløpet som blir: 312 500 NOK × 0.12 = 37 500 NOK.
+a) 37 500 NOK: Dette er det riktige svaret. För att beräkna den utgående MVA, må vi først finne beløpet eksklusive MVA: 350 000 NOK / 1.12 ≈ 312 500 NOK. Deretter beregner vi 12% av dette beløpet som blir: 312 500 NOK × 0.12 = 37 500 NOK.
 ---
-Question Number: Spørsmål 3:
+Spørsmål 3:
 Title: En drosjeeier har hatt inntekter på 420 000 NOK inkludert merverdiavgift (MVA) i en periode. Hvis MVA-satsen er 12%, hva blir den utgående MVA for denne perioden?
 Options: 
 a) 45 000 NOK
@@ -26,9 +26,9 @@ b) 48 000 NOK
 c) 50 000 NOK
 d) 52 000 NOK
 Right Answer: 1
-Explanation: Dette er det riktige svaret. För att beräkna den utgående MVA, må vi først finne beløpet eksklusive MVA. Vi deler de totale inntektene inkludert MVA med 1.12: 420 000 NOK / 1.12 ≈ 375 000 NOK. Deretter beregner vi 12% av dette beløpet, som blir: 375 000 NOK × 0.12 = 45 000 NOK.
+Dette er det riktige svaret. För att beräkna den utgående MVA, må vi først finne beløpet eksklusive MVA. Vi deler de totale inntektene inkludert MVA med 1.12: 420 000 NOK / 1.12 ≈ 375 000 NOK. Deretter beregner vi 12% av dette beløpet, som blir: 375 000 NOK × 0.12 = 45 000 NOK.
 ---
-Question Number: Spørsmål 4:
+Spørsmål 4:
 Title: En drosjeeier har hatt inntekter på 500 000 NOK inkludert merverdiavgift (MVA) i en periode. Hvis MVA-satsen er 12%, hva blir den utgående MVA for denne perioden?
 Options: 
 a) 52 000 NOK
@@ -36,5 +36,5 @@ b) 53 571 NOK
 c) 55 000 NOK
 d) 56 000 NOK
 Right Answer: 2
-Explanation: b) 53 571 NOK: Dette er det riktige svaret. För att beräkna den utgående MVA, må vi først finne beløpet eksklusive MVA. Vi deler de totale inntektene inkludert MVA med 1.12: 500 000 NOK / 1.12 ≈ 446 429 NOK. Deretter beregner vi 12% av dette beløpet, som blir: 446 429 NOK × 0.12 ≈ 53 571 NOK.
+b) 53 571 NOK: Dette er det riktige svaret. För att beräkna den utgående MVA, må vi først finne beløpet eksklusive MVA. Vi deler de totale inntektene inkludert MVA med 1.12: 500 000 NOK / 1.12 ≈ 446 429 NOK. Deretter beregner vi 12% av dette beløpet, som blir: 446 429 NOK × 0.12 ≈ 53 571 NOK.
 ---

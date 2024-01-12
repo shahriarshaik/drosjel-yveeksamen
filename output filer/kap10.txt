@@ -1,4 +1,4 @@
-Question Number: Spørsmål 1:
+Spørsmål 1:
 Title: Hva beskriver begrepet "forskuddstrekk"?
 Options: 
 A) Det er skatten som blir trukket direkte fra lønnen din før den blir utbetalt.
@@ -6,9 +6,9 @@ B) Det er en betaling som skattytere betaler i forskudd basert på forventet inn
 C) Det er skatten man betaler etter å ha mottatt skatteoppgjøret.
 D) Det er en ekstra skatt for de som har høy inntekt.
 Right Answer: 1
-Explanation: Forskuddstrekk er skatten som arbeidsgiver trekker fra lønnen til den ansatte hver måned. Denne skatten blir trukket før lønnen blir utbetalt, og beløpet blir sendt direkte til skattemyndighetene.
+Forskuddstrekk er skatten som arbeidsgiver trekker fra lønnen til den ansatte hver måned. Denne skatten blir trukket før lønnen blir utbetalt, og beløpet blir sendt direkte til skattemyndighetene.
 ---
-Question Number: Spørsmål 2:
+Spørsmål 2:
 Title: Hvilket av følgende begreper beskriver den skatten som betales etter å ha mottatt skatteoppgjøret, hvis man har betalt for lite skatt i løpet av året?
 Options: 
 A) Forskuddstrekk
@@ -16,9 +16,9 @@ B) Etterskuddsskatt
 C) Forskuddsskatt
 D) Moms
 Right Answer: 2
-Explanation: Etterskuddsskatt er skatten man betaler etter at skatteoppgjøret er mottatt. Dette kan oppstå når det viser seg at man har betalt for lite skatt i løpet av året.
+Etterskuddsskatt er skatten man betaler etter at skatteoppgjøret er mottatt. Dette kan oppstå når det viser seg at man har betalt for lite skatt i løpet av året.
 ---
-Question Number: Spørsmål 3:
+Spørsmål 3:
 Title: Hva beskriver skatten som forhåndsbetales av selvstendig næringsdrivende basert på forventet inntekt for det kommende året?
 Options: 
 A) Forskuddsskatt
@@ -26,9 +26,9 @@ B) Forskuddstrekk
 C) Etterskuddsskatt
 D) Bedriftsskatt
 Right Answer: 1
-Explanation: Forskuddsskatt er skatt som forhåndsbetales av selvstendig næringsdrivende og andre skattytere basert på en estimert inntekt for det kommende året. Dette systemet er lagt opp slik for å unngå store skattekrav ved årets slutt.
+Forskuddsskatt er skatt som forhåndsbetales av selvstendig næringsdrivende og andre skattytere basert på en estimert inntekt for det kommende året. Dette systemet er lagt opp slik for å unngå store skattekrav ved årets slutt.
 ---
-Question Number: Spørsmål 4:
+Spørsmål 4:
 Title: Hva er en av de viktigste forpliktelsene en arbeidsgiver har vedrørende skattetrekk fra en arbeidstakers lønn?
 Options: 
 A) Å betale arbeidstakers skatt direkte til skatteetaten månedlig.
@@ -36,9 +36,9 @@ B) Å holde tilbake et bestemt beløp for skattetrekk og betale det inn til skat
 C) Å betale hele skatten på vegne av arbeidstakeren ved årets slutt.
 D) Å sørge for at arbeidstakeren selv betaler inn skattetrekket hver måned.
 Right Answer: 2
-Explanation: Arbeidsgiveren har ansvar for å trekke skatt av arbeidstakers lønn basert på den skattekortinformasjonen som er tilgjengelig. Dette beløpet holdes tilbake fra lønnen og betales deretter inn til skatteoppkreveren. Innbetalingsfrekvensen kan variere, men det er ofte snakk om terminvise innbetalinger.
+Arbeidsgiveren har ansvar for å trekke skatt av arbeidstakers lønn basert på den skattekortinformasjonen som er tilgjengelig. Dette beløpet holdes tilbake fra lønnen og betales deretter inn til skatteoppkreveren. Innbetalingsfrekvensen kan variere, men det er ofte snakk om terminvise innbetalinger.
 ---
-Question Number: Spørsmål 5:
+Spørsmål 5:
 Title: Hva må en arbeidsgiver gjøre dersom en arbeidstaker ikke har levert skattekort?
 Options: 
 A) Ikke trekke skatt fra lønnen før skattekortet er mottatt.
@@ -46,9 +46,9 @@ B) Trekke 50 % skatt av arbeidstakerens lønn.
 C) Trekke en standardprosent fastsatt av skatteetaten.
 D) Gi arbeidstakeren skattefri lønn.
 Right Answer: 3
-Explanation: Dersom en arbeidstaker ikke leverer skattekort til arbeidsgiver, skal arbeidsgiver trekke en tabellskatt etter en standardprosent som skatteetaten har fastsatt.
+Dersom en arbeidstaker ikke leverer skattekort til arbeidsgiver, skal arbeidsgiver trekke en tabellskatt etter en standardprosent som skatteetaten har fastsatt.
 ---
-Question Number: Spørsmål 6:
+Spørsmål 6:
 Title: Hvor lenge er en drosjeeier pålagt å oppbevare bokføringsmateriale, ifølge norsk bokføringslovgivning?
 Options: 
 A) 2 år.
@@ -56,9 +56,9 @@ B) 3 år.
 C) 5 år.
 D) 10 år.
 Right Answer: 3
-Explanation: I henhold til norsk bokføringslovgivning er drosjeeiere, som andre næringsdrivende, pålagt å oppbevare bokføringsmateriale i minst 5 år fra utgangen av bokføringsåret.
+I henhold til norsk bokføringslovgivning er drosjeeiere, som andre næringsdrivende, pålagt å oppbevare bokføringsmateriale i minst 5 år fra utgangen av bokføringsåret.
 ---
-Question Number: Spørsmål 7:
+Spørsmål 7:
 Title: Hvilket av følgende utsagn er korrekt angående kvitteringer for drosjetransport?
 Options: 
 A) Kvitteringer trenger ikke dateres så lenge beløpet er notert.
@@ -66,5 +66,5 @@ B) Det er ikke nødvendig å oppbevare kvitteringer for turer under 100 NOK.
 C) Drosjeeiere er pålagt å utstede kvittering for hver utført transporttjeneste, uavhengig av beløpet.
 D) Kvitteringer for drosjetransport trenger ikke inneholde informasjon om turen eller beløpet.
 Right Answer: 3
-Explanation: I henhold til bokføringslovgivningen er drosjeeiere pålagt å utstede kvitteringer for alle turer, uansett hvor små beløpene er. Dette sikrer korrekt bokføring og mulighet for revisjon.
+I henhold til bokføringslovgivningen er drosjeeiere pålagt å utstede kvitteringer for alle turer, uansett hvor små beløpene er. Dette sikrer korrekt bokføring og mulighet for revisjon.
 ---

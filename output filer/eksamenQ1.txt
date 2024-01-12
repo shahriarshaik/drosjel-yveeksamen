@@ -1,4 +1,4 @@
-Question Number: Spørsmål 1:
+Spørsmål 1:
 Title: Spørsmål: Hvem er ansvarlig for å innføre og utøve internkontroll i en virksomhet?
 Options: 
 a) Kun arbeidstakerne
@@ -6,9 +6,9 @@ b) Kun ledelsen
 c) Både ledelsen og arbeidstakerne
 d) Eksterne konsulenter
 Right Answer: 3
-Explanation: Forklaring: Ledelsen er ansvarlig for å innføre og utøve internkontroll, men dette skal skje i samarbeid med arbeidstakerne og deres representanter.
+Forklaring: Ledelsen er ansvarlig for å innføre og utøve internkontroll, men dette skal skje i samarbeid med arbeidstakerne og deres representanter.
 ---
-Question Number: Spørsmål 2:
+Spørsmål 2:
 Title: Hvilken organisasjonsform karakteriseres av at to eller flere deltakere samarbeider om en virksomhet, hvor alle deltakerne har et personlig, solidarisk ansvar for selskapets forpliktelser?
 Options: 
 A) Aksjeselskap (AS)
@@ -16,9 +16,9 @@ B) Samvirkeforetak
 C) Norsk avdeling av utenlandske foretak (NUF)
 D) Ansvarlig selskap (ANS)
 Right Answer: 4
-Explanation: I et ANS har alle deltakerne personlig, solidarisk ansvar for selskapets forpliktelser. Dette betyr at hver deltaker kan holdes ansvarlig for hele selskapets gjeld.
+I et ANS har alle deltakerne personlig, solidarisk ansvar for selskapets forpliktelser. Dette betyr at hver deltaker kan holdes ansvarlig for hele selskapets gjeld.
 ---
-Question Number: Spørsmål 3:
+Spørsmål 3:
 Title: Hvilken organisasjonsform har personlig ansvar for alle virksomhetens forpliktelser, og hvor eieren selv er identisk med virksomheten?
 Options: 
 A) Aksjeselskap (AS)
@@ -26,9 +26,9 @@ B) Ansvarlig selskap (ANS)
 C) Enkeltpersonforetak (ENK)
 D) Norsk avdeling av utenlandske foretak (NUF)
 Right Answer: 3
-Explanation: I et enkeltpersonforetak er eieren personlig ansvarlig for all gjeld og andre forpliktelser virksomheten påtar seg. Dette fordi eieren og virksomheten er juridisk sett én og samme enhet.
+I et enkeltpersonforetak er eieren personlig ansvarlig for all gjeld og andre forpliktelser virksomheten påtar seg. Dette fordi eieren og virksomheten er juridisk sett én og samme enhet.
 ---
-Question Number: Spørsmål 4:
+Spørsmål 4:
 Title: Hvor lenge er en drosjeeier pålagt å oppbevare bokføringsmateriale, ifølge norsk bokføringslovgivning?
 Options: 
 A) 2 år.
@@ -36,9 +36,9 @@ B) 3 år.
 C) 5 år.
 D) 10 år.
 Right Answer: 3
-Explanation: I henhold til norsk bokføringslovgivning er drosjeeiere, som andre næringsdrivende, pålagt å oppbevare bokføringsmateriale i minst 5 år fra utgangen av bokføringsåret.
+I henhold til norsk bokføringslovgivning er drosjeeiere, som andre næringsdrivende, pålagt å oppbevare bokføringsmateriale i minst 5 år fra utgangen av bokføringsåret.
 ---
-Question Number: Spørsmål 5:
+Spørsmål 5:
 Title: Hvilket av følgende begreper beskriver den skatten som betales etter å ha mottatt skatteoppgjøret, hvis man har betalt for lite skatt i løpet av året?
 Options: 
 A) Forskuddstrekk
@@ -46,9 +46,9 @@ B) Etterskuddsskatt
 C) Forskuddsskatt
 D) Moms
 Right Answer: 2
-Explanation: Etterskuddsskatt er skatten man betaler etter at skatteoppgjøret er mottatt. Dette kan oppstå når det viser seg at man har betalt for lite skatt i løpet av året.
+Etterskuddsskatt er skatten man betaler etter at skatteoppgjøret er mottatt. Dette kan oppstå når det viser seg at man har betalt for lite skatt i løpet av året.
 ---
-Question Number: Spørsmål 6:
+Spørsmål 6:
 Title: Hva beskriver begrepet "forskuddstrekk"?
 Options: 
 A) Det er skatten som blir trukket direkte fra lønnen din før den blir utbetalt.
@@ -56,9 +56,9 @@ B) Det er en betaling som skattytere betaler i forskudd basert på forventet inn
 C) Det er skatten man betaler etter å ha mottatt skatteoppgjøret.
 D) Det er en ekstra skatt for de som har høy inntekt.
 Right Answer: 1
-Explanation: Forskuddstrekk er skatten som arbeidsgiver trekker fra lønnen til den ansatte hver måned. Denne skatten blir trukket før lønnen blir utbetalt, og beløpet blir sendt direkte til skattemyndighetene.
+Forskuddstrekk er skatten som arbeidsgiver trekker fra lønnen til den ansatte hver måned. Denne skatten blir trukket før lønnen blir utbetalt, og beløpet blir sendt direkte til skattemyndighetene.
 ---
-Question Number: Spørsmål 7:
+Spørsmål 7:
 Title: En drosjeeier har hatt inntekter på 280 000 NOK inkludert merverdiavgift (MVA) i en periode. Hvis MVA-satsen er 12%, hva blir den utgående MVA for denne perioden?
 Options: 
 a) 25 000 NOK
@@ -66,9 +66,9 @@ b) 30 000 NOK
 c) 35700 NOK
 d) 35 000 NOK
 Right Answer: 2
-Explanation: Dette er det riktige svaret. Når totalinntekten på 280 000 NOK deles med 1.12, får vi inntekt eksklusive MVA på omtrent 250 000 NOK. 12% av dette beløpet, som er den utgående MVA, blir da 30 000 NOK.
+Dette er det riktige svaret. Når totalinntekten på 280 000 NOK deles med 1.12, får vi inntekt eksklusive MVA på omtrent 250 000 NOK. 12% av dette beløpet, som er den utgående MVA, blir da 30 000 NOK.
 ---
-Question Number: Spørsmål 8:
+Spørsmål 8:
 Title: I hvilke norske kommuner kan det ikke tildeles enerett for bestemte tjenester eller rettigheter?
 Options: 
 A) Kommuner med mer enn 15 000 innbyggere og en befolkningstetthet på mindre enn 50 innbyggere per km².
@@ -76,9 +76,9 @@ B) Kommuner med 20 000 innbyggere eller flere, som også har en befolkningstetth
 C) Kommuner med mindre enn 20 000 innbyggere, uansett befolkningstetthet.
 D) Alle kommuner med en befolkningstetthet på mindre enn 80 innbyggere per km².
 Right Answer: 2
-Explanation: Not found
+Not found
 ---
-Question Number: Spørsmål 9:
+Spørsmål 9:
 Title: Hvem har det primære ansvaret for å sørge for at en drosje er i teknisk forsvarlig stand før den tas i bruk?
 Options: 
 A) Passasjeren som bestiller drosjen.
@@ -86,9 +86,9 @@ B) Drosjesentralen.
 C) Drosjesjåføren som skal kjøre drosjen.
 D) Verkstedet som sist utførte service på drosjen.
 Right Answer: 3
-Explanation: Det er drosjesjåførens ansvar å sørge for at kjøretøyet er i teknisk forsvarlig stand før det tas i bruk. Sjåføren må derfor utføre nødvendige sjekker og sikre at bilen overholder alle tekniske krav.
+Det er drosjesjåførens ansvar å sørge for at kjøretøyet er i teknisk forsvarlig stand før det tas i bruk. Sjåføren må derfor utføre nødvendige sjekker og sikre at bilen overholder alle tekniske krav.
 ---
-Question Number: Spørsmål 10:
+Spørsmål 10:
 Title: Hvorfor er det viktig at et taksameter er godkjent av Justervesenet?
 Options: 
 A) For å sikre at prisen på turen er basert på en tilfeldig rate.
@@ -96,9 +96,9 @@ B) For å sikre at taksameteret gir korrekte og rettferdige priser til kundene.
 C) For å gi sjåføren mulighet til å endre priser etter eget ønske.
 D) Kun fordi det gir en estetisk fordel i bilen.
 Right Answer: 2
-Explanation: Justervesenet godkjenner og kalibrerer måleinstrumenter som taksameter for å sikre at de gir nøyaktige målinger. Dette er for å beskytte både forbrukerne og bedriftene mot uriktige priser og sørge for at beregningen av kostnadene er korrekt og rettferdig.
+Justervesenet godkjenner og kalibrerer måleinstrumenter som taksameter for å sikre at de gir nøyaktige målinger. Dette er for å beskytte både forbrukerne og bedriftene mot uriktige priser og sørge for at beregningen av kostnadene er korrekt og rettferdig.
 ---
-Question Number: Spørsmål 11:
+Spørsmål 11:
 Title: Hva er forskjellen mellom direkte og indirekte kostnader i en drosjevirksomhet?
 Options: 
 A) Direkte kostnader er kun drivstoffkostnader, mens indirekte kostnader er kun lønnskostnader.
@@ -106,9 +106,9 @@ B) Direkte kostnader kan spores direkte til en spesifikk drosjetur, mens indirek
 C) Direkte kostnader påvirkes av sesongvariasjoner, mens indirekte kostnader forblir konstante.
 D) Direkte kostnader er alltid høyere enn indirekte kostnader.
 Right Answer: 2
-Explanation: Direkte kostnader er de kostnadene som direkte kan knyttes til en bestemt tjeneste eller produkt, i dette tilfellet en drosjetur. Eksempler kan være drivstoffkostnader for en spesifikk tur. Indirekte kostnader er de kostnadene som ikke direkte kan tilordnes en enkelt tur, men som er en del av driften av hele virksomheten, som husleie eller administrasjonskostnader.
+Direkte kostnader er de kostnadene som direkte kan knyttes til en bestemt tjeneste eller produkt, i dette tilfellet en drosjetur. Eksempler kan være drivstoffkostnader for en spesifikk tur. Indirekte kostnader er de kostnadene som ikke direkte kan tilordnes en enkelt tur, men som er en del av driften av hele virksomheten, som husleie eller administrasjonskostnader.
 ---
-Question Number: Spørsmål 12:
+Spørsmål 12:
 Title: Hvor lenge kan en arbeidstaker jobbe sammenhengende uten å ha rett til pause, ifølge den norske arbeidsmiljøloven?
 Options: 
 A) 2 timer
@@ -116,9 +116,9 @@ B) 4 timer
 C) 6 timer
 D) 8 timer
 Right Answer: 3
-Explanation: Ifølge den norske arbeidsmiljøloven har arbeidstakere rett til en pause dersom arbeidsdagen er lengre enn 6 timer. Pausen skal gi arbeidstakeren en mulighet til hvile og forpleining.
+Ifølge den norske arbeidsmiljøloven har arbeidstakere rett til en pause dersom arbeidsdagen er lengre enn 6 timer. Pausen skal gi arbeidstakeren en mulighet til hvile og forpleining.
 ---
-Question Number: Spørsmål 13:
+Spørsmål 13:
 Title: Hvor mange virkedager ferie har en arbeidstaker rett til per år i henhold til den norske ferieloven?
 Options: 
 A) 20 virkedager
@@ -126,9 +126,9 @@ B) 25 virkedager
 C) 28 virkedager
 D) 30 virkedager
 Right Answer: 2
-Explanation: Ifølge den norske ferieloven har alle arbeidstakere rett til 25 virkedager ferie hvert år. Dette tilsvarer 5 ukers ferie, da lørdag regnes som virkedag selv om de fleste ikke jobber denne dagen.
+Ifølge den norske ferieloven har alle arbeidstakere rett til 25 virkedager ferie hvert år. Dette tilsvarer 5 ukers ferie, da lørdag regnes som virkedag selv om de fleste ikke jobber denne dagen.
 ---
-Question Number: Spørsmål 14:
+Spørsmål 14:
 Title: Hva er en vesentlig forskjell mellom oppsigelse og avskjed i arbeidsforhold i Norge?
 Options: 
 A) Oppsigelse gis ved mindre forseelser, mens avskjed gis ved alvorlige forseelser.
@@ -136,9 +136,9 @@ B) Oppsigelse og avskjed er to ord for det samme fenomenet og har ingen vesentli
 C) Avskjed kan kun gis til arbeidstakere som har vært i bedriften i mindre enn to år.
 D) Oppsigelse krever en oppsigelsesperiode, mens avskjed ikke krever noen slik periode.
 Right Answer: 4
-Explanation: Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på og krever som regel en oppsigelsesperiode. Avskjed brukes i tilfeller der arbeidstakeren har brutt arbeidsavtalen på en alvorlig måte, og arbeidsforholdet avsluttes umiddelbart uten noen oppsigelsesperiode.
+Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på og krever som regel en oppsigelsesperiode. Avskjed brukes i tilfeller der arbeidstakeren har brutt arbeidsavtalen på en alvorlig måte, og arbeidsforholdet avsluttes umiddelbart uten noen oppsigelsesperiode.
 ---
-Question Number: Spørsmål 15:
+Spørsmål 15:
 Title: I henhold til Arbeidsmiljøloven, hvor lang skal den daglige hviletiden minst være?
 Options: 
 a) 8 timer
@@ -146,9 +146,9 @@ b) 11 timer
 c) 9 timer
 d) 6 timer
 Right Answer: 2
-Explanation: Forklaring: Ifølge § 10-8 i Arbeidsmiljøloven skal arbeidstakere ha en sammenhengende hviletid på minst 11 timer i løpet av 24 timer.
+Forklaring: Ifølge § 10-8 i Arbeidsmiljøloven skal arbeidstakere ha en sammenhengende hviletid på minst 11 timer i løpet av 24 timer.
 ---
-Question Number: Spørsmål 16:
+Spørsmål 16:
 Title: Hvilket utsagn er feil om oppsigelse i henhold til Arbeidsmiljøloven?
 Options: 
 a) Oppsigelse må være saklig begrunnet.
@@ -156,9 +156,9 @@ b) En arbeidstaker har rett til å stå i stillingen mens en tvist om oppsigelse
 c) Oppsigelse kan gis via e-post eller SMS.
 d) Arbeidsgiveren må føre samtaler med arbeidstakeren før oppsigelse.
 Right Answer: 3
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 15-4 må oppsigelse gis skriftlig. E-post eller SMS anses generelt ikke som en tilstrekkelig form for skriftlig oppsigelse på grunn av formalitetskrav.
+Forklaring: Ifølge Arbeidsmiljøloven § 15-4 må oppsigelse gis skriftlig. E-post eller SMS anses generelt ikke som en tilstrekkelig form for skriftlig oppsigelse på grunn av formalitetskrav.
 ---
-Question Number: Spørsmål 17:
+Spørsmål 17:
 Title: Kan en arbeidsgiver si opp en ansatt etter 26 uker på grunn av sykemelding?
 Options: 
 A) Ja, det er lov å si opp en ansatt som har vært sykemeldt i 26 uker.
@@ -166,9 +166,9 @@ B) Nei, det er ikke lov å si opp en ansatt kun fordi vedkommende har vært syke
 C) Ja, men bare hvis sykemeldingen ikke er relatert til jobben.
 D) Nei, med mindre sykemeldingen har forårsaket alvorlige økonomiske problemer for bedriften.
 Right Answer: 2
-Explanation: Not found
+Not found
 ---
-Question Number: Spørsmål 18:
+Spørsmål 18:
 Title: Hvordan beregnes merverdiavgiften (MVA) en virksomhet skal betale til staten for en gitt periode?
 Options: 
 A) Utsalgspris minus innkjøpspris.
@@ -176,9 +176,9 @@ B) Salg inkludert MVA minus kjøp eksklusivt MVA.
 C) Salg eksklusivt MVA minus kjøp eksklusivt MVA.
 D) Utsalgspris inkludert MVA minus inngående MVA.
 Right Answer: 4
-Explanation: Merverdiavgiften en virksomhet skal betale til staten for en periode beregnes ved å trekke fra inngående MVA (MVA på kjøp) fra utgående MVA (MVA på salg). Dette er forskjellen mellom MVA på det virksomheten har solgt og MVA på det den har kjøpt.
+Merverdiavgiften en virksomhet skal betale til staten for en periode beregnes ved å trekke fra inngående MVA (MVA på kjøp) fra utgående MVA (MVA på salg). Dette er forskjellen mellom MVA på det virksomheten har solgt og MVA på det den har kjøpt.
 ---
-Question Number: Spørsmål 19:
+Spørsmål 19:
 Title: Hvilken av følgende instanser er primært ansvarlig for innkreving av skatter og avgifter i Norge?
 Options: 
 A) Kommunen der virksomheten er registrert.
@@ -186,9 +186,9 @@ B) Skatteetaten.
 C) Norges Bank.
 D) Statens vegvesen.
 Right Answer: 2
-Explanation: Skatteetaten er den sentrale myndigheten som har ansvaret for å sikre at skatter og avgifter blir riktig fastsatt og innbetalt. Dette omfatter blant annet skatt, merverdiavgift, arbeidsgiveravgift, og andre statlige avgifter.
+Skatteetaten er den sentrale myndigheten som har ansvaret for å sikre at skatter og avgifter blir riktig fastsatt og innbetalt. Dette omfatter blant annet skatt, merverdiavgift, arbeidsgiveravgift, og andre statlige avgifter.
 ---
-Question Number: Spørsmål 20:
+Spørsmål 20:
 Title: Hvordan fungerer en CO2-avgift som et klimatiltak?
 Options: 
 A) Den subsidierer virksomheter som produserer store mengder CO2.
@@ -196,9 +196,9 @@ B) Den belønner bilister som kjører lange avstander.
 C) Den pålegger en ekstra kostnad på varer og tjenester som produserer mye CO2.
 D) Den reduserer merverdiavgiften på fossile brensler.
 Right Answer: 3
-Explanation: A) CO2-avgiften er ikke ment for å subsidiere virksomheter som produserer store mengder CO2. Tvert imot, den skal gjøre det dyrere for dem. B) Avgiften belønner ikke bilister som kjører lange avstander. Snarere kan den gjøre drivstoff dyrere, avhengig av hvor mye CO2 bilens drivstoff slipper ut. D) CO2-avgiften reduserer ikke merverdiavgiften på fossile brensler. Den legger tvert imot en ekstra kostnad på fossile brensler for å reflektere de eksterne miljøkostnadene ved bruken av dem.
+A) CO2-avgiften er ikke ment for å subsidiere virksomheter som produserer store mengder CO2. Tvert imot, den skal gjøre det dyrere for dem. B) Avgiften belønner ikke bilister som kjører lange avstander. Snarere kan den gjøre drivstoff dyrere, avhengig av hvor mye CO2 bilens drivstoff slipper ut. D) CO2-avgiften reduserer ikke merverdiavgiften på fossile brensler. Den legger tvert imot en ekstra kostnad på fossile brensler for å reflektere de eksterne miljøkostnadene ved bruken av dem.
 ---
-Question Number: Spørsmål 21:
+Spørsmål 21:
 Title: Hvilket av følgende utsagn om merverdiavgift (MVA) i Norge er korrekt?
 Options: 
 A) MVA er en skatt som kun betales av forbrukere, og bedrifter er fritatt.
@@ -206,5 +206,5 @@ B) MVA er en skatt på verdien som legges til en vare eller tjeneste ved hvert p
 C) Alle varer og tjenester i Norge er underlagt en standard MVA-sats på 25%
 D) MVA-registrerte bedrifter trenger ikke å innberette MVA hvis omsetningen er under 50 000 NOK i løpet av en 12-måneders periode.
 Right Answer: 2
-Explanation: Merverdiavgift (MVA) er en verdiøkningsskatt, og den pålegges varer og tjenester ved hvert trinn i produksjons- og distribusjonskjeden.
+Merverdiavgift (MVA) er en verdiøkningsskatt, og den pålegges varer og tjenester ved hvert trinn i produksjons- og distribusjonskjeden.
 ---

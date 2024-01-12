@@ -1,4 +1,4 @@
-Question Number: Spørsmål 1:
+Spørsmål 1:
 Title: Hva er hovedformålet med Arbeidsmiljøloven?
 Options: 
 a) Å sikre at alle arbeidstakere har betalt overtid.
@@ -6,9 +6,9 @@ b) Å fremme sysselsetting og hindre arbeidsledighet.
 c) Å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon.
 d) Å regulere forholdet mellom fagforeninger og arbeidsgivere.
 Right Answer: 3
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 1-1 er hovedformålet å sikre et arbeidsmiljø som er trygt, inkluderende, og bidrar til god helse samt forebygger skader og sykdom.
+Forklaring: Ifølge Arbeidsmiljøloven § 1-1 er hovedformålet å sikre et arbeidsmiljø som er trygt, inkluderende, og bidrar til god helse samt forebygger skader og sykdom.
 ---
-Question Number: Spørsmål 2:
+Spørsmål 2:
 Title: Hvilket av følgende er ikke et obligatorisk element i en arbeidsavtale i henhold til Arbeidsmiljøloven?
 Options: 
 a) Arbeidstakerens og arbeidsgiverens navn og adresse.
@@ -16,9 +16,9 @@ b) Beskrivelse av arbeidet eller arbeidstakerens tittel, stilling eller arbeidsk
 c) Arbeidstakerens lønn under sykefravær.
 d) Arbeidssted.
 Right Answer: 3
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 14-6 er det en rekke elementer som må inkluderes i en arbeidsavtale, men lønn under sykefravær er ikke et av dem.
+Forklaring: Ifølge Arbeidsmiljøloven § 14-6 er det en rekke elementer som må inkluderes i en arbeidsavtale, men lønn under sykefravær er ikke et av dem.
 ---
-Question Number: Spørsmål 3:
+Spørsmål 3:
 Title: Hva er en korrekt påstand om oppsigelsesprosedyren ifølge Arbeidsmiljøloven?
 Options: 
 a) Oppsigelse kan gis muntlig.
@@ -26,9 +26,9 @@ b) Oppsigelse må alltid skje med seks måneders varsel.
 c) Oppsigelse må være skriftlig og begrunnet.
 d) Arbeidstaker har ikke rett til å kreve forhandlinger om oppsigelsen.
 Right Answer: 3
-Explanation: Forklaring: Arbeidsmiljøloven § 15-4 krever at en oppsigelse skal være skriftlig og arbeidsgiver må begrunne oppsigelsen.
+Forklaring: Arbeidsmiljøloven § 15-4 krever at en oppsigelse skal være skriftlig og arbeidsgiver må begrunne oppsigelsen.
 ---
-Question Number: Spørsmål 4:
+Spørsmål 4:
 Title: Hva sier Arbeidsmiljøloven om ordinær arbeidstid?
 Options: 
 a) Maksimalt 9 timer per dag og 40 timer per uke.
@@ -36,9 +36,9 @@ b) Maksimalt 8 timer per dag og 40 timer per uke.
 c) Maksimalt 7,5 timer per dag og 37,5 timer per uke.
 d) Ingen spesifikke grenser så lenge arbeidstaker er enig.
 Right Answer: 1
-Explanation: Forklaring: I henhold til Arbeidsmiljøloven § 10-4 er den alminnelige arbeidstiden ikke over 9 timer i løpet av 24 timer og 40 timer i løpet av sju dager.
+Forklaring: I henhold til Arbeidsmiljøloven § 10-4 er den alminnelige arbeidstiden ikke over 9 timer i løpet av 24 timer og 40 timer i løpet av sju dager.
 ---
-Question Number: Spørsmål 5:
+Spørsmål 5:
 Title: Hvor mange virkedager ferie har en arbeidstaker rett til hvert år ifølge Arbeidsmiljøloven?
 Options: 
 a) 21 virkedager
@@ -46,9 +46,9 @@ b) 25 virkedager
 c) 28 virkedager
 d) 30 virkedager
 Right Answer: 2
-Explanation: Forklaring: Arbeidsmiljøloven § 10-1 slår fast at arbeidstakere har rett til ferie i 25 virkedager hvert ferieår.
+Forklaring: Arbeidsmiljøloven § 10-1 slår fast at arbeidstakere har rett til ferie i 25 virkedager hvert ferieår.
 ---
-Question Number: Spørsmål 6:
+Spørsmål 6:
 Title: Hvilken påstand om beregning av feriepenger i henhold til Arbeidsmiljøloven er korrekt?
 Options: 
 a) Feriepenger utgjør 10,2% av feriepengegrunnlaget.
@@ -56,9 +56,9 @@ b) Feriepenger utgjør 12% av feriepengegrunnlaget for arbeidstakere over 60 år
 c) Feriepenger utgjør 12% av feriepengegrunnlaget.
 d) Feriepenger utgjør 15% av feriepengegrunnlaget.
 Right Answer: 3
-Explanation: Forklaring: Feriepenger beregnes som 12% av feriepengegrunnlaget i henhold til Ferieloven § 10, som er en annen lov, men i samme regelverksfamilie som Arbeidsmiljøloven.
+Forklaring: Feriepenger beregnes som 12% av feriepengegrunnlaget i henhold til Ferieloven § 10, som er en annen lov, men i samme regelverksfamilie som Arbeidsmiljøloven.
 ---
-Question Number: Spørsmål 7:
+Spørsmål 7:
 Title: Hva er en av de viktige forpliktelsene Arbeidsmiljøloven legger på arbeidsgiveren?
 Options: 
 a) Å gi ansatte aksjer i bedriften.
@@ -66,9 +66,9 @@ b) Å sikre et arbeidsmiljø som er fullt fri for risiko.
 c) Å tilrettelegge arbeidet slik at arbeidstakerne unngår uheldige fysiske og psykiske belastninger.
 d) Å tilby transport til og fra arbeidsplassen.
 Right Answer: 3
-Explanation: Forklaring: Arbeidsmiljøloven legger vekt på at arbeidsgiver skal tilrettelegge arbeidet for å unngå skadelige belastninger, i henhold til § 4-1.
+Forklaring: Arbeidsmiljøloven legger vekt på at arbeidsgiver skal tilrettelegge arbeidet for å unngå skadelige belastninger, i henhold til § 4-1.
 ---
-Question Number: Spørsmål 8:
+Spørsmål 8:
 Title: Hvilket punkt er ikke obligatorisk i en arbeidsavtale ifølge Arbeidsmiljøloven?
 Options: 
 a) Lengden på prøvetiden.
@@ -76,9 +76,9 @@ b) Informasjon om arbeidstakers pensjonsordning.
 c) Opplysninger om ansattes kaffepauser.
 d) Opplysninger om ferie og feriepenger.
 Right Answer: 3
-Explanation: Forklaring: Mens arbeidsavtalen må inneholde detaljer om prøvetid, pensjonsordninger og ferie, er ikke detaljer om kaffepauser et lovpålagt krav.
+Forklaring: Mens arbeidsavtalen må inneholde detaljer om prøvetid, pensjonsordninger og ferie, er ikke detaljer om kaffepauser et lovpålagt krav.
 ---
-Question Number: Spørsmål 9:
+Spørsmål 9:
 Title: Hvis en arbeidstaker jobber 10 timer om dagen, 4 dager i uken, bryter dette med Arbeidsmiljølovens bestemmelser om arbeidstid. Hvorfor?
 Options: 
 a) Fordi arbeidstakeren jobber mer enn 37,5 timer per uke.
@@ -86,9 +86,9 @@ b) Fordi arbeidstakeren jobber mer enn 9 timer om dagen.
 c) Fordi arbeidstakeren ikke jobber 5 dager i uken.
 d) Fordi arbeidstakeren har for lang helg.
 Right Answer: 2
-Explanation: Not found
+Not found
 ---
-Question Number: Spørsmål 10:
+Spørsmål 10:
 Title: En arbeidstaker har rett på 25 virkedagers ferie hvert år. Hvis arbeidstakeren tar 15 dager i juli, hvor mange dager har vedkommende igjen for resten av året?
 Options: 
 a) 5 dager
@@ -96,9 +96,9 @@ b) 10 dager
 c) 15 dager
 d) 20 dager
 Right Answer: 2
-Explanation: Forklaring: 25 virkedager ferie - 15 dager tatt = 10 dager igjen.
+Forklaring: 25 virkedager ferie - 15 dager tatt = 10 dager igjen.
 ---
-Question Number: Spørsmål 11:
+Spørsmål 11:
 Title: En arbeidstaker tjente 450,000 NOK i forrige år. Hvor mye er feriepengene, basert på en sats på 12%?
 Options: 
 a) 54,000 NOK
@@ -106,9 +106,9 @@ b) 45,000 NOK
 c) 50,000 NOK
 d) 55,000 NOK
 Right Answer: 1
-Explanation: Forklaring: Feriepengene beregnes som 12% av det året før tjente lønn, som i dette tilfellet er 450,000 NOK. Så, 450,000 NOK * 12% = 54,000 NOK.
+Forklaring: Feriepengene beregnes som 12% av det året før tjente lønn, som i dette tilfellet er 450,000 NOK. Så, 450,000 NOK * 12% = 54,000 NOK.
 ---
-Question Number: Spørsmål 12:
+Spørsmål 12:
 Title: Hva er et av de primære formålene med Arbeidsmiljøloven?
 Options: 
 a) Å maksimere bedriftens lønnsomhet
@@ -116,9 +116,9 @@ b) Å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfy
 c) Å minimere arbeidstakers rettigheter for effektivitets skyld
 d) Å fremme utenlandske investeringer i Norge
 Right Answer: 2
-Explanation: Forklaring: Arbeidsmiljøloven § 1-1 fastslår at et formål med loven er å sikre et arbeidsmiljø som er trygt, og som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon.
+Forklaring: Arbeidsmiljøloven § 1-1 fastslår at et formål med loven er å sikre et arbeidsmiljø som er trygt, og som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon.
 ---
-Question Number: Spørsmål 13:
+Spørsmål 13:
 Title: Hvilket punkt er ikke et obligatorisk element i en arbeidsavtale i henhold til Arbeidsmiljøloven?
 Options: 
 a) Arbeidsplassens adresse
@@ -126,9 +126,9 @@ b) Beskrivelse av arbeidet eller arbeidstakerens tittel, stilling eller arbeidsk
 c) Opplysninger om arbeidstakers primære arbeidsoppgaver
 d) Arbeidstakers hobbyer og interesser
 Right Answer: 4
-Explanation: Forklaring: Arbeidsmiljøloven § 14-6 fastsetter spesifikke krav til hva en arbeidsavtale skal inneholde. Det inkluderer arbeidssted, en beskrivelse av arbeidet og arbeidstakerens primære oppgaver, men ikke personlige opplysninger som hobbyer og interesser.
+Forklaring: Arbeidsmiljøloven § 14-6 fastsetter spesifikke krav til hva en arbeidsavtale skal inneholde. Det inkluderer arbeidssted, en beskrivelse av arbeidet og arbeidstakerens primære oppgaver, men ikke personlige opplysninger som hobbyer og interesser.
 ---
-Question Number: Spørsmål 14:
+Spørsmål 14:
 Title: Hva er en korrekt påstand om oppsigelsesprosessen ifølge Arbeidsmiljøloven?
 Options: 
 a) Oppsigelse kan alltid skje muntlig
@@ -136,9 +136,9 @@ b) En oppsigelse må være skriftlig og begrunnet når arbeidstakeren krever det
 c) Oppsigelse skal kun diskuteres med arbeidstakeren etter at den er fullført
 d) Oppsigelsesbrevet trenger ikke å inneholde informasjon om arbeidstakerens rett til å kreve forhandlinger eller reise søksmål
 Right Answer: 2
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 15-4 kreves det at oppsigelse skal være skriftlig, og arbeidsgiver må gi en begrunnelse for oppsigelsen hvis arbeidstakeren ber om det.
+Forklaring: Ifølge Arbeidsmiljøloven § 15-4 kreves det at oppsigelse skal være skriftlig, og arbeidsgiver må gi en begrunnelse for oppsigelsen hvis arbeidstakeren ber om det.
 ---
-Question Number: Spørsmål 15:
+Spørsmål 15:
 Title: Hva sier Arbeidsmiljøloven om alminnelig arbeidstid?
 Options: 
 a) Arbeidstiden skal ikke overstige 10 timer per dag
@@ -146,9 +146,9 @@ b) Den alminnelige arbeidstiden skal ikke overstige 9 timer i løpet av 24 timer
 c) Det er ingen begrensning på antall arbeidstimer per uke, så lenge arbeidstakeren er enig
 d) Arbeidstid kan strekke seg til 12 timer daglig hvis det er behov for det
 Right Answer: 2
-Explanation: Forklaring: Arbeidsmiljøloven § 10-4 (1) fastsetter at den alminnelige arbeidstiden ikke skal overstige 9 timer i løpet av 24 timer og 40 timer i løpet av sju dager.
+Forklaring: Arbeidsmiljøloven § 10-4 (1) fastsetter at den alminnelige arbeidstiden ikke skal overstige 9 timer i løpet av 24 timer og 40 timer i løpet av sju dager.
 ---
-Question Number: Spørsmål 16:
+Spørsmål 16:
 Title: Hvilken gruppe er spesifikt inkludert i Arbeidsmiljølovens bestemmelser om arbeidsmiljø, helse og sikkerhet?
 Options: 
 a) Selvstendig næringsdrivende
@@ -156,9 +156,9 @@ b) Turister som besøker arbeidsplassen
 c) Alle familiebedrifter, uavhengig av størrelse
 d) Vernepliktige under tjeneste
 Right Answer: 4
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 1-6 er vernepliktige under tjeneste ansett som arbeidstakere med hensyn til bestemmelser om arbeidsmiljø, helse og sikkerhet.
+Forklaring: Ifølge Arbeidsmiljøloven § 1-6 er vernepliktige under tjeneste ansett som arbeidstakere med hensyn til bestemmelser om arbeidsmiljø, helse og sikkerhet.
 ---
-Question Number: Spørsmål 17:
+Spørsmål 17:
 Title: Hva sier Arbeidsmiljøloven om formen på arbeidsavtalen?
 Options: 
 a) Den må alltid være skriftlig uansett jobbtype eller varighet.
@@ -166,9 +166,9 @@ b) Muntlig avtale er akseptabelt for kortvarige arbeidsforhold under en måned.
 c) Skriftlig avtale er bare nødvendig for deltidsstillinger.
 d) Alle avtaler, uansett varighet eller stillingstype, krever et vitne.
 Right Answer: 1
-Explanation: Forklaring: Arbeidsmiljøloven § 14-5 (1) krever at en arbeidsavtale skal være skriftlig, uavhengig av jobbens varighet eller natur.
+Forklaring: Arbeidsmiljøloven § 14-5 (1) krever at en arbeidsavtale skal være skriftlig, uavhengig av jobbens varighet eller natur.
 ---
-Question Number: Spørsmål 18:
+Spørsmål 18:
 Title: Hvilket utsagn er feil om oppsigelse i henhold til Arbeidsmiljøloven?
 Options: 
 a) Oppsigelse må være saklig begrunnet.
@@ -176,9 +176,9 @@ b) En arbeidstaker har rett til å stå i stillingen mens en tvist om oppsigelse
 c) Oppsigelse kan gis via e-post eller SMS.
 d) Arbeidsgiveren må føre samtaler med arbeidstakeren før oppsigelse.
 Right Answer: 3
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 15-4 må oppsigelse gis skriftlig. E-post eller SMS anses generelt ikke som en tilstrekkelig form for skriftlig oppsigelse på grunn av formalitetskrav.
+Forklaring: Ifølge Arbeidsmiljøloven § 15-4 må oppsigelse gis skriftlig. E-post eller SMS anses generelt ikke som en tilstrekkelig form for skriftlig oppsigelse på grunn av formalitetskrav.
 ---
-Question Number: Spørsmål 19:
+Spørsmål 19:
 Title: Hva sier Arbeidsmiljøloven om overtid?
 Options: 
 a) Overtid kan bare utføres opptil 10 timer i løpet av sju dager.
@@ -186,9 +186,9 @@ b) Overtidsarbeid er ubegrenset så lenge arbeidstakeren godtar det.
 c) Overtid kan ikke overstige 25 timer i løpet av fire sammenhengende uker.
 d) Det er ingen begrensning på antall overtidstimer per måned.
 Right Answer: 3
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 10-6 (10) er overtid begrenset til maksimalt 25 timer over en periode på fire sammenhengende uker.
+Forklaring: Ifølge Arbeidsmiljøloven § 10-6 (10) er overtid begrenset til maksimalt 25 timer over en periode på fire sammenhengende uker.
 ---
-Question Number: Spørsmål 20:
+Spørsmål 20:
 Title: Hvilket utsagn om ferieloven er riktig?
 Options: 
 a) Arbeidstakere har krav på fire uker og én dag ferie hvert år.
@@ -196,9 +196,9 @@ b) Arbeidstakere over 60 år får ikke ekstra feriedager.
 c) Feriepengene utgjør 10,2 % av fjorårets lønn.
 d) Ubrukte feriedager kan overføres til neste år uten begrensninger.
 Right Answer: 1
-Explanation: Forklaring: Ifølge Ferieloven § 5 har arbeidstakere rett til fire uker og én dag ferie hvert år.
+Forklaring: Ifølge Ferieloven § 5 har arbeidstakere rett til fire uker og én dag ferie hvert år.
 ---
-Question Number: Spørsmål 21:
+Spørsmål 21:
 Title: En arbeidstaker tjente 400 000 NOK i fjor. Hvor mye vil han motta i feriepenger, ifølge Ferieloven?
 Options: 
 a) 44 000 NOK
@@ -206,9 +206,9 @@ b) 48 000 NOK
 b) 48 000 NOK
 d) 52 000 NOK
 Right Answer: 2
-Explanation: Forklaring: Ifølge Ferieloven § 10 beregnes feriepenger som 12 % av fjorårets lønn. For en lønn på 400 000 NOK blir dette 400 000 NOK * 0,12 = 48 000 NOK.
+Forklaring: Ifølge Ferieloven § 10 beregnes feriepenger som 12 % av fjorårets lønn. For en lønn på 400 000 NOK blir dette 400 000 NOK * 0,12 = 48 000 NOK.
 ---
-Question Number: Spørsmål 22:
+Spørsmål 22:
 Title: Hva er hovedformålet med Arbeidsmiljøloven?
 Options: 
 a) Å sikre høyest mulig lønn for arbeidstakere.
@@ -216,9 +216,9 @@ b) Å sørge for balansen mellom arbeid og fritid.
 c) Å fremme et inkluderende arbeidsliv.
 d) Å garantere jobbsikkerhet for alle ansatte.
 Right Answer: 3
-Explanation: Forklaring: Hovedformålet med Arbeidsmiljøloven, som nevnt i § 1-1, er å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som er trygt for psykisk og fysisk helse, og med en vekt på inkluderende arbeidsliv.
+Forklaring: Hovedformålet med Arbeidsmiljøloven, som nevnt i § 1-1, er å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som er trygt for psykisk og fysisk helse, og med en vekt på inkluderende arbeidsliv.
 ---
-Question Number: Spørsmål 23:
+Spørsmål 23:
 Title: Hvilket av følgende punkter er ikke et krav til innholdet i en arbeidsavtale i henhold til Arbeidsmiljøloven?
 Options: 
 a) Lønnens størrelse og utbetalingsmåte.
@@ -226,9 +226,9 @@ b) Arbeidstidens lengde og plassering.
 c) Arbeidstakerens karrierehistorie.
 d) Varighet av ansettelsen og oppsigelsestid.
 Right Answer: 3
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 14-6 kreves det spesifikk informasjon i en arbeidsavtale, som lønn, arbeidstid, og varighet av ansettelse, men det er ikke krav om å inkludere arbeidstakerens karrierehistorie.
+Forklaring: Ifølge Arbeidsmiljøloven § 14-6 kreves det spesifikk informasjon i en arbeidsavtale, som lønn, arbeidstid, og varighet av ansettelse, men det er ikke krav om å inkludere arbeidstakerens karrierehistorie.
 ---
-Question Number: Spørsmål 24:
+Spørsmål 24:
 Title: Hva kreves av en arbeidsgiver når det gjelder oppsigelse av en ansatt ifølge Arbeidsmiljøloven?
 Options: 
 a) Oppsigelse må alltid være muntlig.
@@ -236,9 +236,9 @@ b) Oppsigelse kan kun skje på grunnlag av arbeidstakerens personlige forhold.
 c) Oppsigelsen må være saklig begrunnet og skriftlig.
 d) Arbeidstakeren kan oppsiges uten forklaring i prøveperioden.
 Right Answer: 3
-Explanation: Forklaring: Arbeidsmiljøloven § 15-4 og § 15-7 krever at oppsigelser må være saklig begrunnet og gitt skriftlig.
+Forklaring: Arbeidsmiljøloven § 15-4 og § 15-7 krever at oppsigelser må være saklig begrunnet og gitt skriftlig.
 ---
-Question Number: Spørsmål 25:
+Spørsmål 25:
 Title: Hva sier Arbeidsmiljøloven om maksimal ukentlig arbeidstid?
 Options: 
 a) 37,5 timer per uke.
@@ -246,9 +246,9 @@ b) 40 timer per uke.
 c) 45 timer per uke.
 d) Ingen spesifikk grense er satt.
 Right Answer: 1
-Explanation: Forklaring: Arbeidsmiljøloven § 10-4 (1) fastsetter normalarbeidstiden til maksimalt 9 timer om dagen og 40 timer per uke, men i praksis har de fleste arbeidstakere i Norge en standard arbeidsuke på 37,5 timer på grunn av tariffavtaler og avtaler om arbeidstidsordninger.
+Forklaring: Arbeidsmiljøloven § 10-4 (1) fastsetter normalarbeidstiden til maksimalt 9 timer om dagen og 40 timer per uke, men i praksis har de fleste arbeidstakere i Norge en standard arbeidsuke på 37,5 timer på grunn av tariffavtaler og avtaler om arbeidstidsordninger.
 ---
-Question Number: Spørsmål 26:
+Spørsmål 26:
 Title: Hvordan beregnes feriepengene i henhold til Ferieloven?
 Options: 
 a) Som 10% av fjorårets lønn.
@@ -256,9 +256,9 @@ b) Som 12% av fjorårets lønn.
 c) Som en fast sum bestemt av arbeidsgiveren.
 d) Som 8% av fjorårets lønn.
 Right Answer: 2
-Explanation: Forklaring: Ifølge Ferieloven § 10 beregnes feriepenger til 12% av det som er opptjent i opptjeningsåret. For arbeidstakere over 60 år er satsen 14,3%.
+Forklaring: Ifølge Ferieloven § 10 beregnes feriepenger til 12% av det som er opptjent i opptjeningsåret. For arbeidstakere over 60 år er satsen 14,3%.
 ---
-Question Number: Spørsmål 27:
+Spørsmål 27:
 Title: Hva er maksimalt antall timer overtidsarbeid tillatt per uke i henhold til Arbeidsmiljøloven?
 Options: 
 a) 10 timer.
@@ -266,9 +266,9 @@ b) 15 timer.
 c) 20 timer.
 d) 25 timer.
 Right Answer: 1
-Explanation: Forklaring: I henhold til Arbeidsmiljøloven § 10-6 (10) kan overtidsarbeid ikke overstige 10 timer i løpet av 7 dager.
+Forklaring: I henhold til Arbeidsmiljøloven § 10-6 (10) kan overtidsarbeid ikke overstige 10 timer i løpet av 7 dager.
 ---
-Question Number: Spørsmål 28:
+Spørsmål 28:
 Title: Hvilken av følgende er ikke et krav til en arbeidsavtale ifølge Arbeidsmiljøloven?
 Options: 
 a) Arbeidsstedets adresse
@@ -276,9 +276,9 @@ b) En detaljert jobbbeskrivelse
 c) Informasjon om oppsigelsestid
 d) Arbeidstakers fødselsdato og personnummer
 Right Answer: 2
-Explanation: Forklaring: Selv om det kan være nyttig, krever ikke Arbeidsmiljøloven at en arbeidsavtale inneholder en detaljert jobbbeskrivelse. Andre detaljer som arbeidsstedets adresse, oppsigelsestid, og arbeidstakerens personopplysninger er imidlertid nødvendige.
+Forklaring: Selv om det kan være nyttig, krever ikke Arbeidsmiljøloven at en arbeidsavtale inneholder en detaljert jobbbeskrivelse. Andre detaljer som arbeidsstedets adresse, oppsigelsestid, og arbeidstakerens personopplysninger er imidlertid nødvendige.
 ---
-Question Number: Spørsmål 29:
+Spørsmål 29:
 Title: Hva er en nødvendig prosedyre ved oppsigelse ifølge Arbeidsmiljøloven?
 Options: 
 a) At oppsigelsen alltid må leveres personlig
@@ -286,9 +286,9 @@ b) At oppsigelsen skjer under et allmøte
 c) At det avholdes et drøftelsesmøte før oppsigelse
 d) At oppsigelsen kunngjøres via e-post
 Right Answer: 3
-Explanation: Forklaring: Arbeidsmiljøloven § 15-1 krever at arbeidsgiver, før beslutning om oppsigelse tas, så langt det er praktisk mulig, skal drøfte oppsigelsen med arbeidstakeren og tillitsvalgte.
+Forklaring: Arbeidsmiljøloven § 15-1 krever at arbeidsgiver, før beslutning om oppsigelse tas, så langt det er praktisk mulig, skal drøfte oppsigelsen med arbeidstakeren og tillitsvalgte.
 ---
-Question Number: Spørsmål 30:
+Spørsmål 30:
 Title: I henhold til Arbeidsmiljøloven, hvor lang skal den daglige hviletiden minst være?
 Options: 
 a) 8 timer
@@ -296,9 +296,9 @@ b) 11 timer
 c) 9 timer
 d) 6 timer
 Right Answer: 2
-Explanation: Forklaring: Ifølge § 10-8 i Arbeidsmiljøloven skal arbeidstakere ha en sammenhengende hviletid på minst 11 timer i løpet av 24 timer.
+Forklaring: Ifølge § 10-8 i Arbeidsmiljøloven skal arbeidstakere ha en sammenhengende hviletid på minst 11 timer i løpet av 24 timer.
 ---
-Question Number: Spørsmål 31:
+Spørsmål 31:
 Title: Hva er den generelle maksimale ukentlige arbeidstiden fastsatt av Arbeidsmiljøloven?
 Options: 
 a) 37,5 timer per uke
@@ -306,9 +306,9 @@ b) 40 timer per uke
 c) 35 timer per uke
 d) 45 timer per uke
 Right Answer: 2
-Explanation: Forklaring: Ifølge Arbeidsmiljøloven § 10-4 (1), er den generelle grensen for ordinær arbeidstid 40 timer per uke.
+Forklaring: Ifølge Arbeidsmiljøloven § 10-4 (1), er den generelle grensen for ordinær arbeidstid 40 timer per uke.
 ---
-Question Number: Spørsmål 32:
+Spørsmål 32:
 Title: Hvilken påstand om nattarbeid er riktig i henhold til Arbeidsmiljøloven?
 Options: 
 a) Nattarbeid er ikke tillatt under noen omstendigheter.
@@ -316,9 +316,9 @@ b) Nattarbeid er begrenset til maksimalt 8 timer i løpet av en 24-timers period
 c) Det finnes ingen spesifikke regler for nattarbeid i Arbeidsmiljøloven.
 d) Nattarbeid kan kun utføres av arbeidstakere over 50 år.
 Right Answer: 2
-Explanation: Hvilken påstand om nattarbeid er riktig i henhold til Arbeidsmiljøloven? Forklaring: Arbeidsmiljøloven § 10-11 (1) angir at nattarbeid bør ikke overstige 8 timer i gjennomsnitt i løpet av en periode på 24 timer.
+Hvilken påstand om nattarbeid er riktig i henhold til Arbeidsmiljøloven? Forklaring: Arbeidsmiljøloven § 10-11 (1) angir at nattarbeid bør ikke overstige 8 timer i gjennomsnitt i løpet av en periode på 24 timer.
 ---
-Question Number: Spørsmål 33:
+Spørsmål 33:
 Title: Hva sier Arbeidsmiljøloven om pauser hvis arbeidstiden er mer enn 5,5 timer?
 Options: 
 a) Arbeidstakeren har krav på en 15-minutters pause.
@@ -326,9 +326,9 @@ b) Arbeidstakeren har krav på en 30-minutters pause.
 c) Arbeidstakeren har krav på en 1-times pause.
 d) Pauser er ikke obligatoriske ifølge loven.
 Right Answer: 2
-Explanation: Forklaring: Arbeidsmiljøloven § 10-9 (3) sier at hvis arbeidstiden overstiger fem og en halv time, skal arbeidstakeren ha en pause på minst 30 minutter. Hvis det ikke er mulig å avvikle en slik pause, skal arbeidstakeren ha en tilsvarende pause eller annet passende avbrekk fra arbeidet.
+Forklaring: Arbeidsmiljøloven § 10-9 (3) sier at hvis arbeidstiden overstiger fem og en halv time, skal arbeidstakeren ha en pause på minst 30 minutter. Hvis det ikke er mulig å avvikle en slik pause, skal arbeidstakeren ha en tilsvarende pause eller annet passende avbrekk fra arbeidet.
 ---
-Question Number: Spørsmål 34:
+Spørsmål 34:
 Title: Hva er maksimal lengde på en avtaleperiode for gjennomsnittsberegning av arbeidstid?
 Options: 
 a) 26 uker
@@ -336,9 +336,9 @@ b) 52 uker
 c) 12 måneder
 d) Det er ingen tidsbegrensning
 Right Answer: 2
-Explanation: Forklaring: I henhold til Arbeidsmiljøloven § 10-5 (12), kan det inngås avtaler om gjennomsnittsberegning av arbeidstid for perioder på inntil 52 uker.
+Forklaring: I henhold til Arbeidsmiljøloven § 10-5 (12), kan det inngås avtaler om gjennomsnittsberegning av arbeidstid for perioder på inntil 52 uker.
 ---
-Question Number: Spørsmål 35:
+Spørsmål 35:
 Title: Hva er minste varsel en arbeidstaker skal ha ved oppsigelse fra arbeidsgiverens side, hvis arbeidsforholdet har vart i 5 år, i henhold til Arbeidsmiljøloven?
 Options: 
 a) 1 måned
@@ -346,5 +346,5 @@ b) 2 måneder
 c) 3 måneder
 d) 6 måneder
 Right Answer: 2
-Explanation: Forklaring: Arbeidsmiljøloven § 15-3 fastsetter at minste oppsigelsesfrist er én måned. Denne øker med en måned for hvert femte år i arbeidsforholdet, opptil 12 år (maksimalt tre måneder). Derfor er det riktige svaret 2 måneder for et arbeidsforhold som har vart i 5 år.
+Forklaring: Arbeidsmiljøloven § 15-3 fastsetter at minste oppsigelsesfrist er én måned. Denne øker med en måned for hvert femte år i arbeidsforholdet, opptil 12 år (maksimalt tre måneder). Derfor er det riktige svaret 2 måneder for et arbeidsforhold som har vart i 5 år.
 ---
