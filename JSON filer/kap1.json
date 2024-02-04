@@ -1,0 +1,97 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hvilken løyvetype gir tillatelse til å drive drosjetransport i Norge?",
+        "Options": [
+            "Turvognløyve",
+            "Bussløyve",
+            "Drosjeløyve"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilket av følgende utsagn om drosjeløyve i Norge er korrekt?",
+        "Options": [
+            "Et drosjeløyve tillater transport av gods i bysentrum.",
+            "Drosjeløyve gir enerett til å operere drosjetjenester i en hel region uten konkurrenter.",
+            "Drosjeløyve er en tillatelse som lar deg transportere passasjerer hvor reisen starter og ender der kunden ønsker.",
+            "Alle som ønsker kan få drosjeløyve uten krav til kompetanse eller bakgrunnssjekk."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Drosjeløyve er en tillatelse som lar deg transportere passasjerer hvor reisen starter og ender der kunden ønsker."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hvilket kriterium MÅ være oppfylt for å motta et drosjeløyve i Norge?",
+        "Options": [
+            "Eie minst fem drosjebiler.",
+            "bestå drosjeprøven.",
+            "Være medlem av en bestemt drosjesentral.",
+            "Ha minst ti års erfaring som drosjesjåfør."
+        ],
+        "Right Answer": 2,
+        "Explanation": "A) Det er ikke et krav å eie et bestemt antall drosjebiler for å få drosjeløyve. C) Medlemskap i en spesifikk drosjesentral er ikke et obligatorisk krav for å motta drosjeløyve. D) Selv om erfaring er verdifull, er det ikke et krav å ha ti års erfaring for å få drosjeløyve."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hva er hovedformålet med å ha en drosjeløyveordning i Norge?",
+        "Options": [
+            "For å begrense antall drosjer i byene.",
+            "For å sikre at drosjesjåfører har en fast inntekt.",
+            "For å regulere og sikre kvaliteten på drosjetjenesten til beste for forbrukeren.",
+            "For å sikre at alle drosjesjåfører er medlemmer av en drosjesentral."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Drosjeløyveordningen er innført for å regulere drosjetjenesten i Norge og sikre at den holder en viss standard. Dette er for å beskytte forbrukerne mot uærlige praksiser, sørge for sikkerhet og garantere en viss kvalitet på tjenesten."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hvilket av de følgende kravene MÅ være oppfylt for å erverve drosjeløyve i Norge?",
+        "Options": [
+            "Eie minst to drosjebiler før søknad.",
+            "Politiattest.",
+            "Være medlem av den største drosjesentralen i regionen.",
+            "Ha jobbet som drosjesjåførassistent i minst ett år."
+        ],
+        "Right Answer": 2,
+        "Explanation": "For å sikre passasjersikkerheten og integriteten til drosjebransjen, er det viktig at de som får løyve har en god vandel. Dette vurderes gjennom en politiattest der man ser på eventuelle lovbrudd som kan være relevante for yrket, spesielt relatert til narkotika, alkohol, og økonomisk kriminalitet."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hva kreves av en drosjeløyvehaver i Norge angående kjøretøyets tekniske tilstand?",
+        "Options": [
+            "Kjøretøyet må gjennomgå en teknisk kontroll hver måned.",
+            "Kjøretøyet må ha grønn farge for å bli godkjent som drosje",
+            "Kjøretøyet må være merket med offisielt drosjeskilt og lys.",
+            "Kjøretøyet må ha en spesifikk type dekk for alle årstider."
+        ],
+        "Right Answer": 3,
+        "Explanation": "For å lett kunne identifiseres som en drosje av allmennheten, kreves det at drosjekjøretøy er tydelig merket. Dette inkluderer vanligvis et offisielt drosjeskilt samt et taklys."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Hvilket av de følgende kravene gjelder for kjøretøy som skal brukes som drosje i Norge?",
+        "Options": [
+            "Kjøretøyet må være utstyrt med firehjulstrekk for å kunne operere i alle værforhold.",
+            "Kjøretøyet kan ikke ha noen form for reklame utenom drosjeselskapets logo.",
+            "Kjøretøyet kan kun være svart eller hvit i farge for å skille seg ut i trafikken.",
+            "Kjøretøyet må ha en tydelig taksameter som er synlig for passasjeren."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Kjøretøyet må ha en tydelig taksameter som er synlig for passasjeren"
+    },
+    {
+        "Question Number": 8,
+        "Title": "I hvilke norske kommuner kan det ikke tildeles enerett for bestemte tjenester eller rettigheter?",
+        "Options": [
+            "Kommuner med mer enn 15 000 innbyggere og en befolkningstetthet på mindre enn 50 innbyggere per km².",
+            "Kommuner med 20 000 innbyggere eller flere, som også har en befolkningstetthet på 80 innbyggere per km² eller høyere.",
+            "Kommuner med mindre enn 20 000 innbyggere, uansett befolkningstetthet.",
+            "Alle kommuner med en befolkningstetthet på mindre enn 80 innbyggere per km²."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Not found"
+    }
+]

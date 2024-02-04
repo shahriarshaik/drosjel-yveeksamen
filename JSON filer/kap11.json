@@ -1,0 +1,98 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hvilket av følgende utsagn om merverdiavgift (MVA) i Norge er korrekt?",
+        "Options": [
+            "MVA er en skatt som kun betales av forbrukere, og bedrifter er fritatt.",
+            "MVA er en skatt på verdien som legges til en vare eller tjeneste ved hvert produksjonstrinn.",
+            "Alle varer og tjenester i Norge er underlagt en standard MVA-sats på 25%",
+            "MVA-registrerte bedrifter trenger ikke å innberette MVA hvis omsetningen er under 50 000 NOK i løpet av en 12-måneders periode."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Merverdiavgift (MVA) er en verdiøkningsskatt, og den pålegges varer og tjenester ved hvert trinn i produksjons- og distribusjonskjeden."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvordan beregnes merverdiavgiften (MVA) en virksomhet skal betale til staten for en gitt periode?",
+        "Options": [
+            "Utsalgspris minus innkjøpspris.",
+            "Salg inkludert MVA minus kjøp eksklusivt MVA.",
+            "Salg eksklusivt MVA minus kjøp eksklusivt MVA.",
+            "Utsalgspris inkludert MVA minus inngående MVA."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Merverdiavgiften en virksomhet skal betale til staten for en periode beregnes ved å trekke fra inngående MVA (MVA på kjøp) fra utgående MVA (MVA på salg). Dette er forskjellen mellom MVA på det virksomheten har solgt og MVA på det den har kjøpt."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva er hensikten med differensierte arbeidsgiveravgiftssoner i Norge?",
+        "Options": [
+            "Å skape konkurranse mellom norske kommuner.",
+            "Å samle alle virksomheter i hovedstaden.",
+            "Å kompensere for høyere skatter i bestemte områder.",
+            "Å fremme sysselsetting i mindre utviklede eller avsidesliggende områder."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Differensiert arbeidsgiveravgift er et virkemiddel for å stimulere til sysselsetting i områder av Norge som enten er mindre utviklede eller ligger i periferien. Ved å gi lavere arbeidsgiveravgift i disse områdene, blir det billigere for bedrifter å ansette folk, noe som kan føre til økt sysselsetting."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hvilket av følgende utsagn er sant når det gjelder differensiert arbeidsgiveravgift?",
+        "Options": [
+            "Alle virksomheter i Norge betaler samme sats uavhengig av geografisk plassering.",
+            "Differensiert arbeidsgiveravgift er høyest i de mest sentrale delene av Norge.",
+            "Differensiert arbeidsgiveravgift påvirker kun offentlige virksomheter.",
+            "Satsene for differensiert arbeidsgiveravgift er lavest i områder hvor det ønskes å stimulere til sysselsetting."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Differensiert arbeidsgiveravgift brukes som et virkemiddel for å oppmuntre bedrifter til å etablere seg og ansette folk i mindre utviklede eller avsidesliggende områder i Norge. Ved å gi lavere arbeidsgiveravgift i disse områdene, ønsker man å fremme økonomisk vekst og sysselsetting."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hvilken av følgende instanser er primært ansvarlig for innkreving av skatter og avgifter i Norge?",
+        "Options": [
+            "Kommunen der virksomheten er registrert.",
+            "Skatteetaten.",
+            "Norges Bank.",
+            "Statens vegvesen."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Skatteetaten er den sentrale myndigheten som har ansvaret for å sikre at skatter og avgifter blir riktig fastsatt og innbetalt. Dette omfatter blant annet skatt, merverdiavgift, arbeidsgiveravgift, og andre statlige avgifter."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hvilken type sanksjon kan Skatteetaten benytte seg av dersom en virksomhet konsekvent unnlater å betale skatter og avgifter?",
+        "Options": [
+            "Tilbakekall av førerkort for eieren.",
+            "Inndragelse av varelager.",
+            "Direkte trekk i bankkontoen til virksomheten.",
+            "Forbud mot å annonsere virksomheten i media."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Dersom en virksomhet ikke betaler sine skatter og avgifter, har Skatteetaten mulighet til å foreta direkte trekk i virksomhetens bankkonto for å dekke de utestående beløpene. Dette er en del av Skatteetatens innkrevingsforpliktelse for å sikre at statlige midler blir betalt."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Hvordan fungerer en CO2-avgift som et klimatiltak?",
+        "Options": [
+            "Den subsidierer virksomheter som produserer store mengder CO2.",
+            "Den belønner bilister som kjører lange avstander.",
+            "Den pålegger en ekstra kostnad på varer og tjenester som produserer mye CO2.",
+            "Den reduserer merverdiavgiften på fossile brensler."
+        ],
+        "Right Answer": 3,
+        "Explanation": "En CO2-avgift er ment for å gjøre det dyrere å slippe ut CO2. Ved å pålegge en ekstra kostnad på varer og tjenester som produserer mye CO2, oppmuntrer avgiften til redusert bruk av slike varer og tjenester, og stimulerer til overgang til mer klimavennlige alternativer."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Hvilken hovedeffekt ønsker man å oppnå ved å innføre en miljøavgift på produkter eller tjenester med høy klimapåvirkning?",
+        "Options": [
+            "Øke statens inntekter uten å påvirke forbruket av produktet eller tjenesten.",
+            "Oppmuntre forbrukere og produsenter til å velge mer miljøvennlige alternativer.",
+            "Beskytte innenlandske produkter mot internasjonal konkurranse.",
+            "Finansiere subsidier til de samme produktene eller tjenestene."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ved å innføre en miljøavgift på produkter eller tjenester med høy klimapåvirkning, blir disse dyrere for forbrukeren. Dette gir både forbrukere og produsenter økonomiske insitamenter til å velge eller produsere mer klimavennlige alternativer."
+    }
+]

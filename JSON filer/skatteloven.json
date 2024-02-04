@@ -1,0 +1,122 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva er forskuddstrekk?",
+        "Options": [
+            "Skatt en arbeidstaker betaler på forhånd for inntekten de forventer å tjene.",
+            "Skatt som arbeidsgiver betaler på vegne av arbeidstakeren.",
+            "Skatt som betales i etterkant av inntektsgenerering.",
+            "En årlig skatt som betales uavhengig av inntekt."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Forskuddstrekk er den skatten som trekkes fra en arbeidstakers lønn hver måned basert på forventet årsinntekt."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilken forpliktelse har en arbeidsgiver i forbindelse med skattetrekk fra arbeidstakere?",
+        "Options": [
+            "Å rapportere og betale inn forskuddstrekk til skattemyndighetene.",
+            "Å betale skatten selv hvis arbeidstakeren unnlater.",
+            "Å bestemme skattesatsen for hver arbeidstaker.",
+            "Å holde tilbake all skatt til slutten av året."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Arbeidsgiveren har ansvaret for å trekke skatt fra arbeidstakers lønn og betale dette inn til skattemyndighetene."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hvilket utsagn er korrekt om bokføringsregler for drosje?",
+        "Options": [
+            "Drosjeeiere trenger ikke å føre regnskap.",
+            "All inntekt og utgift må dokumenteres og rapporteres.",
+            "Det er kun nødvendig å rapportere inntekter, ikke utgifter.",
+            "Bokføring er kun nødvendig for store drosjeselskaper."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Det er viktig for drosjeeiere å føre detaljert regnskap over alle inntekter og utgifter for å oppfylle lovkravene."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Spørsmål: Hva menes med etterskuddsskatt?",
+        "Options": [
+            "Skatt betalt etter årets slutt basert på forrige års inntekt",
+            "Skatt som betales to ganger i året",
+            "Skatt som kun gjelder for pensjonister",
+            "Skatt som trekkes etter at lønnen er utbetalt"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hva er arbeidsgivers ansvar når det gjelder skattetrekk fra lønn?",
+        "Options": [
+            "Å sikre at skattetrekket er investert",
+            "Å trekke og overføre skattetrekket til skattemyndighetene",
+            "Å gi skattetrekket tilbake til arbeidstakeren ved årets slutt",
+            "Å bestemme skattesatsen for hver enkelt arbeidstaker"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hvilke bilutgifter kan en drosjeeier trekke fra på skatten?",
+        "Options": [
+            "Kun drivstoffutgifter",
+            "Alle drifts- og vedlikeholdsutgifter",
+            "Bare utgifter til dekorasjon av bilen",
+            "Utgifter til personlig bruk av drosjebilen"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Drosjeeiere kan trekke fra drifts- og vedlikeholdsutgifter knyttet til deres forretningsvirksomhet, inkludert drivstoff, reparasjoner og annet nødvendig vedlikehold"
+    },
+    {
+        "Question Number": 7,
+        "Title": "Skal det trekkes skatt av feriepenger som utbetales til en ansatt?",
+        "Options": [
+            "Ja, skatt skal trekkes av alle typer lønn, inkludert feriepenger",
+            "Nei, feriepenger er skattefrie",
+            "Kun hvis de overstiger et visst beløp",
+            "Skattetrekk for feriepenger bestemmes individuelt av hver arbeidstaker"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Skattetrekk gjelder for all lønnsutbetaling, inkludert feriepenger. Dette er i tråd med skattelovgivningen."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Hvilke inntekter må en drosjeeier registrere?",
+        "Options": [
+            "Bare inntekter fra kortbetalinger",
+            "Inntekter fra både kontant- og kortbetalinger",
+            "Kun inntekter fra turer over en viss avstand",
+            "Bare inntekter som overstiger en daglig minimumsgrense"
+        ],
+        "Right Answer": 2,
+        "Explanation": "En drosjeeier må registrere alle inntekter, uavhengig av betalingsmetode. Dette inkluderer både kontant- og kortbetalinger"
+    },
+    {
+        "Question Number": 9,
+        "Title": "Skal tips mottatt av en drosjesjåfør rapporteres og beskattes?",
+        "Options": [
+            "Ja, all tips må rapporteres og beskattes",
+            "Nei, tips er alltid skattefritt",
+            "Bare tips over en bestemt sum må rapporteres",
+            "Tips må rapporteres, men det er ikke skattepliktig"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Ifølge norsk skattelovgivning må all tips rapporteres og beskattes som inntekt."
+    },
+    {
+        "Question Number": 10,
+        "Title": "Hvor lenge må drosjeeiere oppbevare dokumentasjon for sine utgifter?",
+        "Options": [
+            "I minst 2 år",
+            "I minst 5 år",
+            "I minst 10 år",
+            "Dokumentasjonen trenger ikke oppbevares"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge norsk lov skal drosjeeiere oppbevare dokumentasjon på utgifter og inntekter i minst 5 år. Dette er viktig for skattemessig etterkontroll."
+    }
+]

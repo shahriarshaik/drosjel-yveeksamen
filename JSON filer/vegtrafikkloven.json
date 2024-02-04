@@ -1,0 +1,926 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva omfatter Vegtrafikkloven § 1?",
+        "Options": [
+            "Kun trafikk på motorveier",
+            "All trafikk, inkludert fotgjengere og syklister på alle typer veier",
+            "Trafikk med motorvogn og ferdsel på veier eller områder med alminnelig trafikk med motorvogn",
+            "Kun trafikk med lastebiler og busser"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 1 i Vegtrafikkloven dekker all trafikk med motorvogn. Den dekker også annen ferdsel, men dette er begrenset til veier eller områder der det vanligvis forekommer trafikk med motorvogn. Dette betyr at loven gjelder for all trafikk med motorvogner på veier og i områder der slike kjøretøy vanligvis ferdes."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hva er riktige betingelser for øvingskjøring ifølge § 26 i Vegtrafikkloven?",
+        "Options": [
+            "Øvingskjøring kan skje når som helst, uten noen aldersgrenser eller krav til ledsager",
+            "Øvingskjøring krever alltid en godkjent lærer i kjøretøyet, uansett situasjon",
+            "Øvingskjøring må ikke være til fare eller ulempe for andre, og ledsager må ha hatt førerett i minst 5 år",
+            "Øvingskjøring er kun tillatt for personer over 30 år"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 26 må øvingskjøring ikke være til fare eller unødig ulempe for annen trafikk. Når øvingskjøringen er en del av føreropplæring mot vederlag, kreves en godkjent lærer i vognen. I andre tilfeller må eleven ledsages av en person som har fylt 25 år og har gyldig førerett for den aktuelle motorvogngruppen og har hatt slik førerett uavbrutt i minst 5 år."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Spørsmål: Hva er definisjonene som omfattes av § 2 i Vegtrafikkloven?",
+        "Options": [
+            "\"Veg\" omfatter kun offentlig vei og motorvei",
+            "\"Kjøretøy\" refererer utelukkende til motorvogner som personbiler og lastebiler",
+            "\"Veg\" inkluderer gate, plass, opplagsplass, parkeringsplass, holdeplass, bru, ferjekai og andre kai i forbindelse med veg",
+            "\"Motorvogn\" betegner ethvert kjøretøy, inkludert de som kjører på skinner"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 2 i Vegtrafikkloven omfatter termen \"veg\" et bredt spekter av områder, inkludert gate, plass, opplagsplass, parkeringsplass, holdeplass, bru, ferjekai og andre kai som er i direkte forbindelse med en veg. Videre defineres \"kjøretøy\" som en innretning ment for å kjøre på bakken uten skinner, mens \"motorvogn\" er et kjøretøy drevet av en motor. Departementet har også myndighet til å utvide eller begrense hva som betraktes som et kjøretøy eller en motorvogn i lovens forstand."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hva er de grunnleggende reglene for trafikk i henhold til § 3 i Vegtrafikkloven?",
+        "Options": [
+            "Trafikkreglene gjelder kun for motoriserte kjøretøy",
+            "Trafikanter skal alltid prioritere fart over sikkerhet",
+            "Alle skal ferdes hensynsfullt, være aktpågivende og varsom for å unngå fare eller skade",
+            "Fotgjengere har alltid forrang i all trafikk"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 3 i Vegtrafikkloven skal enhver ferdes hensynsfullt og være aktpågivende og varsom for å forhindre fare eller skade. Dette inkluderer også å ikke unødig hindre eller forstyrre annen trafikk. I tillegg er det viktig å vise hensyn til de som bor eller oppholder seg ved veien."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hvem har myndighet til å fastsette trafikkregler i henhold til § 4 i Vegtrafikkloven?",
+        "Options": [
+            "Kun den lokale kommunen for sine egne områder",
+            "Bare politiet i de respektive distriktene",
+            "Kongen for generelle regler og departementet for spesielle områder",
+            "Nasjonalt veivesen for hele landet"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 4 i Vegtrafikkloven er det Kongen som gir de generelle reglene for kjørende, ridende og gående trafikk. Departementet har myndighet til å fastsette spesielle trafikkbestemmelser for en kommune eller en del av en kommune. Det kan også delegere sin myndighet til å gi slike bestemmelser til Statens vegvesen, kommunen, eller lokal politimyndighet."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Spørsmål: Hva sier § 5 i Vegtrafikkloven om skiltregler?",
+        "Options": [
+            "Kun førere av motorvogner må følge offentlige trafikkskilt og signaler",
+            "Trafikkskilt og signaler er veiledende, men ikke bindende",
+            "Alle skal være oppmerksomme på og følge offentlige trafikkskilt, signaler og oppmerking",
+            "Fotgjengere trenger ikke å følge trafikkskilt og signaler"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I følge § 5 i Vegtrafikkloven skal enhver være oppmerksom på offentlig trafikkskilt, signal og oppmerking og rette seg etter de forbud og påbud som gis på denne måten. Dette betyr at alle trafikanter, inkludert fotgjengere, syklister og førere av motorvogner, er forpliktet til å følge skiltene og signalene."
+    },
+    {
+        "Question Number": 7,
+        "Title": "I henhold til § 6 i Vegtrafikkloven, hva er førerens ansvar når det gjelder fart?",
+        "Options": [
+            "Kjøre så raskt som mulig for å minimere trafikkforstyrrelser",
+            "Overholde en fast fartsgrense på 80 km/t under alle forhold",
+            "Tilpasse farten etter sted, føre-, sikt-, og trafikkforhold for å unngå fare",
+            "Følge fartsgrensene kun i tettbygde strøk"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 6 skal førere av kjøretøy tilpasse farten etter stedlige, føre-, sikt-, og trafikkforhold. Dette er for å sikre at det ikke oppstår fare eller ulempe for andre, og for å minimere hindringer eller forstyrrelser i trafikken. Føreren skal alltid ha full kontroll over kjøretøyet."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Hva er de generelle fartsgrensene som er fastsatt i § 6 i Vegtrafikkloven, med mindre annet er skiltet?",
+        "Options": [
+            "30 km/t i tettbygde strøk og 60 km/t utenfor",
+            "50 km/t i tettbygde strøk og 80 km/t utenfor",
+            "Ingen faste grenser, det avhenger av individuelle omstendigheter",
+            "70 km/t på alle veier"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 6 i Vegtrafikkloven, hvis det ikke er fastsatt en annen fartsgrense ved offentlig trafikkskilt, skal det ikke kjøres fortere enn 50 km/t i tettbygd strøk og 80 km/t utenfor tettbygd strøk. Dette gir generelle retningslinjer for fartsgrenser, selv om det kan være lokale variasjoner."
+    },
+    {
+        "Question Number": 9,
+        "Title": "Hvilket av følgende utsagn om fartsgrenser i henhold til § 6 i Vegtrafikkloven er korrekt?",
+        "Options": [
+            "Fartsgrensene gjelder også for konkurransekjøring på offentlig vei",
+            "Fartsgrensene kan settes lavere av departementet, også av hensyn til miljøet",
+            "Fartsgrensene kan økes av Statens vegvesen ved spesielle anledninger",
+            "Fartsgrensene er absolutte og kan ikke endres av noen myndighet"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 6 i Vegtrafikkloven angir at i trafikkregler gitt i medhold av § 4 og skiltregler gitt i medhold av § 5, kan det fastsettes nærmere bestemmelser om fartsgrenser. Dette inkluderer lavere fartsgrenser for bestemte grupper av motorvogner og lavere fartsgrenser for bestemt eller ubestemt tid, også av hensyn til miljøet. Dette viser at departementet har myndighet til å tilpasse fartsgrensene etter ulike behov, inkludert miljøhensyn."
+    },
+    {
+        "Question Number": 10,
+        "Title": "Hva sier § 7 i Vegtrafikkloven om særlige forbud mot trafikk?",
+        "Options": [
+            "Alle kjøretøyer kan forbys på alle veier til enhver tid",
+            "Kun tungtransport kan forbys på spesifikke veier",
+            "Kongen eller fullmektig kan forby bestemte kjøretøy- og trafikantgrupper på visse veier og tider",
+            "Forbud mot trafikk kan kun iverksettes permanent"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 7 i Vegtrafikkloven, kan Kongen eller den han gir fullmakt, forby bestemte grupper av kjøretøyer. Dette forbudet kan begrenses til å gjelde på eller utenfor visse veier og innenfor et bestemt tidsrom. Det kan også gjelde for spesifikke trafikantgrupper, noe som gir myndighetene fleksibilitet til å regulere trafikken etter behov."
+    },
+    {
+        "Question Number": 11,
+        "Title": "Hvem kan treffe vedtak om midlertidig trafikkforbud eller regulering ifølge § 7 i Vegtrafikkloven?",
+        "Options": [
+            "Kun politiet kan treffe slike vedtak",
+            "Bare lokale myndigheter har rett til å regulere trafikken",
+            "Statens vegvesen for riks- og fylkesveger, kommunen for kommunale veier",
+            "Nasjonalt veivesen for alle veityper"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 7 i Vegtrafikkloven bestemmer at Statens vegvesen kan treffe vedtak om midlertidig forbud mot all trafikk eller om annen regulering av trafikk på riksveg og fylkesveg. For kommunale veger er det kommunen som har denne myndigheten. Dette gir myndighetene mulighet til å reagere på forhold som påvirker veien eller dens omgivelser, arbeid på veien, eller veiens tilstand."
+    },
+    {
+        "Question Number": 12,
+        "Title": "Hva sier § 7c i Vegtrafikkloven om kjøring på lukket bane eller annet avsperret område?",
+        "Options": [
+            "Enhver kan kjøre på lukket bane uten tillatelse eller spesielle regler",
+            "Bare profesjonelle sjåfører kan få tillatelse til å kjøre på lukket bane",
+            "Kun Statens vegvesen kan gi tillatelse for kjøring på lukket bane",
+            "Departementet kan fastsette regler for slik kjøring, inkludert tillatelse og forsikring"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: I henhold til § 7c i Vegtrafikkloven, kan departementet gi forskrifter som regulerer kjøring på lukket bane eller annet avsperret område. Dette inkluderer regler om tillatelse, organisering og gjennomføring av slik kjøring, samt krav til forsikring. Dette gir et grunnlag for å sikre at slik kjøring skjer på en sikker og regulert måte."
+    },
+    {
+        "Question Number": 13,
+        "Title": "Hva omfatter reglene Kongen kan fastsette for vilkårsparkering i henhold til § 8 i Vegtrafikkloven?",
+        "Options": [
+            "Regler gjelder kun for parkering på privat grunn",
+            "Kun betalingsfritak for elektriske og hydrogendrevne kjøretøy",
+            "Regler for parkering mot betaling, med tidsbegrensning eller andre vilkår",
+            "Kun krav til skiltplan og bruk av skilt på parkeringsområder"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I følge § 8 i Vegtrafikkloven kan Kongen gi forskrifter om parkering av kjøretøy som skjer mot betaling, med tidsbegrensning eller på andre vilkår, og som finner sted på vei som er åpen for alminnelig ferdsel. Dette inkluderer også håndheving av vilkårsparkering på veier som ikke er åpne for alminnelig ferdsel, og håndheving av parkeringsrestriksjoner på og langs privat vei og utenfor vei."
+    },
+    {
+        "Question Number": 14,
+        "Title": "Hvilke fullmakter har politiet i henhold til § 9 i Vegtrafikkloven når det gjelder trafikkregulering?",
+        "Options": [
+            "Politiet kan kun regulere trafikken ved bruk av skilt og signaler",
+            "Politiet har ingen myndighet til å fravike fra de fastsatte trafikkreglene",
+            "Politiet kan regulere trafikken og fravike fra reglene i §§ 4, 5, 6, 7 og 8",
+            "Kun Statens vegvesen kan regulere trafikken og sperre veier"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 9 i Vegtrafikkloven har politiet myndighet til å regulere trafikken slik forholdene krever det i hvert enkelt tilfelle. Dette inkluderer muligheten til å fravike fra det som er fastsatt i eller i medhold av §§ 4, 5, 6, 7 og 8. Politiet kan også sperre en vegstrekning helt eller delvis for et kortere tidsrom som en del av trafikkreguleringen. Alle er pliktige til straks å rette seg etter påbud og forbud om trafikkregulering gitt av politiet."
+    },
+    {
+        "Question Number": 15,
+        "Title": "Hva er førerens plikter når det kreves stans for kontroll av politiet eller Statens vegvesen?",
+        "Options": [
+            "Føreren kan velge å ikke stanse hvis de er sent ute",
+            "Føreren skal kun stanse for kontroll utført av politiet, ikke Statens vegvesen",
+            "Føreren skal straks stanse for kontroll og vise fram nødvendige dokumenter",
+            "Føreren er kun forpliktet til å vise fram dokumenter hvis de mistenkes for lovbrudd"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Førere av kjøretøy er forpliktet til å straks stanse for kontroll når det kreves av politiet eller Statens vegvesen. Dette inkluderer også plikten til å vise fram dokumenter som det er påbudt å ha med under kjøringen, og å straks etterkomme påbud gitt med hjemmel i denne loven. Dette sikrer at trafikksikkerheten kan opprettholdes og at lovens bestemmelser blir fulgt."
+    },
+    {
+        "Question Number": 16,
+        "Title": "Hvem og i hvilke situasjoner gjelder unntak fra trafikkreglene i § 11 i Vegtrafikkloven?",
+        "Options": [
+            "Bare for førere av private ambulanser under alle forhold",
+            "For førere av utrykningskjøretøy og andre spesifikke kjøretøy i visse tjenester",
+            "Alle kjøretøy i nødsituasjoner, uavhengig av type eller tjeneste",
+            "Unntak gjelder kun for kjøretøy i Statens vegvesens tjeneste"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I følge § 11 i Vegtrafikkloven kan Kongen gi regler som tillater unntak fra trafikkreglene for førere av utrykningskjøretøy, kjøretøy i polititjeneste, vegarbeidsmaskiner eller andre kjøretøy brukt til arbeid på eller ved vei. Dette gjelder også for kjøretøy i Statens vegvesens tjeneste og offentlig parkeringskontrolltjeneste. Disse unntakene anerkjenner behovet for fleksibilitet under visse tjenester som utrykninger eller vegarbeid."
+    },
+    {
+        "Question Number": 17,
+        "Title": "Hva er de grunnleggende pliktene til en person som er innblandet i et trafikkuhell, ifølge § 12 i Vegtrafikkloven?",
+        "Options": [
+            "Forlate stedet umiddelbart for å unngå trafikkforstyrrelser",
+            "Hjelpe skadde, utveksle informasjon, og underrette politiet ved alvorlige uhell",
+            "Kun hjelpe dyr som er kommet til skade",
+            "Kun rapportere til politiet hvis det er materiell skade"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 12 i Vegtrafikkloven, skal enhver som er innblandet i et trafikkuhell, uavhengig av skyld, umiddelbart stanse og hjelpe skadde personer og dyr. De har også plikt til å delta i nødvendige tiltak etter uhellet. Videre er det en gjensidig plikt til å utveksle navn og adresse, og ved alvorlige uhell (som har forårsaket død eller ikke-ubetydelig skade på person) skal politiet underrettes snarest mulig."
+    },
+    {
+        "Question Number": 18,
+        "Title": "Når er det påkrevd å underrette politiet om et trafikkuhell?",
+        "Options": [
+            "Kun hvis det er betydelig materiell skade",
+            "Når uhellet involverer en kjendis eller offentlig person",
+            "Ved alle typer uhell, uansett alvorlighetsgrad",
+            "Ved død, alvorlig skade på person eller hvis ingen kan vareta skadelidtes tarv"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: § 12 i Vegtrafikkloven fastslår at politiet skal underrettes snarest mulig etter et trafikkuhell som har forårsaket død eller ikke-ubetydelig skade på person. I tillegg, hvis det er materiell skade og ingen er til stede for å vareta skadelidtes interesser, skal de involverte enten informere den skadelidte eller politiet om uhellet."
+    },
+    {
+        "Question Number": 19,
+        "Title": "Hva sier loven om flytting av kjøretøy etter et trafikkuhell?",
+        "Options": [
+            "Kjøretøy skal aldri flyttes før politiet ankommer",
+            "Kjøretøy skal flyttes umiddelbart for å lette trafikkflyten",
+            "Kjøretøy skal flyttes hvis det er til fare eller hinder, med unntak ved alvorlige uhell",
+            "Kjøretøy skal kun flyttes hvis det blokkerer en offentlig transportrute"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 20,
+        "Title": "Hvilke tiltak skal treffes ved trafikkuhell som har forårsaket død eller alvorlig skade på person, i henhold til § 12 i Vegtrafikkloven?",
+        "Options": [
+            "Spor skal fjernes umiddelbart for å rydde veien",
+            "Spor og andre forhold av betydning må ikke endres før politiet ankommer",
+            "Kun fotografere åstedet og forlate stedet raskt",
+            "Flytte kjøretøyene for å foreta oppmåling uten politiets samtykke"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Når et trafikkuhell har forårsaket død eller alvorlig skade på person, fastsetter § 12 i Vegtrafikkloven at spor ikke må fjernes og andre forhold av betydning for etterforskningen ikke må endres, med mindre det er strengt nødvendig. De innblandede i uhellet skal søke å hindre fjerning av spor og endring av andre forhold av betydning til politiet kommer til stedet. Dette sikrer at viktig bevis i etterforskningen blir bevart."
+    },
+    {
+        "Question Number": 21,
+        "Title": "Spørsmål: Hva sier § 13 i Vegtrafikkloven om krav til kjøretøyers konstruksjon og bruk?",
+        "Options": [
+            "Kjøretøy kan konstrueres og brukes uten noen spesifikke regler",
+            "Kjøretøy skal være slik at de kan brukes uten å skade veg, med departementets spesifikasjoner",
+            "Alle kjøretøy skal ha piggdekk året rundt",
+            "Kjøretøy trenger ikke vedlikehold så lenge de kan kjøre"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 13 i Vegtrafikkloven fastsetter at kjøretøy skal være bygget, innrettet, utstyrt og vedlikeholdt slik at de kan brukes uten å volde unødig fare eller ulempe, og uten å skade veien. Departementet gir nærmere bestemmelser om bruk, samt om konstruksjon, innretning, vekt, mål og utstyr for de ulike gruppene av kjøretøy."
+    },
+    {
+        "Question Number": 22,
+        "Title": "Hva er de grunnleggende kravene til kjøretøyets konstruksjon og bruk i henhold til § 13 i Vegtrafikkloven?",
+        "Options": [
+            "Kjøretøy kan brukes uten spesielle krav til konstruksjon eller vedlikehold",
+            "Kjøretøy skal være utstyrt med spesifikke dekktyper hele året",
+            "Kjøretøy skal være bygget og vedlikeholdt for trygg bruk uten å skade veier",
+            "Alle kjøretøy må ha elektronisk betalingsenhet uavhengig av vekt"
+        ],
+        "Right Answer": 3,
+        "Explanation": "I følge § 13 i Vegtrafikkloven, skal kjøretøy være bygget, innrettet, utstyrt og vedlikeholdt slik at det kan brukes uten å volde unødig fare eller ulempe og uten å skade veier. Dette sikrer at kjøretøyene er trygge for brukere og ikke skadelige for infrastrukturen."
+    },
+    {
+        "Question Number": 23,
+        "Title": "Når kreves det at et kjøretøy skal være utstyrt med elektronisk betalingsenhet i henhold til § 13 i Vegtrafikkloven?",
+        "Options": [
+            "For alle kjøretøy som benytter offentlige veier",
+            "Kun for kjøretøy med tillatt totalvekt over 3 500 kg",
+            "For alle private kjøretøy uavhengig av vekt",
+            "Kun for kjøretøy i kommersiell bruk"
+        ],
+        "Right Answer": 2,
+        "Explanation": "§ 13 i Vegtrafikkloven angir at kjøretøy med en tillatt totalvekt over 3 500 kg skal være utstyrt med en elektronisk betalingsenhet for kjøring på offentlig vei. Dette gjelder som en del av regelverket for å sikre effektiv betaling og administrasjon av avgifter knyttet til bruk av infrastrukturen."
+    },
+    {
+        "Question Number": 24,
+        "Title": "Hvilke kjøretøy krever loven at skal være utstyrt med en fartsskriver, og hva er hensikten med dette?",
+        "Options": [
+            "Alle private biler for overvåkning av kjørestil",
+            "Spesifikke kjøretøy for registrering av kjøre- og hviletid, arbeidstid og mer",
+            "Kun kjøretøy i offentlig sektor for dokumentasjon av rutebruk",
+            "Alle kjøretøy over 2 000 kg for hastighetskontroll"
+        ],
+        "Right Answer": 2,
+        "Explanation": "§ 13 i Vegtrafikkloven tillater departementet å fastsette at kjøretøy skal være utstyrt med fartsskrivere. Disse fartsskriverne er ment for å registrere kjøre- og hviletid, arbeidstid, ferie- og sykefravær, hastighet, kjøretøyets posisjoner inkludert grensepasseringer, lasting og lossing med mer. Formålet er å kontrollere overholdelsen av regler gitt i og i medhold av Vegtrafikkloven og andre relevante lover."
+    },
+    {
+        "Question Number": 25,
+        "Title": "Under hvilke omstendigheter kan kommunen innføre gebyr for bruk av piggdekk ifølge § 13 i Vegtrafikkloven?",
+        "Options": [
+            "I nærmere fastsatte områder, med samtykke fra departementet",
+            "I alle områder året rundt",
+            "Kun på kommunale veier under spesielle vinterforhold",
+            "Uavhengig av område eller veitype"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Ifølge § 13 i Vegtrafikkloven kan kommunen, med samtykke fra departementet, innføre gebyr for bruk av piggdekk i nærmere fastsatte områder. Dette gir kommunene mulighet til å regulere bruk av piggdekk for å begrense slitasje på veier og miljøulemper, men kun i spesifikke områder og med godkjennelse fra departementet."
+    },
+    {
+        "Question Number": 26,
+        "Title": "Hva er forbudt å besitte eller bruke i motorvogner i henhold til § 13a i Vegtrafikkloven?",
+        "Options": [
+            "Utstyr som varsler om trafikkontroller eller manipulerer teknologisk utstyr",
+            "GPS-navigasjonssystemer og standard fartsholdere",
+            "Radioer og kommunikasjonsutstyr",
+            "Alle typer dashbordkameraer"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Ifølge § 13a i Vegtrafikkloven er det forbudt å besitte eller bruke i motorvogn utstyr som har til formål å varsle om eller forstyrre trafikkontroller, eller overstyre eller manipulere fartsskrivere, speedometere, alkolåser, forurensningsbegrensende utstyr eller annet påkrevd teknologisk utstyr slik at det gir misvisende eller uriktige opplysninger eller signaler."
+    },
+    {
+        "Question Number": 27,
+        "Title": "Hvilke handlinger kan departementet forby i henhold til § 13a i Vegtrafikkloven?",
+        "Options": [
+            "Produksjon og bruk av alle typer teknologisk utstyr i kjøretøy",
+            "Produksjon, distribusjon og salg av utstyr som varsler om trafikkontroller eller manipulerer teknologisk utstyr",
+            "Salg av enhver type biltilbehør, inkludert dekorasjoner og lys",
+            "Bruk av enhver type elektronisk enhet mens man kjører"
+        ],
+        "Right Answer": 2,
+        "Explanation": "I § 13a i Vegtrafikkloven gis departementet myndighet til å forby produksjon, distribusjon, markedsføring og/eller salg av utstyr som har til formål å varsle om trafikkontroller eller manipulere fartsskrivere, speedometere, alkolåser og annet påkrevd teknologisk utstyr i motorvogner."
+    },
+    {
+        "Question Number": 28,
+        "Title": "Hvilke krav kan departementet fastsette for produsenter av kjøretøy i gruppe M, N og O i henhold til § 13b i Vegtrafikkloven?",
+        "Options": [
+            "Krav til maksimal kjøretøyhastighet og minimum kjørelengde",
+            "Krav til utslipp av CO2 og overvåkning av utslipp",
+            "Krav til kjøretøyets farge og design",
+            "Krav til produksjonskostnader og salgspriser for kjøretøy"
+        ],
+        "Right Answer": 2,
+        "Explanation": "I henhold til § 13b i Vegtrafikkloven, kan departementet fastsette regler om utslippskrav for produsenter av kjøretøy i gruppe M (personbiler), N (varebiler) og O (tunge kjøretøy). Disse reglene kan inkludere krav til utslipp av CO2, samt overvåkning og rapportering av disse utslippene. Dette er en del av Norges forpliktelser etter EØS-avtalen for å redusere klimagassutslipp fra kjøretøy."
+    },
+    {
+        "Question Number": 29,
+        "Title": "Hva omfatter reglene som departementet kan fastsette for produsenter av kjøretøy i henhold til § 13b i Vegtrafikkloven?",
+        "Options": [
+            "Krav til bruk av biodrivstoff i alle kjøretøy",
+            "Overtredelsesgebyr for brudd på utslippskrav og godkjenning av innovative teknologier",
+            "Obligatorisk bruk av solenergi i alle nye kjøretøy",
+            "Gratis parkering for kjøretøy med lavt CO2-utslipp"
+        ],
+        "Right Answer": 2,
+        "Explanation": "§ 13b i Vegtrafikkloven tillater departementet å fastsette regler som ikke bare begrenser CO2-utslipp, men også omfatter overvåkning, rapportering, og bruk av innovative teknologier i kjøretøyproduksjonen. Dette inkluderer etablering av overtredelsesgebyrer for brudd på disse kravene og godkjenning av nye, innovative teknologier som kan bidra til å redusere kjøretøyenes miljøpåvirkning."
+    },
+    {
+        "Question Number": 30,
+        "Title": "Hva omfatter departementets bestemmelser for godkjenning av kjøretøy og utstyr i henhold til § 14 i Vegtrafikkloven?",
+        "Options": [
+            "Godkjenning av kjøretøy, deler og utstyr, inkludert typegodkjenning",
+            "Kun godkjenning av kjøretøyets farge og design",
+            "Godkjenning av kjøretøy basert utelukkende på alder",
+            "Godkjenning av utstyr kun for tungtransportkjøretøy"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Ifølge § 14 i Vegtrafikkloven, gir departementet nærmere bestemmelser om undersøkelse og godkjenning, inkludert typegodkjenning, av kjøretøyer og av deler og utstyr til kjøretøyer. Dette sikrer at kjøretøyene og deres komponenter oppfyller nødvendige sikkerhets- og miljøstandarder."
+    },
+    {
+        "Question Number": 31,
+        "Title": "Hva kan departementet kreve i forbindelse med godkjenning av kjøretøy og utstyr i henhold til § 14 i Vegtrafikkloven?",
+        "Options": [
+            "En årlig avgift for alle registrerte kjøretøy",
+            "Gebyr kun for importerte kjøretøy",
+            "Gebyr for godkjenning av kjøretøy og utstyr, samt for manglende fremstilling til forvaltningskontroll",
+            "En standard avgift for all type kjøretøyutstyr, uavhengig av type"
+        ],
+        "Right Answer": 3,
+        "Explanation": "§ 14 i Vegtrafikkloven gir departementet myndighet til å kreve gebyr for godkjenning av kjøretøy og utstyr, samt gebyr for manglende fremstilling av kjøretøy til forvaltningskontroll hos Statens vegvesen. Dette omfatter både godkjenning (inkludert typegodkjenning) og kontrollavgifter for sikring av at kjøretøyene overholder gjeldende standarder og forskrifter."
+    },
+    {
+        "Question Number": 32,
+        "Title": "Hvilken påstand er korrekt angående registrering av motorvogn i henhold til § 15 i Vegtrafikkloven?",
+        "Options": [
+            "Kun nye motorvogner skal registreres",
+            "Registrering av motorvogn er valgfritt",
+            "Kun motorvogner over en viss størrelse krever registrering",
+            "Alle motorvogner skal registreres, og eiere må melde adresseendringer"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Ifølge § 15 i Vegtrafikkloven, skal alle motorvogner registreres. Departementet gir bestemmelser om offentlig registrering, kjennemerker og vognkort. Både den tidligere og den nye eieren av en motorvogn har plikt til å melde fra om eierskifte, og eiere må også melde adresseendringer til registreringsmyndigheten. Dette sikrer en oppdatert og nøyaktig registrering av motorvogner."
+    },
+    {
+        "Question Number": 33,
+        "Title": "Hva er et nødvendig krav for registrering av motorvogn i henhold til § 15 i Vegtrafikkloven?",
+        "Options": [
+            "Bevis for kjøp fra autorisert forhandler",
+            "Gyldig førerkort for den spesifikke motorvognkategorien",
+            "Årlig inspeksjonsrapport for kjøretøyet",
+            "Trygdeerklæring fra et trygdelag eller bevis for at motorvognen ikke trenger å være trygdet"
+        ],
+        "Right Answer": 4,
+        "Explanation": "§ 15 i Vegtrafikkloven fastslår at registrering av motorvogn ikke kan skje uten at det er lagt fram en trygdeerklæring fra et trygdelag i samsvar med bilansvarslova eller bevis for at motorvognen ikke trenger å være trygdet etter nevnte lov. Dette sikrer at alle motorvogner som registreres er forsikret eller unntatt fra forsikringskravet."
+    },
+    {
+        "Question Number": 34,
+        "Title": "Hvilke kjøretøy eller bruk av kjøretøy kan departementet unnta fra registreringsplikt i henhold til § 16 i Vegtrafikkloven?",
+        "Options": [
+            "Bestemte grupper av kjøretøy eller bestemt bruk av kjøretøy",
+            "Alle kjøretøy eldre enn 20 år",
+            "Kun kjøretøy brukt til landbruksformål",
+            "Kjøretøy som er i privat eie og brukes sjeldent"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Ifølge § 16 i Vegtrafikkloven, kan departementet unnta bestemte grupper av kjøretøy eller bestemt bruk av kjøretøy fra registreringsplikten som er fastsatt i § 15. Dette gir fleksibilitet for å tilpasse registreringskravene til spesifikke situasjoner eller behov."
+    },
+    {
+        "Question Number": 35,
+        "Title": "Under hvilke omstendigheter kan registreringsmyndigheten tillate bruk av en umeldt motorvogn i henhold til § 16 i Vegtrafikkloven?",
+        "Options": [
+            "Kun for offentlig bruk i nødstilfeller",
+            "Når kjøretøyet er til reparasjon",
+            "For kortere tid eller et enkelt høve, med særlige krav",
+            "Uten noen krav, så lenge kjøretøyet er i god stand"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge § 16 i Vegtrafikkloven, kan registreringsmyndigheten tillate bruk av en motorvogn for kortere tid eller for et enkelt høve uten at kjøretøyet er registrert i henhold til § 15. For at tillatelse skal gis, må motorvognen være i forsvarlig stand og være påsatt særlige kjennemerker. I tillegg må det fremlegges en trygdeerklæring eller bevis for at motorvognen ikke trenger å være forsikret."
+    },
+    {
+        "Question Number": 36,
+        "Title": "Hvilke krav må oppfylles for å bruke en motorvogn i henhold til § 17 i Vegtrafikkloven?",
+        "Options": [
+            "Motorvognen må være meldt til registrering, ha lovlige kjennemerker, og medbringe vognkort",
+            "Motorvognen kan brukes uten vognkort så lenge den har gyldige kjennemerker",
+            "Alle motorvogner kan parkeres ubegrenset på offentlig vei",
+            "Motorvogner kan brukes uten registrering hvis de er forsikret"
+        ],
+        "Right Answer": 1,
+        "Explanation": "I henhold til § 17 i Vegtrafikkloven, må motorvogn eller andre registreringspliktige kjøretøy ikke brukes uten at de er meldt til registrering og påsatt lovlige kjennemerker, og det skal utferdiges et vognkort som skal følge med under bruken. Dette sikrer at alle kjøretøy som brukes er registrert og identifiserbare, og at nødvendig dokumentasjon er til stede."
+    },
+    {
+        "Question Number": 37,
+        "Title": "Hva er eierens plikt i forbindelse med bruk av motorvogn, ifølge § 17 i Vegtrafikkloven?",
+        "Options": [
+            "Eieren må alltid kjøre kjøretøyet selv",
+            "Eieren har ingen ansvar for hvem som bruker kjøretøyet",
+            "Eieren må forsikre seg om at brukeren av kjøretøyet fyller vilkårene for å føre det",
+            "Eieren må registrere alle som bruker kjøretøyet"
+        ],
+        "Right Answer": 3,
+        "Explanation": "§ 17 i Vegtrafikkloven pålegger eieren av en motorvogn, eller den som har rådighet over den på eierens vegne, å forvisse seg om at personen som får bruke motorvognen, oppfyller de nødvendige vilkårene for å føre kjøretøyet. Dette betyr at eieren har ansvar for å sikre at brukeren har et gyldig førerkort og er i stand til å kjøre kjøretøyet på en trygg og lovlig måte."
+    },
+    {
+        "Question Number": 38,
+        "Title": "Hva sier § 18 i Vegtrafikkloven om bruk av alkolås i kjøretøy?",
+        "Options": [
+            "Alkolås er obligatorisk i alle private kjøretøy",
+            "Ingen kjøretøy krever montering av alkolås",
+            "Alkolås kan kreves i kjøretøy brukt ved transport mot vederlag",
+            "Bare kjøretøy brukt i offentlig transport må ha alkolås"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge § 18 i Vegtrafikkloven, kan departementet fastsette at kjøretøy som brukes ved transport mot vederlag skal være utstyrt med alkolås. Loven gir også bestemmelser om godkjenning, montering og kontroll av alkolåsen. Utgiftene til anskaffelse, montering og kontroll dekkes av den som driver transporten. Departementet kan videre spesifisere hvilke kjøretøygrupper som skal omfattes av denne ordningen."
+    },
+    {
+        "Question Number": 39,
+        "Title": "Hvem dekker utgiftene til anskaffelse, montering og kontroll av alkolåsen i henhold til § 18 i Vegtrafikkloven?",
+        "Options": [
+            "Staten dekker alle utgifter relatert til alkolås",
+            "Den individuelle føreren av kjøretøyet",
+            "Den som driver transporten mot vederlag",
+            "Kjøretøyprodusenten"
+        ],
+        "Right Answer": 3,
+        "Explanation": "§ 18 i Vegtrafikkloven fastsetter at utgiftene til anskaffelse, montering og kontroll av alkolås i kjøretøy som benyttes ved transport mot vederlag, skal dekkes av den som driver transporten. Dette betyr at det er transportoperatøren, ikke staten, føreren eller kjøretøyprodusenten, som er ansvarlig for disse kostnadene."
+    },
+    {
+        "Question Number": 40,
+        "Title": "Hva forplikter § 19 i Vegtrafikkloven eieren eller den som har rådighet over et kjøretøy til?",
+        "Options": [
+            "Framstille kjøretøyet til kontroll ved forespørsel og gi opplysninger om det",
+            "Framstille kjøretøyet kun til årlig kontroll hos godkjent verksted",
+            "Betale en årlig avgift uavhengig av kjøretøyets tilstand",
+            "Kun framstille kjøretøyet for kontroll hvis det er over 10 år gammelt"
+        ],
+        "Right Answer": 1,
+        "Explanation": "I henhold til § 19 i Vegtrafikkloven, må eieren av et kjøretøy, eller den som på eierens vegne har rådighet over det, framstille kjøretøyet til kontroll når politiet eller Statens vegvesen krever det. Vedkommende må også gi opplysninger om kjøretøyet når dette kreves. Dette sikrer at kjøretøyene som brukes i trafikken oppfyller nødvendige sikkerhets- og vedlikeholdskrav."
+    },
+    {
+        "Question Number": 41,
+        "Title": "Hva kan departementet fastsette ifølge § 19 i Vegtrafikkloven om kjøretøykontroll?",
+        "Options": [
+            "Kun regler om farge og design på kjøretøy",
+            "Regler om kontroll av kjøretøy og gebyrer for kontroll",
+            "Kun regler for kjøretøykontroll i urbane områder",
+            "Kun regler for kontroll av elektriske kjøretøy"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge § 19 i Vegtrafikkloven, kan departementet gi forskrifter om kontroll av kjøretøy i henhold til lovens første ledd, samt bestemme gebyrer for slik kontroll. Departementet kan også gi forskrifter om kontroll av kjøretøy langs vei og kriterier for utvelgelse av kjøretøy til kontroll, inkludert krav til kompetanse for kontrollører og kontrollutstyr."
+    },
+    {
+        "Question Number": 42,
+        "Title": "Hvilke krav stilles til virksomheter som utfører periodisk kjøretøykontroll i henhold til § 19a i Vegtrafikkloven?",
+        "Options": [
+            "Kontroll kan utføres av enhver bilverksted uten spesielle godkjenninger",
+            "Bare statlige virksomheter kan utføre periodisk kjøretøykontroll",
+            "Kontrollører og tekniske ledere må fremlegge politiattest og være godkjent",
+            "Kjøretøykontroll er kun obligatorisk for kjøretøy eldre enn 10 år"
+        ],
+        "Right Answer": 3,
+        "Explanation": "I følge § 19a i Vegtrafikkloven, kan periodisk kjøretøykontroll kun utføres av godkjente virksomheter med godkjente kontrollører og teknisk leder. For å bli godkjent, må kontrollører og tekniske ledere fremlegge ordinær politiattest som bevis på at de er skikket for oppgaven. Dette sikrer en høy standard og pålitelighet i kjøretøykontrollprosessen."
+    },
+    {
+        "Question Number": 43,
+        "Title": "Hvilke bestemmelser kan departementet gi i henhold til § 19a i Vegtrafikkloven om periodisk kjøretøykontroll?",
+        "Options": [
+            "Ingen forskrifter er nødvendige for periodisk kjøretøykontroll",
+            "Kun regler om miljøkrav for kjøretøykontroll",
+            "Forskrifter om godkjenning, opplæring, tilsyn og gebyrer for kjøretøykontroll",
+            "Kun regler som gjelder for kjøretøykontroll i urbane områder"
+        ],
+        "Right Answer": 3,
+        "Explanation": "I henhold til § 19a i Vegtrafikkloven, kan departementet gi forskrifter som omhandler vilkårene for godkjenning av virksomheter og personell som utfører periodisk kjøretøykontroll. Dette inkluderer regler om opplæringsvirksomhet, om godkjennings- og tilsynsmyndigheten og om gebyrer for godkjenning og tilsyn. Departementet kan også gi forskrifter om tiltak ved manglende overholdelse av kravene, som pålegg om retting, advarsel, tilbakekall av godkjenningen, stansing av virksomheten og tvangsmulkt. Dette sikrer en standardisert og kvalitetssikret tilnærming til kjøretøykontroll."
+    },
+    {
+        "Question Number": 44,
+        "Title": "Hva krever § 19b i Vegtrafikkloven for verksteder som arbeider med motorvogner?",
+        "Options": [
+            "Verksteder kan fritt utføre arbeid uten godkjenning",
+            "Kun spesialiserte verksteder for elektriske kjøretøy trenger godkjenning",
+            "Alle reparasjoner og vedlikehold må gjøres av godkjente virksomheter",
+            "Bare verksteder som arbeider med tunge kjøretøy krever godkjenning"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge § 19b i Vegtrafikkloven, kan reparasjon, vedlikehold, ombygging, oppbygging og påbyggingsarbeid på motorvogn og tilhenger til motorvogn kun foretas av en godkjent virksomhet. Dette sikrer at arbeidet som utføres på kjøretøyene møter standarder for kvalitet og sikkerhet. Loven gjelder også for montering, kontroll og reparasjon av fartsskrivere."
+    },
+    {
+        "Question Number": 45,
+        "Title": "Hva kan departementet fastsette i henhold til § 19b i Vegtrafikkloven angående verksteder?",
+        "Options": [
+            "Kun gebyrer for bilreparasjon",
+            "Forskrifter for godkjenning, tilsyn, og gebyrer for verksteder",
+            "Ingen regler eller tilsyn for verksteder er nødvendig",
+            "Kun krav til miljøvennlige verksteder"
+        ],
+        "Right Answer": 2,
+        "Explanation": "§ 19b i Vegtrafikkloven gir departementet myndighet til å gi forskrifter om vilkårene og overgangsordninger for godkjenning av verksteder som utfører arbeid på motorvogner. Dette inkluderer regler om godkjenning av virksomhetens leder, tilsyn med virksomheten, gebyrer for godkjenning og tilsyn, samt om pålegg om retting, advarsel og tilbakekall av godkjenningen."
+    },
+    {
+        "Question Number": 46,
+        "Title": "Hva tillater § 19c i Vegtrafikkloven Statens vegvesen å gjøre med virksomheter som driver handel med motorvogner?",
+        "Options": [
+            "Statens vegvesen kan kun inspisere virksomheter basert på kundeklager",
+            "Statens vegvesen har ingen rett til å kontrollere disse virksomhetene",
+            "Statens vegvesen kan kontrollere motorvogner og utstyr i slike virksomheter",
+            "Kun kontrollere virksomheter som selger motorvogner eldre enn 10 år"
+        ],
+        "Right Answer": 3,
+        "Explanation": "I henhold til § 19c i Vegtrafikkloven, har Statens vegvesen myndighet til å kontrollere motorvogner, tilhengere og godkjenningspliktig utstyr i virksomheter som driver handel med disse. Kontrollene gjennomføres etter regler fastsatt av departementet i forskrift. Dette bidrar til å sikre at kjøretøy og utstyr som selges, er i overensstemmelse med gjeldende standarder og forskrifter."
+    },
+    {
+        "Question Number": 47,
+        "Title": "Hvilken rolle har departementet ifølge § 19c i Vegtrafikkloven vedrørende kontroll av virksomheter som selger motorvogner?",
+        "Options": [
+            "Departementet har ingen rolle i å fastsette regler for disse kontrollene",
+            "Departementet fastsetter kun regler for salg av nye motorvogner",
+            "Departementet gir forskrifter for hvordan Statens vegvesen skal utføre kontrollene",
+            "Departementet kontrollerer selv disse virksomhetene"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge § 19c i Vegtrafikkloven, er det departementet som gir forskrifter med nærmere regler for hvordan Statens vegvesen skal utføre kontroller i virksomheter som driver handel med motorvogner, tilhengere og godkjenningspliktig utstyr. Disse forskriftene styrer prosessen og omfanget av kontrollene for å sikre at virksomhetene overholder lovens krav."
+    },
+    {
+        "Question Number": 48,
+        "Title": "Hva regulerer § 20 i Vegtrafikkloven om bruk av utenlandske motorvogner i Norge?",
+        "Options": [
+            "Utenlandske motorvogner kan ikke brukes i Norge",
+            "Utenlandske motorvogner kan brukes fritt uten restriksjoner",
+            "Bestemmelser om bruk av utenlandske motorvogner under spesifikke vilkår",
+            "Kun utenlandske motorvogner fra EØS-land kan brukes i Norge"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge § 20 i Vegtrafikkloven, gir Samferdselsdepartementet bestemmelser om i hvilken utstrekning og på hvilke vilkår motorvogner eller tilhengere som er registrert eller hjemmehørende i en fremmed stat, kan tillates brukt i Norge. Dette betyr at det finnes spesifikke vilkår og regler som regulerer bruken av utenlandske motorvogner på norske veier, sikrer overholdelse av lokale trafikkregler og standarder."
+    },
+    {
+        "Question Number": 49,
+        "Title": "Hva innebærer de alminnelige pliktene for en fører av kjøretøy ifølge § 21 i Vegtrafikkloven?",
+        "Options": [
+            "Førere må alltid kjøre over fartsgrensen for å unngå trafikkork",
+            "Førere har ingen restriksjoner angående deres fysiske eller mentale tilstand",
+            "Ingen må føre kjøretøy når de ikke er skikket grunnet påvirkning eller utmattelse",
+            "Førere må kun ha gyldig førerkort for å anses som skikket"
+        ],
+        "Right Answer": 3,
+        "Explanation": "§ 21 i Vegtrafikkloven fastsetter at ingen må føre eller forsøke å føre kjøretøy når de ikke kan anses som skikket til å kjøre på en trygg måte. Dette inkluderer tilfeller der føreren er påvirket av alkohol, andre berusende eller bedøvende midler, eller er syk, svekket, sliten eller trett. Hensikten er å sikre trafikksikkerheten ved å forhindre kjøring under forhold som kan redusere førerens evne til å kjøre forsvarlig."
+    },
+    {
+        "Question Number": 50,
+        "Title": "Hvilke aspekter kan departementet gi forskrifter om relatert til førere av kjøretøy ifølge § 21 i Vegtrafikkloven?",
+        "Options": [
+            "Kun regler om maksimal kjørehastighet",
+            "Forskrifter om kjøre- og hviletid, bruk av fartsskrivere og arbeidsvilkår",
+            "Forskrifter som kun gjelder for førere av personbiler",
+            "Ingen forskrifter er nødvendige for førere av kjøretøy"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge § 21 i Vegtrafikkloven, kan departementet gi forskrifter om kjøre- og hviletid, om bruk av fartsskrivere, om arbeidstid og om arbeidsvilkår for førere og grupper av førere. Dette inkluderer også regler om registrering av opplysninger som ferie- og sykefravær, lagring og kontroll av disse opplysningene, samt om kontrollmyndighetenes tilgang til virksomheter og kjøretøy. Disse forskriftene er ment for å sikre trygge arbeidsvilkår for førere og overholdelse av relevante regler."
+    },
+    {
+        "Question Number": 51,
+        "Title": "Hva sier § 22 i Vegtrafikkloven om kjøring under påvirkning av alkohol eller annet berusende middel?",
+        "Options": [
+            "Tillatt med alkoholkonsentrasjon i blodet opp til 0,5 promille",
+            "Førere kan kjøre så lenge de ikke føler seg beruset",
+            "Ingen kan føre motorvogn når de er påvirket av alkohol eller annet berusende middel",
+            "Tillatt så lenge alkoholinntaket skjedde dagen før kjøring"
+        ],
+        "Right Answer": 3,
+        "Explanation": "§ 22 i Vegtrafikkloven fastsetter klart at ingen må føre motorvogn når de er påvirket av alkohol eller annet berusende eller bedøvende middel. Videre defineres det at en alkoholkonsentrasjon i blodet på mer enn 0,2 promille eller i utåndingsluften på mer enn 0,1 milligram per liter luft regnes som påvirket av alkohol. Dette gjelder også for andre berusende eller bedøvende midler hvis konsentrasjonen overstiger fastsatte grenser."
+    },
+    {
+        "Question Number": 52,
+        "Title": "Hvilket forbud gjelder for førere av motorvogn etter kjøring ifølge § 22 i Vegtrafikkloven?",
+        "Options": [
+            "Forbud mot å spise innen seks timer etter kjøring",
+            "Forbud mot inntak av alkohol eller berusende middel i visse tilfeller etter kjøring",
+            "Ingen restriksjoner på inntak etter kjøring",
+            "Forbud mot å kjøre igjen innen seks timer etter første tur"
+        ],
+        "Right Answer": 2,
+        "Explanation": "§ 22 i Vegtrafikkloven angir at førere av motorvogn ikke må nyte alkohol eller ta annet berusende eller bedøvende middel i de første seks timene etter kjøringen når det kan bli politietterforskning på grunn av kjøringen eller ved grov uaktsomhet. Dette forbudet er ment å forhindre påvirkning av eventuelle alkoholtester etter en kjøring som kan føre til etterforskning, og sikrer at testresultatene reflekterer førerens tilstand under kjøringen."
+    },
+    {
+        "Question Number": 53,
+        "Title": "Hva er de lovfestede grensene for alkoholkonsentrasjon for førere i henhold til § 22 i Vegtrafikkloven?",
+        "Options": [
+            "Inntil 0,5 promille i blodet og 0,25 milligram per liter luft",
+            "Ingen spesifikke grenser er fastsatt i loven",
+            "Over 1,0 promille i blodet anses som beruset",
+            "Over 0,2 promille i blodet eller 0,1 milligram per liter luft anses som påvirket"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Ifølge § 22 i Vegtrafikkloven, regnes en fører som påvirket av alkohol dersom de har en alkoholkonsentrasjon i blodet på mer enn 0,2 promille, eller en alkoholkonsentrasjon i utåndingsluften på mer enn 0,1 milligram per liter luft. Dette er en streng grense som understreker lovens intensjon om å fremme trafikksikkerhet og forhindre kjøring under påvirkning."
+    },
+    {
+        "Question Number": 54,
+        "Title": "Hvordan håndterer § 22 i Vegtrafikkloven villfarelse med hensyn til alkoholkonsentrasjonens størrelse?",
+        "Options": [
+            "Villfarelse fritar fullstendig for straff",
+            "Villfarelse aksepteres hvis føreren trodde de var under grenseverdiene",
+            "Villfarelse medfører redusert straff",
+            "Villfarelse fritar ikke for straff"
+        ],
+        "Right Answer": 4,
+        "Explanation": "§ 22 i Vegtrafikkloven fastslår at villfarelse med hensyn til alkoholkonsentrasjonens størrelse ikke fritar føreren for straff. Det betyr at en førers misforståelse eller ukjennskap til sin egen alkoholkonsentrasjon ikke er et gyldig forsvar i situasjoner der de overstiger de lovfestede grensene for alkoholkonsentrasjon. Dette sikrer at førere har et absolutt ansvar for å ikke kjøre under påvirkning, uavhengig av deres personlige oppfatning av tilstanden."
+    },
+    {
+        "Question Number": 55,
+        "Title": "Hva sier § 22 i Vegtrafikkloven om forbudet mot inntak av alkohol eller berusende middel etter kjøring?",
+        "Options": [
+            "Ingen restriksjoner på inntak av alkohol eller berusende middel etter kjøring",
+            "Førere kan innta alkohol umiddelbart etter kjøring, uansett omstendighetene",
+            "Forbud mot inntak i seks timer etter kjøring hvis det kan bli politietterforskning",
+            "Forbud mot inntak kun dersom føreren er involvert i en ulykke"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 22 i Vegtrafikkloven fastsetter et forbud mot å innta alkohol eller annet berusende eller bedøvende middel i de første seks timene etter kjøring, spesielt når føreren forstår at det kan bli politietterforskning på grunn av kjøringen eller ved grov uaktsomhet. Dette forbudet er et viktig tiltak for å sikre at eventuelle alkoholtester som tas etter en kjøring, reflekterer førerens tilstand under kjøringen. Forbudet gjelder ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at slik prøve ikke skal tas."
+    },
+    {
+        "Question Number": 56,
+        "Title": "Spørsmål: Hva sier § 22b i Vegtrafikkloven om pliktmessig avhold for de som fører motorvogn i yrke eller stilling?",
+        "Options": [
+            "Yrkesførere kan innta alkohol opptil 4 timer før tjenesten begynner",
+            "Det er ingen spesifikke regler for yrkesførere angående alkohol",
+            "Yrkesførere må avstå fra alkohol og berusende midler i tjenestetiden og 8 timer før",
+            "Kun yrkesførere av passasjertransport må følge reglene for pliktmessig avhold"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 22b i Vegtrafikkloven, må de som fører motorvogn i stilling eller yrke som innebærer befordring av personer eller gods, ikke innta alkohol eller andre berusende eller bedøvende midler i tjenestetiden. Tjenestetiden inkluderer perioden fra arbeidet med kjøring starter til det avsluttes, samt et tidsrom på 8 timer før tjenestetiden begynner. Dette sikrer at yrkesførere er i stand til å utføre sine oppgaver trygt og ansvarlig."
+    },
+    {
+        "Question Number": 57,
+        "Title": "Spørsmål: Hva defineres som \"tjenestetiden\" for en yrkesfører ifølge § 22b i Vegtrafikkloven?",
+        "Options": [
+            "Kun de timene hvor kjøretøyet faktisk er i bevegelse",
+            "Tidsrommet fra arbeidet starter til det avsluttes, inkludert 8 timer før",
+            "Kun arbeidstiden registrert i førerens loggbok",
+            "Tidsrommet fra føreren ankommer arbeidsstedet til arbeidsdagens slutt"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 58,
+        "Title": "Hvilken myndighet har Tolletaten i forhold til testing av ruspåvirkning ifølge § 22c i Vegtrafikkloven?",
+        "Options": [
+            "Tolletaten kan kun be om frivillig blåseprøve uten rett til å holde føreren tilbake",
+            "Tolletaten har ingen myndighet til å utføre tester for ruspåvirkning",
+            "Tolletaten kan utføre alkotest og teste for andre berusende midler ved kontroll",
+            "Kun politiet kan utføre ruspåvirkningstester, ikke Tolletaten"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 22c i Vegtrafikkloven, kan Tolletaten utføre alkotester (foreløpige blåseprøver) og foreløpige tester for å fastslå om en motorvognfører er påvirket av andre berusende eller bedøvende midler. Dette gjelder når motorvognen er stanset i en kontroll etter vareførselsloven. Videre, hvis testresultatet indikerer at føreren kan ha overtrådt bestemmelsen i § 22 (ruspåvirkning), skal politiet straks varsles. Tolletaten har også myndighet til å holde føreren tilbake med nødvendig makt dersom vedkommende forsøker å unndra seg testing eller inntil overlevering til politiet."
+    },
+    {
+        "Question Number": 59,
+        "Title": "Spørsmål: Hva skal Tolletaten gjøre hvis en alkotest eller test for andre berusende midler gir grunn til å tro at føreren er påvirket, i henhold til § 22c i Vegtrafikkloven?",
+        "Options": [
+            "Gi føreren en advarsel og tillate videre kjøring",
+            "Umiddelbart informere politiet og holde føreren tilbake om nødvendig",
+            "Kun notere ned førerens informasjon og rapportere senere",
+            "Ta føreren med til nærmeste politistasjon selv"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 22c i Vegtrafikkloven, skal Tolletaten varsle politiet umiddelbart dersom testresultatet gir grunn til å tro at føreren av motorvognen har overtrådt bestemmelsen i § 22. Tolletaten kan også holde føreren tilbake med makt, hvis nødvendig, dersom føreren forsøker å unndra seg testing eller inntil politiet overtar situasjonen. Maktbruken skal være nødvendig og proporsjonal med situasjonens alvor og omstendighetene."
+    },
+    {
+        "Question Number": 60,
+        "Title": "Spørsmål: Under hvilke omstendigheter kan Tolletaten bruke makt for å holde en motorvognfører tilbake, i henhold til § 22c i Vegtrafikkloven?",
+        "Options": [
+            "Kun hvis føreren nekter å betale tollgebyrer",
+            "Hvis føreren forsøker å unndra seg testing eller venter på politiet",
+            "Alltid ved enhver kontroll, uavhengig av situasjonen",
+            "Kun hvis føreren utgjør en umiddelbar trussel"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 22c i Vegtrafikkloven, har Tolletaten myndighet til å bruke makt for å holde en motorvognfører tilbake dersom føreren forsøker å unndra seg en alkotest eller test for andre berusende eller bedøvende midler, eller inntil føreren er overlevert til politiet. Bruk av makt er imidlertid betinget av at den er nødvendig og står i forhold til situasjonens alvor, tjenestehandlingens formål og omstendighetene for øvrig."
+    },
+    {
+        "Question Number": 61,
+        "Title": "Spørsmål: Hva kan Kongen bestemme om bruk av personlig verneutstyr under kjøring med motorvogn?",
+        "Options": [
+            "Ingen krav til bruk av personlig verneutstyr",
+            "Påbud om bruk av verneutstyr kun for profesjonelle sjåfører",
+            "Påbud om bruk av personlig verneutstyr, med ansvar for føreren for passasjerer under 15 år",
+            "Kun påbud om bruk av verneutstyr i spesielle værforhold"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge bestemmelsen, kan Kongen bestemme at personlig verneutstyr og annet utstyr til sikring av personer skal brukes under kjøring med motorvogn. Kongen kan også gi nærmere regler om omfanget av bruken og unntak fra påbudet. Det kan videre fastsettes at føreren har ansvar for at passasjerer under 15 år bruker slikt utstyr. Dette sikrer at både førere og passasjerer har tilstrekkelig beskyttelse under kjøring, økende trafikksikkerhet for alle involverte."
+    },
+    {
+        "Question Number": 62,
+        "Title": "Spørsmål: Hva kan departementet fastsette i henhold til bestemmelser om bruk av elektronisk utstyr i motorvogn?",
+        "Options": [
+            "Krav om at all bruk av elektronisk utstyr er tillatt under kjøring",
+            "Forbud mot bruk av elektronisk utstyr som kan forstyrre føreren",
+            "Påbud om konstant bruk av mobiltelefon under kjøring for navigasjonsformål",
+            "Ingen restriksjoner eller forskrifter om bruk av elektronisk utstyr i motorvogn"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Departementet har myndighet til å gi nærmere bestemmelser om forbud mot bruk i motorvogn av elektronisk utstyr som kan forstyrre føreren. Dette kan inkludere enheter som mobiltelefoner, nettbrett, og andre enheter som potensielt kan avlede førerens oppmerksomhet og dermed redusere trafikksikkerheten. Målet med slike bestemmelser er å redusere risikoen for distraksjon og øke sikkerheten på veiene."
+    },
+    {
+        "Question Number": 63,
+        "Title": "Spørsmål: Hva er kravene for å ha førerett og førerkort i henhold til § 24 i Vegtrafikkloven?",
+        "Options": [
+            "Ingen krav, alle kan føre motorvogn uten førerkort",
+            "Kun krav om bestått teoriprøve",
+            "Krav om førerett, førerkort og eventuelt gyldig kompetansebevis for relevant kjøretøygruppe",
+            "Krav om førerkort bare for tunge kjøretøy"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 24 i Vegtrafikkloven, må den som skal føre motorvogn ha førerett og ha ervervet førerkort der dette kreves, samt eventuelt gyldig kompetansebevis for den spesifikke gruppen av motorvogner de skal føre. Under kjøring skal føreren alltid ha førerkort og kompetansebevis med seg. Dette sikrer at alle førere har de nødvendige kvalifikasjonene og tillatelsene for å kjøre forskjellige typer kjøretøy."
+    },
+    {
+        "Question Number": 64,
+        "Title": "Spørsmål: Hva sier § 24 i Vegtrafikkloven om alderskrav og andre vilkår for å få førerrett?",
+        "Options": [
+            "Aldersgrense på 16 år for alle typer førerkort",
+            "Ingen aldersgrense eller andre vilkår for førerrett",
+            "18 år for personbil, med mulighet for justering av aldersgrensen for spesifikke klasser",
+            "Kun personer over 21 år kan få førerkort"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 24 i Vegtrafikkloven fastsetter at den som skal få førerett for personbil, må være fylt 18 år. Departementet kan fastsette en høyere eller lavere nedre aldersgrense for førerett for bestemte førerkortklasser. I tillegg må en person som skal få førerkort være edruelig, ha akseptabel vandel, tilstrekkelig syn og førlighet, nødvendig fysisk og psykisk helse, og ha bestått førerprøve."
+    },
+    {
+        "Question Number": 65,
+        "Title": "Spørsmål: Hvilke konsekvenser er det for fusk på førerprøven i henhold til § 24 i Vegtrafikkloven?",
+        "Options": [
+            "Ingen spesielle konsekvenser, man kan forsøke igjen umiddelbart",
+            "En muntlig advarsel og tillatelse til å forsøke igjen neste dag",
+            "Mulig karantene på inntil ett år og nektelse av å gå opp til prøve i andre førerkortklasser",
+            "Automatisk utstedelse av førerkort ved første forsøk på fusk"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 24 i Vegtrafikkloven, kan personer som forsettlig eller grovt uaktsomt fusker eller forsøker å fuske på førerprøven ilegges en karantene på inntil ett år. I denne perioden kan de også nektes å gå opp til prøve i andre førerkortklasser. Dette tiltaket er ment for å opprettholde integriteten og standardene i førerprøvesystemet og sikre at alle som får førerkort har de nødvendige ferdighetene og kunnskapene."
+    },
+    {
+        "Question Number": 66,
+        "Title": "Spørsmål: Hva sier § 24 i Vegtrafikkloven om krav til en førers helse og fysisk form?",
+        "Options": [
+            "Førere trenger ikke å oppfylle noen helse- eller fysikkkrav",
+            "Kun synstest er nødvendig for å få førerkort",
+            "Krav til tilstrekkelig syn, førlighet, og nødvendig fysisk og psykisk helse",
+            "Bare personer under 50 år må oppfylle helsekrav"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 24 i Vegtrafikkloven, må en person som søker førerkort oppfylle bestemte helsekrav. Disse inkluderer tilstrekkelig syn og førlighet, nødvendig fysisk og psykisk helse, og må ha bestått førerprøve. Disse kravene sikrer at føreren er i stand til å håndtere de fysiske og mentale utfordringene som kjøring innebærer, og at de kan kjøre trygt og effektivt."
+    },
+    {
+        "Question Number": 67,
+        "Title": "Spørsmål: Hva er sperrefristen for å oppnå førerett etter ulovlig kjøring uten førerett i henhold til § 24a i Vegtrafikkloven?",
+        "Options": [
+            "Ingen sperrefrist, man kan søke om førerett umiddelbart etter ulovlig kjøring",
+            "Sperrefrist på 6 måneder fra ulovlig kjøring, eller 1 år ved større skade",
+            "Sperrefrist på kun 1 måned etter ulovlig kjøring",
+            "Livstidssperre etter enhver ulovlig kjøring uten førerett"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 24a i Vegtrafikkloven, er det en sperrefrist på 6 måneder før en person som har kjørt motorvogn uten å ha førerett for den aktuelle førerkortklassen kan få slik førerett. Dersom den ulovlige kjøringen har ført til større skade, økes sperrefristen til ett år. For de som er yngre enn den lovlige minstealderen for førerett, løper sperrefristen fra det tidspunktet de oppnår minstealderen."
+    },
+    {
+        "Question Number": 68,
+        "Title": "Hvordan håndteres sperrefristen for å oppnå førerett ved straffbare forhold uten førerett, som nevnt i § 24a i Vegtrafikkloven?",
+        "Options": [
+            "Sperrefristen settes automatisk til 5 år",
+            "Det fastsettes en sperrefrist i dom eller forelegg, ikke kortere enn ved tap av førerett",
+            "Ingen sperrefrist nødvendig ved straffbare forhold",
+            "Sperrefrist fastsettes av Statens vegvesen"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Når en person uten førerett blir ilagt straff for en overtredelse som normalt ville medført tap av føreretten, skal det i samme dom eller forelegg fastsettes en sperrefrist for å gi førerett til vedkommende. Denne fristen skal ikke være kortere enn den perioden for tap av førerett som ville vært fastsatt etter tvingende regler i eller i medhold av § 33. Dette sikrer at straffen for alvorlige trafikkovertredelser reflekterer risikoen og alvorligheten av forholdet."
+    },
+    {
+        "Question Number": 69,
+        "Title": "Spørsmål: Hva kan politimesteren bestemme ved mistanke om straffbart forhold som kan påvirke adgangen til å få førerkort, i henhold til § 24a i Vegtrafikkloven?",
+        "Options": [
+            "Umiddelbar utstedelse av førerkort",
+            "Midlertidig forbud mot erverv av førerett inntil saken er avgjort, maksimalt 3 måneder",
+            "Obligatorisk kjøreskole for mistenkte",
+            "Automatisk sperrefrist på 2 år"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 24a i Vegtrafikkloven gir politimesteren, eller den han gir myndighet, rett til å bestemme at førerett ikke kan erverves før en sak der personen er mistenkt for et straffbart forhold som kan påvirke adgangen til å få førerkort, er endelig avgjort. Dette forbudet kan imidlertid ikke vare lenger enn 3 måneder uten en kjennelse fra tingretten. Denne bestemmelsen er ment for å hindre at personer som potensielt utgjør en risiko i trafikken, får førerett før saken deres er ordentlig vurdert."
+    },
+    {
+        "Question Number": 70,
+        "Title": "Spørsmål: Hvilke straffebestemmelser gjelder for overtredelse av bestemmelser i Vegtrafikkloven i henhold til § 31?",
+        "Options": [
+            "Kun advarsler gis for alle typer overtredelser",
+            "Bøter eller fengsel inntil ett år for forsettlig eller uaktsom overtredelse",
+            "Automatisk fengselsstraff for alle overtredelser",
+            "Kun samfunnstjeneste for trafikklovbrudd"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 31 i Vegtrafikkloven, kan den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne loven, straffes med bøter eller med fengsel inntil ett år. Dette gjelder også for overtredelse av vilkår i enkeltvedtak gitt i medhold av loven og brudd på forbud etter §§ 35 og 36. Straffen reflekterer alvorlighetsgraden av overtredelsen og har til hensikt å fremme trafikksikkerhet."
+    },
+    {
+        "Question Number": 71,
+        "Title": "Spørsmål: Hva er de spesifikke straffebestemmelsene for alkoholrelaterte lovovertredelser i henhold til § 31 i Vegtrafikkloven?",
+        "Options": [
+            "Kun samfunnstjeneste uavhengig av alkoholkonsentrasjon",
+            "Variert straff avhengig av alkoholkonsentrasjon, inkludert bot og fengsel",
+            "Livstidssperre på førerkort for alle alkoholrelaterte overtredelser",
+            "Ingen straff hvis føreren er førstegangsovertreder"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 31 i Vegtrafikkloven angir at straffen for overtredelse av § 22 (om ruspåvirkning av motorvognfører) varierer avhengig av alkoholkonsentrasjonen i blodet eller utåndingsluften. Straffen kan inkludere bot, betinget eller ubetinget fengsel, avhengig av graden av påvirkning. Straffen blir strengere med høyere alkoholkonsentrasjon, og ved gjentatte overtredelser kan straffen inkludere ubetinget fengsel."
+    },
+    {
+        "Question Number": 72,
+        "Title": "Spørsmål: Hva er konsekvensene for tap av førerett ved overtredelse av alkohollovgivningen i henhold til § 33 i Vegtrafikkloven?",
+        "Options": [
+            "Automatisk tap av førerett for alltid ved enhver alkoholrelatert overtredelse",
+            "Tap av førerett for minst 1 år ved overtredelse av alkohollovgivningen",
+            "Kun bøter, uten tap av førerett ved alkoholrelaterte overtredelser",
+            "Tap av førerett for en bestemt tid ved hver overtredelse, uavhengig av alvorlighetsgrad"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 33 i Vegtrafikkloven, skal tapet av førerett fastsettes for minst 1 år dersom rettighetshaveren blir ilagt straff for overtredelse av § 22 (ruspåvirkning av motorvognfører). Dette gjelder ikke for mindre alvorlige overtredelser som er spesifisert i § 31 annet ledd bokstav a. Dette tiltaket er ment for å bidra til trafikksikkerheten ved å forhindre at personer som har kjørt under påvirkning, kan fortsette å kjøre."
+    },
+    {
+        "Question Number": 73,
+        "Title": "Spørsmål: Hva kan politiet gjøre ved mistanke om et straffbart forhold som kan medføre tap av føreretten, som nevnt i § 33 i Vegtrafikkloven?",
+        "Options": [
+            "Politiet kan ikke inngripe før saken er rettskraftig avgjort",
+            "Politiet kan midlertidig tilbakekalle føreretten og ta førerkortet",
+            "Politiet kan kun gi en muntlig advarsel",
+            "Politiet må vente på beslutning fra en dommer før de kan handle"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 33 i Vegtrafikkloven, kan politiet midlertidig tilbakekalle føreretten og ta førerkortet fra en person som med skjellig grunn er mistenkt for et straffbart forhold som kan medføre tap av føreretten. Denne beslutningen må deretter forelegges for påtalemyndigheten, og hvis den mistenkte ikke samtykker, må saken oversendes til tingretten for avgjørelse innen 3 uker."
+    },
+    {
+        "Question Number": 74,
+        "Title": "Spørsmål: Hvilke bestemmelser gjelder for tap av førerett ved trafikkuhell og uaktsomhet, som nevnt i § 33 i Vegtrafikkloven?",
+        "Options": [
+            "Ingen tap av førerett ved trafikkuhell, uavhengig av omstendighetene",
+            "Automatisk tap av førerett for en bestemt periode etter ethvert trafikkuhell",
+            "Tap av førerett for alltid hvis føreren volder legemsskade og unnlater å yte hjelp",
+            "Tap av førerett bare ved trafikkuhell som medfører død"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 33 i Vegtrafikkloven, skal retten til å føre førerkortpliktig motorvogn fratas for alltid dersom rettighetshaveren ved bruk av motorvogn har voldt eller medvirket til trafikkuhell og blir ilagt straff for å ha unnlatt å yte hjelp til noen som kom til skade ved uhellet. Dette gjelder særlig ved overtredelse av bestemmelsene i § 12 om plikter ved trafikkuhell. Denne strenge bestemmelsen er ment å sikre ansvarlighet og hjelp i trafikkuhellssituasjoner."
+    },
+    {
+        "Question Number": 75,
+        "Title": "Spørsmål: Hva kan politiet gjøre hvis det er skjellig grunn til å tro at en fører ikke lenger oppfyller kravene til helse og kjøreferdighet, i henhold til § 34 i Vegtrafikkloven?",
+        "Options": [
+            "Politiet kan ikke gripe inn med mindre det skjer en trafikkulykke",
+            "Politiet kan pålegge legeundersøkelse og ny førerprøve",
+            "Politiet kan kun gi en muntlig advarsel",
+            "Politiet må vente på en domstolsavgjørelse før de kan handle"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 34 i Vegtrafikkloven, kan politimesteren eller den han gir myndighet, pålegge en innehaver av førerett til å underkaste seg en legeundersøkelse og å fremstille seg til helt eller delvis ny førerprøve hvis det er skjellig grunn til å tro at innehaveren ikke lenger oppfyller kravene til syn, helse, førlighet, eller kjøreferdighet som kreves for å kjøre trygt. Dette kan inkludere bekymringer om misbruk av alkohol eller andre berusende midler. Dette tiltaket er ment for å sikre trafikksikkerheten ved å opprettholde førernes helse og kompetanse."
+    },
+    {
+        "Question Number": 76,
+        "Title": "Spørsmål: Hva skjer hvis en førerettinnehaver ikke følger politiets pålegg om legeundersøkelse eller ny førerprøve, som nevnt i § 34 i Vegtrafikkloven?",
+        "Options": [
+            "Ingen umiddelbare konsekvenser",
+            "Automatisk fornyelse av førerkortet",
+            "Tilbakekall av føreretten",
+            "Kun en bot vil bli ilagt"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Når en innehaver av føreretten ikke etterkommer politiets pålegg om legeundersøkelse eller ikke består den pålagte førerprøven, kan politimesteren eller den han gir myndighet tilbakekalle føreretten. Dette er i tråd med § 34 i Vegtrafikkloven, som sikrer at alle førere på veiene oppfyller nødvendige helse- og kompetansekrav for trafikksikkerhet."
+    },
+    {
+        "Question Number": 77,
+        "Title": "Spørsmål: Hva sier § 35 i Vegtrafikkloven om forbud mot å kjøre motorvogn som ikke krever førerkort?",
+        "Options": [
+            "Ingen kan noensinne forbys å kjøre førerkortfrie motorvogner",
+            "Forbud kan ilegges i dom eller ved politimesterens skjønn av hensyn til trafikksikkerhet",
+            "Kun personer over 65 år kan forbys å kjøre førerkortfrie motorvogner",
+            "Forbud gjelder bare hvis personen har vært involvert i en trafikkulykke"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 35 i Vegtrafikkloven, kan en person som er ilagt straff, forbys å føre motorvogn som det ikke kreves førerkort for, enten for en bestemt tid eller for alltid. Dette kan skje gjennom en dom eller forelegg. Politimesteren eller den han gir myndighet, kan også forby en person å kjøre slik motorvogn hvis personen er blitt fratatt retten til å føre motorvogn i medhold av § 34, eller ikke har de nødvendige egenskapene for å kjøre slik motorvogn. Forbudet kan gis av hensyn til trafikksikkerheten eller allmenne hensyn."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hvilke konsekvenser kan det få for en drosjesjåfør å bryte regelen om pliktmessig avhold?",
+        "Options": [
+            "En advarsel og en bot.",
+            "Midlertidig suspensjon av drosjeløyvet.",
+            "Ingen konsekvenser, så lenge sjåføren kjører forsiktig.",
+            "En liten reduksjon i lønnen."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Å bryte regelen om pliktmessig avhold anses som et alvorlig brudd på yrkesutøvelsen som drosjesjåfør. For å sikre trafikksikkerheten kan sjåførens løyve bli midlertidig suspendert, avhengig av alvorlighetsgraden av bruddet."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvem har det primære ansvaret for å sørge for at en drosje er i teknisk forsvarlig stand før den tas i bruk?",
+        "Options": [
+            "Passasjeren som bestiller drosjen.",
+            "Drosjesentralen.",
+            "Drosjesjåføren som skal kjøre drosjen.",
+            "Verkstedet som sist utførte service på drosjen."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Det er drosjesjåførens ansvar å sørge for at kjøretøyet er i teknisk forsvarlig stand før det tas i bruk. Sjåføren må derfor utføre nødvendige sjekker og sikre at bilen overholder alle tekniske krav."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hvilket av følgende dokumenter kreves for å registrere et kjøretøy for drosjevirksomhet i Norge?",
+        "Options": [
+            "En generell kjøpskontrakt.",
+            "En bekreftelse fra Statens vegvesen.",
+            "En lisens fra lokal politimyndighet.",
+            "En attest fra Justervesenet om godkjent taksameter."
+        ],
+        "Right Answer": 4,
+        "Explanation": "For at et kjøretøy skal kunne registreres for drosjevirksomhet i Norge, kreves det en attest fra Justervesenet som bekrefter at taksameteret er godkjent. Dette sikrer at passasjerer blir korrekt belastet for reisen."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hvilken av følgende regler gjelder spesielt for drosjevirksomhet i Norge?",
+        "Options": [
+            "Drosjesjåfører er pålagt å ha en gyldig kjøreseddel når de utfører drosjeoppdrag.",
+            "Drosjer er unntatt fra bompenger på norske veier.",
+            "Drosjer kan parkere hvor som helst uten å betale parkeringsavgift.",
+            "Drosjer kan kjøre i hastigheter over fartsgrensene uten sanksjoner."
+        ],
+        "Right Answer": 1,
+        "Explanation": "En gyldig kjøreseddel er obligatorisk for alle drosjesjåfører i Norge. Den bekrefter at sjåføren oppfyller de kravene som er satt for å kunne drive profesjonell persontransport, og at vedkommende er vurdert skikket til å utføre slike oppdrag."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hva er korrekt angående innsetting av reservedrosjer?",
+        "Options": [
+            "En reservedrosje kan settes inn uten å melde fra til transportmyndighetene.",
+            "En reservedrosje må være merket med en spesiell lapp som viser at den er en reserve.",
+            "En reservedrosje kan settes inn i drift når hoveddrosjen er ute av funksjon, men det skal meldes fra til transportmyndighetene snarest.",
+            "Reservedrosjer trenger ikke å oppfylle de samme tekniske kravene som hoveddrosjen. Riktig svar:"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ved uforutsette situasjoner hvor hoveddrosjen er ute av drift, kan en reservedrosje settes inn. Dette skal imidlertid meldes fra til de relevante transportmyndighetene så raskt som mulig for å sikre at alle kjøretøy i drift er kjent og godkjente."
+    }
+]

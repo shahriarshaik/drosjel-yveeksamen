@@ -1,0 +1,938 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva er et taksameter?",
+        "Options": [
+            "En innretning som kun måler kjøretøyets hastighet.",
+            "En innretning som automatisk beregner pris basert på turens varighet og/eller distanse.",
+            "En programvare som styrer kjøretøyets navigasjonssystem.",
+            "Et verktøy for å registrere kjøretøyets vedlikeholdsbehov."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge definisjonen i forskriften er et taksameter et måleredskap som måler varigheten av en tur og beregner distansen basert på et signal, for deretter å beregne og angi beløpet som skal betales for turen."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hva kjennetegner driftsstillingen \"Opptatt\" for et taksameter?",
+        "Options": [
+            "Prisberegningen er deaktivert.",
+            "Taksameteret er i en tilstand hvor det ikke registrerer noen data.",
+            "Prisberegning gjøres på grunnlag av en takst for turens tilbakelagte distanse og/eller tid og en eventuell starttakst.",
+            "Taksameteret viser oppdragsprisen og er klar for ny tur."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Driftsstillingen \"Opptatt\" indikerer at taksameteret aktivt beregner kostnaden for en pågående tur basert på den tilbakelagte distansen og varigheten av turen, samt inkluderer eventuelle starttakster."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva er et \"brytningspunkt\" i sammenheng med taksametre?",
+        "Options": [
+            "Punktet hvor taksameteret slutter å fungere korrekt.",
+            "Det maksimale beløpet et taksameter kan beregne.",
+            "Hastighetsverdien man får ved å dividere en tidstakst med avstandstakst.",
+            "Punktet hvor taksameteret automatisk slår seg av etter en tur."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Et \"brytningspunkt\" er et konsept i prisberegningen for taksametre, der det markerer den hastigheten hvor taksameteret skifter fra å bruke tidstakst til avstandstakst for å beregne prisen for en tur."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hva er en \"tilleggsinnretning\" i forhold til taksametre?",
+        "Options": [
+            "En del som øker taksameterets nøyaktighet.",
+            "En maskindel som reparerer taksameteret ved feil.",
+            "Et separat navigasjonssystem for taxier.",
+            "En innretning eller programvare som kobles til taksameterets grensesnitt."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: En tilleggsinnretning er et ekstrautstyr eller programvare som utvider eller forbedrer taksameterets funksjonalitet ved å koble seg til dets grensesnitt."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hva er en \"normal beregningsmåte S\" når det kommer til taksametre?",
+        "Options": [
+            "En beregningsmåte hvor kun tidstakst benyttes, uavhengig av hastighet.",
+            "Beregning av pris basert på en flat rate for hele turen, uten hensyn til tid eller avstand.",
+            "En beregningsmåte hvor kun avstandstakst benyttes, uavhengig av tid brukt.",
+            "Prisberegning basert på anvendelse av tidstaksten under brytningspunktet og anvendelsen av avstandstaksten over brytningspunktet."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: \"Normal beregningsmåte S\" refererer til standardprisberegningen der taksameteret skifter fra å bruke tidstakst til avstandstakst når kjøretøyets hastighet krysser et definert brytningspunkt."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hva defineres som en \"forstyrrelse\" i sammenheng med taksametre?",
+        "Options": [
+            "En fysisk hindring som påvirker taksameterets funksjoner.",
+            "En feil ved taksameteret som krever teknisk service.",
+            "En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i de relevante krav, men utenfor taksameterets angitte driftsbetingelser.",
+            "En ytre påvirkning som fører til at taksameteret resettes."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: En \"forstyrrelse\" er ikke nødvendigvis en fysisk hindring, men snarere en variabel som kan påvirke måleresultatene, men som fortsatt ligger innenfor taksameterets spesifikasjoner. Forstyrrelsen er ikke en del av de normale driftsbetingelsene og må derfor håndteres eller kompenseres for å sikre nøyaktige målinger."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Hva menes med \"klimatiske miljøer\" i forhold til taksametre?",
+        "Options": [
+            "Forskjellige klimaanlegginnstillinger i kjøretøyet.",
+            "Varierte temperaturforhold taksameteret er testet for.",
+            "De omgivelsene der taksameteret kan benyttes.",
+            "Klimatiske forhold som ikke påvirker taksameterets funksjon."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: \"Klimatiske miljøer\" refererer til de temperaturmessige og miljømessige forholdene som et taksameter er designet for å kunne operere korrekt i. Dette er viktig for å sikre at taksameteret gir nøyaktige målinger under forskjellige værforhold og temperaturer."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Hva er en \"tilleggsinnretning\" i forbindelse med taksametre?",
+        "Options": [
+            "Et separat måleinstrument for lengre turer.",
+            "En innretning eller programvare som kobles til taksameterets grensesnitt.",
+            "En ekstern skjerm for passasjerer.",
+            "En ekstra GPS-enhet for å spore ruter."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: En tilleggsinnretning refererer til noe som utvider eller komplementerer taksameterets funksjonalitet, som en programvare eller en fysisk enhet som er ment å fungere i samband med taksameteret, ofte for å tilby ekstra tjenester eller funksjoner."
+    },
+    {
+        "Question Number": 9,
+        "Title": "Hva menes med \"oppdragspris\" i forskriften om taksametre?",
+        "Options": [
+            "Den faste prisen for forhåndsbestilte turer.",
+            "Ekstra kostnader for service utover standardprisen.",
+            "Det samlede pengebeløpet som skal betales for en tur basert på en fast starttakst og/eller turens lengde og/eller varighet uten tillegg for ekstra tjenester.",
+            "Prisen på en tur beregnet med høyeste tillatte takst."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Oppdragsprisen er den totale kostnaden for en taxitur som kalkuleres av taksameteret, og som ikke inkluderer ekstrakostnader for tillegg som ekstra bagasje eller flere passasjerer utover det som er standard."
+    },
+    {
+        "Question Number": 10,
+        "Title": "Hva angir et \"brytningspunkt\" i forhold til taksameterets beregninger?",
+        "Options": [
+            "Punktet der taksameteret skifter fra dagtakst til nattakst.",
+            "Hastighetsverdien man får ved å dividere en tidstakst med avstandstakst.",
+            "Punktet der taksameteret starter prisberegning ved turens start.",
+            "Grensen for hvor lang en tur kan være før taksameteret må resettes."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Brytningspunktet i en taksameterinnstilling er det punktet hvor beregningsmetoden skifter fra å beregne kostnad basert på tid (når kjøretøyet står stille eller beveger seg sakte) til å beregne basert på avstand (når kjøretøyet beveger seg over en bestemt hastighet)."
+    },
+    {
+        "Question Number": 11,
+        "Title": "Hvilken driftsstilling på taksameteret indikerer at prisberegningen er deaktivert?",
+        "Options": [
+            "Stopp",
+            "Opptatt",
+            "Ledig",
+            "Av"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Når taksameteret er i \"Ledig\"-modus, er dette en indikasjon på at drosjen er ledig og at prisberegningen ikke er aktiv. Dette betyr at taksameteret ikke beregner noen kostnad mens det er i denne modusen."
+    },
+    {
+        "Question Number": 12,
+        "Title": "Hva refererer \"angitte driftsbetingelser\" til i sammenheng med taksametre?",
+        "Options": [
+            "Tidsperioder hvor taksameteret har høyere takster.",
+            "De verdier av målestørrelsen og påvirkende størrelser som utgjør taksameterets normale driftsbetingelser.",
+            "Vilkårene som må oppfylles for at taksameteret skal kunne installeres i et kjøretøy.",
+            "Betingelsene som definerer når en drosje kan ta i mot oppdrag."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: \"Angitte driftsbetingelser\" beskriver de spesifikke omstendighetene og parametrene som taksameteret er designet for å operere under. Dette inkluderer de målte verdiene og eksterne faktorer som kan påvirke måleresultatet, og som taksameteret er kalibrert for å ta hensyn til under normal drift."
+    },
+    {
+        "Question Number": 13,
+        "Title": "Hva er et krav for taksametre som tilbys for salg, i henhold til forskrift om målenheter og måling?",
+        "Options": [
+            "De må være i stand til å skifte mellom ulike valutaer automatisk.",
+            "De må være koblet til Internett for sanntidsoppdateringer.",
+            "De må ha gyldig samsvarsvurdering etter forskrift 20. desember 2007 nr. 1723 om målenheter og måling kapittel 4.",
+            "De må være produsert innenfor de siste 5 årene."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 3 i forskriften må taksametre som selges eller tilbys for salg ha en gyldig samsvarsvurdering. Dette er en vurdering som bekrefter at produktet overholder gjeldende forskrifter og lovkrav, som i dette tilfellet er de spesifisert i forskrift om målenheter og måling."
+    },
+    {
+        "Question Number": 14,
+        "Title": "Hva må en samsvarsvurdering for et taksameter inkludere ifølge norsk lov?",
+        "Options": [
+            "En test av taksameterets evne til å motstå ekstreme klimatiske forhold.",
+            "En verifisering av taksameterets tilkoblingsmuligheter til de påkrevde tilleggsinnretningene.",
+            "Et sertifikat for energieffektivitet.",
+            "Bekreftelse på at taksameteret kan operere i alle landets regioner uten tekniske problemer."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Samsvarsvurderingen skal, som nevnt i § 3, omfatte taksameterets tilkoblingsmuligheter til nødvendige tilleggsinnretninger. Dette er for å sikre at taksameteret kan fungere korrekt med de enheter og systemer som kreves for korrekt drift, i tråd med gjeldende regelverk."
+    },
+    {
+        "Question Number": 15,
+        "Title": "Hvilket utsagn beskriver best formålet med konstruksjonskravene til et taksameter i henhold til norsk forskrift?",
+        "Options": [
+            "Taksametre skal være vanntette for å tåle bruk i regn.",
+            "Taksametre skal kunne synkronisere med GPS for nøyaktige målinger.",
+            "Taksametre skal ha en høy grad av måleteknisk beskyttelse for å sikre tillit til måleresultatet.",
+            "Taksametre skal være utstyrt med touchscreen for enklere betjening."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 5 i forskriften er det et krav at et taksameter skal ha høy måleteknisk beskyttelse for at alle parter skal kunne stole på måleresultatene."
+    },
+    {
+        "Question Number": 16,
+        "Title": "Hvordan skal et taksameter være konstruert i henhold til forskriften?",
+        "Options": [
+            "Med et innebygd kamera for sikkerhetskopiering av data.",
+            "Slik at det enkelt kan vurderes om det er i samsvar med kravene i forskriften.",
+            "Med mulighet for oppgradering til fremtidig teknologi uten fysiske endringer.",
+            "Det skal ha en fargeskjerm for å vise måleresultater."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Forskriften krever at et taksameter skal kunne vurderes enkelt i forhold til samsvar med de fastsatte kravene."
+    },
+    {
+        "Question Number": 17,
+        "Title": "Hvilken egenskap kreves av et taksameters måletekniske egenskaper?",
+        "Options": [
+            "De må være fleksible og kunne tilpasses etter brukerens preferanser.",
+            "De må kunne kalibreres av brukeren uten spesialverktøy.",
+            "De må kunne kobles til internett for regelmessige oppdateringer.",
+            "De skal være stabile over et tidsrom fastsatt av produsenten under korrekt bruk."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Et taksameter skal ha stabile måletekniske egenskaper i et tidsrom fastsatt av produsenten, gitt at det brukes korrekt."
+    },
+    {
+        "Question Number": 18,
+        "Title": "Hvor lenge skal et taksameter kunne overholde maksimale tillatte målefeil uten regulering?",
+        "Options": [
+            "Minst seks måneder.",
+            "Minst ett år med normal bruk.",
+            "Minst to år, uavhengig av bruksfrekvens.",
+            "På ubestemt tid, så lenge det er i bruk."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Forskriften krever at et taksameter skal kunne overholde maksimale tillatte målefeil uten regulering over et tidsrom på minst ett år under normal bruk."
+    },
+    {
+        "Question Number": 19,
+        "Title": "Hva skal et taksameter ha mulighet for etter installasjon?",
+        "Options": [
+            "Trådløs synkronisering med sentral.",
+            "Separat prøving av nøyaktigheten i tids- og avstandsmålingen.",
+            "Automatisk justering av priser basert på trafikksituasjonen.",
+            "Integrering med forskjellige betalingssystemer uten ekstra tilpasninger."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge forskriften skal et taksameter etter installasjon ha muligheten for separat prøving av nøyaktigheten i både tids- og avstandsmålingen, samt av nøyaktigheten i beregningen av disse."
+    },
+    {
+        "Question Number": 20,
+        "Title": "Hva kreves av et taksameter med hensyn til egnethet for den påtenkte bruk?",
+        "Options": [
+            "Det skal ha en innebygd GPS for bedre lokalisering.",
+            "Det skal kunne stille urimelige krav til brukeren for å oppnå korrekt måleresultat.",
+            "Det skal være egnet til den påtenkte bruk og ikke stille urimelige krav til brukeren for å oppnå et korrekt måleresultat.",
+            "Det skal kunne operere uavhengig av driftsbetingelser som forekommer i praksis."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 6a må et taksameter være tilpasset den praktiske bruken og ikke stille urimelige krav til brukeren for å gi et korrekt måleresultat."
+    },
+    {
+        "Question Number": 21,
+        "Title": "Hvordan skal et taksameter være konstruert med tanke på robusthet?",
+        "Options": [
+            "Det skal være laget av gjennomsiktig materiale for visuell inspeksjon av intern mekanikk.",
+            "Det skal være framstilt av materialer som er velegnet til de påtenkte driftsbetingelsene.",
+            "Det skal kunne tilpasse seg ulike valutaer uten fysisk endring.",
+            "Det må inneholde en selvdiagnostisk funksjon som informerer brukeren om interne feil."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 6b må et taksameter være robust og laget av materialer som er egnet for forventede driftsbetingelser."
+    },
+    {
+        "Question Number": 22,
+        "Title": "Hvilket krav stilles til taksametre når det gjelder kontroll av målefunksjonen?",
+        "Options": [
+            "Målefunksjonen skal kun kunne kontrolleres av sertifiserte teknikere.",
+            "Målefunksjonen skal kunne kontrolleres etter at taksameteret er tatt i bruk, og om nødvendig med særskilt utstyr eller programvare som er en del av taksameteret.",
+            "Målefunksjonen skal ha en innebygd teller for å registrere antall turer.",
+            "Målefunksjonen skal kunne kobles til en sentral database for overvåking."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 6c skal et taksameter konstrueres slik at målefunksjonen kan kontrolleres etter markedsføring og bruk, og nødvendig utstyr eller programvare for kontrollen skal være en del av taksameteret."
+    },
+    {
+        "Question Number": 23,
+        "Title": "Hva er kravet til et taksameters følsomhet og oppløsning?",
+        "Options": [
+            "Det skal ha høyeste mulig følsomhet og oppløsning for alle typer målinger.",
+            "Det skal være tilstrekkelig følsomt og ha tilstrekkelig oppløsning tilpasset måleoppgaven.",
+            "Følsomheten og oppløsningen skal kunne justeres av brukeren etter behov.",
+            "Det må ha lav følsomhet for å unngå feil ved rystelser og vibrasjoner under kjøring."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 6d fastsetter at et taksameter skal ha tilstrekkelig følsomhet og oppløsning som passer til måleoppgaven det er designet for."
+    },
+    {
+        "Question Number": 24,
+        "Title": "Hvordan skal et taksameter være konstruert for å minimere effekten av funksjonsfeil?",
+        "Options": [
+            "Det skal varsle brukeren om enhver funksjonsfeil, uavhengig av feilens påvirkning på måleresultatet.",
+            "Det skal ha en sikkerhetsmekanisme som forhindrer all bruk ved den minste funksjonsfeil.",
+            "Det skal være konstruert slik at virkningen av en funksjonsfeil som gir et unøyaktig måleresultat reduseres så mye som mulig, med mindre feilen er åpenbar.",
+            "Det skal inkludere en ekstern kontrollfunksjon som kan rette opp feil uten brukerintervensjon."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 6e, skal et taksameter utformes for å redusere virkningen av feil som kan føre til unøyaktige målinger, med mindre disse feilene er åpenbare for brukeren."
+    },
+    {
+        "Question Number": 25,
+        "Title": "Hvilke forholdsregler skal tas hvis et taksameter kobles til andre innretninger?",
+        "Options": [
+            "Tilkoblingen skal tillate dataoverføring til skatte- og avgiftsmyndigheter i sanntid.",
+            "Den måle tekniske egenskapene til taksameteret skal ikke påvirkes feilaktig av den andre innretningen.",
+            "Taksameteret skal automatisk oppdatere sin programvare via den tilknyttede innretningen.",
+            "Den tilkoblede innretningen skal ha en identisk skjerm for å vise måleresultatene."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 6f spesifiserer at når et taksameter kobles til en annen innretning, enten direkte eller ved fjerntilkobling, skal ikke dets måletekniske egenskaper bli feilaktig påvirket av denne innretningen."
+    },
+    {
+        "Question Number": 26,
+        "Title": "Hva er et krav til et taksameters egnethet ifølge forskriften?",
+        "Options": [
+            "Det skal kreve spesialutdanning for å oppnå korrekt måleresultat.",
+            "Det skal kunne motstå urimelige krav til brukeren for å oppnå et korrekt måleresultat.",
+            "Det skal være egnet til den påtenkte bruk ved at det tas hensyn til driftsbetingelser som forekommer i praksis.",
+            "Det skal kun være egnet for bruk under ideelle forhold."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 6a skal et taksameter være egnet for den påtenkte bruken og må ta hensyn til de driftsbetingelsene som normalt oppstår i praksis, noe som innebærer at det ikke skal stilles urimelige krav til brukeren for å få korrekte måleresultater."
+    },
+    {
+        "Question Number": 27,
+        "Title": "Hvordan skal robustheten til et taksameter sikres ifølge forskriften?",
+        "Options": [
+            "Ved å bruke det billigste materialet tilgjengelig for å redusere kostnader.",
+            "Gjennom en garanti gitt av produsenten.",
+            "Ved å kreve regelmessig vedlikehold hver 6. måned.",
+            "Ved å være framstilt av materialer som er velegnet til de påtenkte driftsbetingelsene."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: I henhold til § 6b skal et taksameter være robust og framstilt av materialer som er egnet for de driftsbetingelsene det er ment å brukes under."
+    },
+    {
+        "Question Number": 28,
+        "Title": "Hva kreves av et taksameter når det gjelder kontroll etter markedsføring og bruk ifølge forskriften?",
+        "Options": [
+            "Det må kunne kontrolleres av produsenten via en internettforbindelse.",
+            "Det skal være selvreparerende ved funksjonsfeil.",
+            "Målefunksjonen skal kunne kontrolleres etter at taksameteret er markedsført og tatt i bruk.",
+            "Det skal automatisk sende feilrapporter til tilsynsmyndighetene."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 6c må et taksameter være konstruert slik at målefunksjonen kan kontrolleres etter markedsføring og bruk, og om nødvendig, skal spesielt utstyr eller programvare for kontrollen være en del av taksameteret."
+    },
+    {
+        "Question Number": 29,
+        "Title": "Hvilket krav er satt til taksameterets oppløsning og følsomhet?",
+        "Options": [
+            "Det skal ha maksimal oppløsning uavhengig av kostnadene.",
+            "Det skal være tilstrekkelig følsomt og ha tilstrekkelig oppløsning tilpasset måleoppgaven.",
+            "Det skal kunne måle med en feilmargin på 0%.",
+            "Det kreves ingen spesiell oppløsning eller følsomhet så lenge det virker."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 6d spesifiserer at et taksameter skal være tilstrekkelig følsomt og ha passende oppløsning for den måleoppgaven det er designet for."
+    },
+    {
+        "Question Number": 30,
+        "Title": "Hva er kravet til nøyaktigheten til tidsmålingen i en taksameters sanntidsklokke?",
+        "Options": [
+            "Tidsmålingen skal være nøyaktig til 2%.",
+            "Tidsmålingen skal ha en nøyaktighet på minimum 0,02 %.",
+            "Tidsmålingen skal ha en nøyaktighet på 0,2 %.",
+            "Tidsmålingen krever ingen spesifikk nøyaktighet så lenge den er konsekvent."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 7a er det nødvendig at tidsmålingen i et taksameter har en nøyaktighet på minst 0,02 % for å sikre korrekt beregning av takster basert på tiden."
+    },
+    {
+        "Question Number": 31,
+        "Title": "Hvilken påstand om korrigeringsmulighetene for normaltidsklokken i et taksameter er korrekt?",
+        "Options": [
+            "Klokken kan justeres manuelt med opp til 5 minutter per måned.",
+            "Korrigeringsmuligheten skal være på maks 2 minutter per dag, inkludert manuell korrigering.",
+            "Korrigeringsmuligheten skal ikke overstige 2 minutter per uke, og korrigering for sommer- og vintertid skal være manuell.",
+            "Korrigeringsmuligheten skal ikke være på mer enn 2 minutter per uke, og korrigering for sommer- og vintertid skal utføres automatisk."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Ifølge § 7b er det satt et maksimum for hvor mye sanntidsklokken kan justeres, som er 2 minutter per uke, og klokken må automatisk kunne korrigere for sommer- og vintertid uten manuell inngripen."
+    },
+    {
+        "Question Number": 32,
+        "Title": "Hvilke av følgende innretninger er det obligatorisk at et taksameter kan kobles til?",
+        "Options": [
+            "GPS-navigasjonssystem",
+            "Betalingsterminal",
+            "DAB-radio",
+            "Kjøretøyets diagnoseport"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 8c, må et taksameter kunne kobles til en betalingsterminal. Dette er en av de tilleggsinnretningene som er spesifikt oppført i loven som nødvendig for å koble til et taksameter."
+    },
+    {
+        "Question Number": 33,
+        "Title": "Hva skjer hvis tilleggsinnretningene nevnt i § 8 ikke er installert eller ikke fungerer korrekt?",
+        "Options": [
+            "Taksameteret vil utstede en advarsel, men tillater fortsatt drift.",
+            "Taksameteret vil automatisk redusere taksten med 10 %.",
+            "Taksameteret vil fortsette å fungere, men uten å kunne skrive ut kvitteringer.",
+            "Taksameteret skal automatisk forhindre drift ved hjelp av en sikret innstilling."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Ifølge § 8, andre ledd, skal det være mulig å automatisk forhindre drift av taksameteret dersom nødvendige tilleggsinnretninger ikke er installert eller ikke fungerer korrekt, for å sikre at alle operasjonelle aspekter av taksametertjenesten er oppfylt."
+    },
+    {
+        "Question Number": 34,
+        "Title": "Hvilken av følgende informasjoner er det ikke et krav at skal påføres et taksameter?",
+        "Options": [
+            "Måleområde",
+            "Årsmodell for taksameteret",
+            "Produsentens merke eller navn",
+            "Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 9 nevner spesifikke informasjoner som må påføres taksameteret, inkludert måleområde, produsentens merke eller navn, og nummeret på sertifikatet for EF-typegodkjenning eller EF-konstruksjonsundersøkelse. Det er ikke nevnt at årsmodellen til taksameteret er nødvendig informasjon som må påføres."
+    },
+    {
+        "Question Number": 35,
+        "Title": "Hva sier forskriften om påskrifter og merker på et taksameter?",
+        "Options": [
+            "De skal kunne flyttes for å lette vedlikehold av enheten.",
+            "De skal være tydelige og utvetydige, og de skal ikke kunne fjernes eller flyttes.",
+            "De kan være skjult inne i batterirommet for sikkerhets skyld.",
+            "De skal være påført med avtakbar lim for å forenkle oppdateringer."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 9 skal alle merker og påskrifter være tydelige og entydige, og de må være permanente slik at de ikke kan fjernes eller endres, for å sikre integriteten til taksameterets informasjon."
+    },
+    {
+        "Question Number": 36,
+        "Title": "Hva er kravet for tilleggsinnretninger som skal kunne tilkobles et taksameter?",
+        "Options": [
+            "De skal kun installeres av taksameterets produsent.",
+            "De skal ikke tillate taksameteret å fungere dersom de er defekte.",
+            "De kan ikke bygges inn i taksameteret og må være eksterne enheter.",
+            "De må tillate taksameteret å fungere selv om de selv er defekte."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 8 skal det være mulig å automatisk forhindre drift av taksameteret hvis tilleggsinnretningene som kan kobles til (som skriver, takskilt, betalingsterminal og kommunikasjonsenhet for dataoverføring) ikke er installert eller ikke fungerer korrekt."
+    },
+    {
+        "Question Number": 37,
+        "Title": "Hvilken påstand om merking av taksametre er i samsvar med § 9?",
+        "Options": [
+            "Informasjon om batteritype skal alltid påføres taksameteret.",
+            "Enhver form for serienummer er tilstrekkelig for identifikasjon av taksameteret.",
+            "Et unikt identitetsmerke er nødvendig for å kunne skille ett taksameter fra et annet.",
+            "EF-typegodkjenningsnummeret kan erstattes med en generell produktkode."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I § 9 står det at taksameteret skal påføres et unikt identitetsmerke for identifikasjon, dette sikrer at hvert taksameter kan spores individuelt."
+    },
+    {
+        "Question Number": 38,
+        "Title": "Hva er formålet med installasjonsanvisningene for et taksameter ifølge § 11?",
+        "Options": [
+            "Å tillate endringer i målesignalet som representerer turens tilbakelagte avstand.",
+            "Å sikre at installasjonen kan gjøres av brukeren uten hjelp fra produsenten.",
+            "Å forhindre at installasjonen gjør det mulig å endre målesignalet som representerer turens tilbakelagte avstand.",
+            "Å gi brukeren frihet til å tilpasse installasjonen etter eget behov."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 11 skal et taksameter og dets installasjonsanvisninger sikre at en installasjon i henhold til produsentens anvisninger ikke tillater endring av målesignalet som representerer turens tilbakelagte avstand. Dette er for å sikre påliteligheten og nøyaktigheten av taksameteret."
+    },
+    {
+        "Question Number": 39,
+        "Title": "Hvilket krav er stilt til installasjonsanvisningene for et taksameter i henhold til § 11?",
+        "Options": [
+            "De må inkludere alternativer for kalibrering av taksameteret.",
+            "De skal tillate tekniske modifikasjoner for forbedret ytelse av taksameteret.",
+            "De skal kunne forstås og følges av teknisk personell uten spesiell opplæring.",
+            "De skal garantere at installasjonen ikke åpner for endringer av målesignalet for tilbakelagt avstand."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: I henhold til § 11 er hensikten med installasjonsanvisningene å sikre at installasjonen av taksameteret ikke gjør det mulig for noen å endre målesignalet som representerer turens tilbakelagte avstand."
+    },
+    {
+        "Question Number": 40,
+        "Title": "Hvilken beskyttelse er påkrevd for komponenter med avgjørende betydning for måletekniske egenskaper i et taksameter ifølge § 12?",
+        "Options": [
+            "Komponentene skal kunne byttes ut regelmessig for å opprettholde nøyaktighet.",
+            "Komponentene skal være konstruert slik at de kan sikres mot manipulering.",
+            "Komponentene skal være selvjusterende for å unngå behovet for sikring.",
+            "Komponentene skal være åpne for inngrep for enkel vedlikehold."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 12 fremhever at komponenter som er avgjørende for taksameterets måletekniske egenskaper skal være sikret mot manipulering, og at sikkerhetstiltakene skal gjøre det mulig å oppdage eventuelle inngrep."
+    },
+    {
+        "Question Number": 41,
+        "Title": "Hva er kravene til programvaren som har betydning for taksameterets måletekniske egenskaper i henhold til § 12?",
+        "Options": [
+            "Programvaren skal være åpen kildekode for å tillate inspeksjon av alle.",
+            "Programvaren skal ha en tilbakestillingstid på mindre enn 24 timer.",
+            "Programvaren skal være identifisert og sikret, med mulighet for å påvise inngrep i to år.",
+            "Programvaren skal automatisk oppdatere seg selv uten å bevare endringsloggen."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 12 påpeker at programvare med avgjørende betydning for de måletekniske egenskapene skal være sikret og identifisert, og at det skal kunne spores om det har vært inngrep, hvor informasjon om slike inngrep skal være tilgjengelig i to år."
+    },
+    {
+        "Question Number": 42,
+        "Title": "Hvilket krav stilles til sikring av kalibreringsfaktoren for avstandssignalgeneratoren i et taksameter ifølge § 13?",
+        "Options": [
+            "Kalibreringsfaktoren skal kunne endres uten spor.",
+            "Kalibreringsfaktoren må kunne sikres, og endringer skal ikke registreres.",
+            "Endringer i kalibreringsfaktoren må føre til en automatisk nullstilling av taksameteret.",
+            "Endringer i kalibreringsfaktoren skal registrere dato og klokkeslett, og lagres i to år."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: I henhold til § 13 er det et krav at hver endring i kalibreringsfaktoren for avstandssignalgeneratoren må registrere tidspunktet for endringen, og denne informasjonen må oppbevares i taksameteret i to år for kontrollformål."
+    },
+    {
+        "Question Number": 43,
+        "Title": "Hvordan skal sikringen av instrumentinnstillinger og inntastede data håndteres i et taksameter, når disse kan påvirke oppdragsprisen eller tiltak mot uredelig bruk, ifølge § 13?",
+        "Options": [
+            "Instrumentinnstillingene og inntastede data skal være offentlig tilgjengelige for å forhindre uredelig bruk.",
+            "Instrumentinnstillingene og inntastede data skal kunne endres etter hver tur uten sikring.",
+            "Sikring av instrumentinnstillingene og inntastede data må være slik at de kan sikres separat.",
+            "Det er ikke nødvendig å sikre instrumentinnstillingene så lenge taksameteret oppdateres årlig."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 13 fastsetter at når instrumentinnstillingene og inntastede data har betydning for oppdragsprisen eller for å forhindre uredelig bruk, skal det være sikringsmuligheter som gjør at disse kan sikres separat."
+    },
+    {
+        "Question Number": 44,
+        "Title": "Hvilke beregningsmåter må et taksameter kunne anvende i henhold til § 14 for beregning av oppdragspris?",
+        "Options": [
+            "Tidsbasert (T) og distansebasert (D)",
+            "Distansebasert (D) og stedsbasert (P)",
+            "Standard (S) og dynamisk (D)",
+            "Standard (S) og distansebasert (D)"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Ifølge § 14 skal et taksameter kunne bruke de normale beregningsmåtene Standard (S) og Distansebasert (D) når det gjelder beregning av oppdragspris. Brukeren skal kunne velge mellom disse to beregningsmetodene ved hjelp av en sikret innstilling."
+    },
+    {
+        "Question Number": 45,
+        "Title": "På hvilket grunnlag er automatisk endring av takst tillatt i et taksameter i henhold til § 15?",
+        "Options": [
+            "Basert på sjåførens skjønn",
+            "Basert på turens avstand, varighet, klokkeslett, dato og ukedag",
+            "Basert på værforholdene",
+            "Basert på type kjøretøy"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 15 angir at en automatisk endring av takst kun er tillatt på grunnlag av objektive kriterier som turens avstand, varighet, samt tidspunkter som klokkeslett, dato og ukedag. Dette sørger for at taksten beregnes på en rettferdig og forutsigbar måte."
+    },
+    {
+        "Question Number": 46,
+        "Title": "Hvilken faktor er ikke nevnt som et gyldig grunnlag for automatisk takstendring i taksameter etter § 15?",
+        "Options": [
+            "Turens varighet",
+            "Antall passasjerer",
+            "Dato",
+            "Ukedag"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 15, når det kommer til automatisk endring av takst i et taksameter, er antall passasjerer ikke nevnt som et gyldig grunnlag. De godkjente grunnlagene inkluderer turens avstand, varighet, klokkeslett, dato og ukedag."
+    },
+    {
+        "Question Number": 47,
+        "Title": "Hva skal et taksameter gjøre ved en midlertidig reduksjon i spenningsforsyningen under produsentens angitte nedre driftsgrense i henhold til § 16?",
+        "Options": [
+            "Utføre en omstart av hele systemet",
+            "Fortsette å fungere korrekt eller gjenoppta korrekt drift uten tap av data",
+            "Nullstille all tidligere måling og starte en ny måling",
+            "Utsende et feilmeldingssignal til nærmeste verksted"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 16, hvis det er et midlertidig spenningsfall, for eksempel ved gjenoppstart av motoren, skal taksameteret enten fortsette å fungere korrekt eller gjenoppta sin korrekte drift uten å miste data som var tilgjengelige før spenningsfallet."
+    },
+    {
+        "Question Number": 48,
+        "Title": "Hvilken av disse summerte verdiene kan IKKE nullstilles på et taksameter i henhold til § 17?",
+        "Options": [
+            "Samlet antall kilometer bilen har kjørt siden taksameteret ble installert",
+            "Samlet tid kjøretøyet har vært parkert",
+            "Samlet pengebeløp innkrevd som oppdragspris",
+            "Samlet antall turer kjøretøyet har gjort uten passasjerer"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I følge § 17 skal et taksameter være utstyrt med en summeringsinnretning som ikke kan nullstilles, og dette inkluderer samlet pengebeløp innkrevd som oppdragspris."
+    },
+    {
+        "Question Number": 49,
+        "Title": "Hva skjer med de summerte verdiene fra et taksameter hvis strømforsyningen frakobles, i henhold til § 17?",
+        "Options": [
+            "De slettes umiddelbart ved frakobling",
+            "De lagres i ett år for avlesning til et annet medium",
+            "De overføres automatisk til skatteetaten",
+            "De summerte verdiene nullstilles hver måned"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 17, ved frakobling av strømforsyningen til et taksameter, skal de summerte verdiene kunne lagres i ett år slik at verdiene kan avleses til et annet medium."
+    },
+    {
+        "Question Number": 50,
+        "Title": "Hvilken type informasjon er det IKKE et krav at et taksameter skal kunne levere, ifølge § 18?",
+        "Options": [
+            "Driftsstilling: «Ledig», «Opptatt», «Stopp»",
+            "Detaljer om sjåførens kjøretid og pauser",
+            "Oppdragspris for en tur: samlet beløp, oppdragspris, beregning av oppdragspris",
+            "Takstopplysninger: takstparametre"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 18 angir spesifikke typer data et taksameter skal kunne levere, og detaljer om sjåførens kjøretid og pauser er ikke listet blant disse kravene."
+    },
+    {
+        "Question Number": 51,
+        "Title": "Hva innebærer kravet om levering av data fra et taksameter, som angitt i § 18?",
+        "Options": [
+            "Data må skrives ut på papir og oppbevares i kjøretøyet.",
+            "Data skal kunne leveres utelukkende ved manuell avlesning.",
+            "Data må kunne overføres elektronisk for ekstern avlesning eller lagring.",
+            "Data skal kun deles med skattemyndighetene ved forespørsel."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 18 krever at dataene som et taksameter samler inn skal kunne overføres elektronisk for ekstern avlesning eller lagring, for å sikre tilgjengelighet og sikkerhet av dataene."
+    },
+    {
+        "Question Number": 52,
+        "Title": "Hvor lenge må måledata, som nevnt i § 18 bokstav b og d, lagres i henhold til § 19?",
+        "Options": [
+            "Minst ett år, uavhengig av bruk.",
+            "Inntil det ikke lenger er behov for å behandle data for økonomisk oppgjør.",
+            "Kun for varigheten av turen.",
+            "Så lenge sjåføren er ansatt i taxiselskapet."
+        ],
+        "Right Answer": "Error in metadata: look for question \"52\" in html filer\\taksameter.html",
+        "Explanation": "Forklaring: Ifølge § 19 skal måledata lagres så lenge det er aktuelt å benytte dem som grunnlag for økonomisk oppgjør eller så lenge lagring er påkrevd etter annet regelverk. Dette innebærer at dataene må bevares inntil alle økonomiske transaksjoner som dataene støtter, er fullstendig avklart og avsluttet."
+    },
+    {
+        "Question Number": 53,
+        "Title": "Hva kreves ifølge § 20 av et taksameter ved avslutning av en handelstransaksjon?",
+        "Options": [
+            "Å slette alle data umiddelbart etter transaksjonens slutt for å beskytte personvernet.",
+            "Å skrive ut en papirkvittering med detaljer om transaksjonen.",
+            "Å registrere måleresultatet og identifiserende opplysninger varig når målingen ikke kan gjentas.",
+            "Å overføre måleresultatet til partenes smarttelefoner."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 20 sier at et taksameter skal registrere måleresultatet varig sammen med identifiserende opplysninger for transaksjonen, særlig når målingen ikke kan gjentas og i situasjoner hvor en part er fraværende. Dette sikrer at det er en permanent oppføring av transaksjonen som kan brukes for senere verifikasjon eller klager."
+    },
+    {
+        "Question Number": 54,
+        "Title": "Hvordan skal resultatet fra et taksameter vises ifølge § 21?",
+        "Options": [
+            "Resultatet skal kun vises for sjåføren og ikke for passasjeren.",
+            "Resultatet skal kun vises på en visningsanordning, ikke på en salgskvittering.",
+            "Resultatet skal vises både på en visningsanordning og på en salgskvittering, og være lett lesbar for begge parter.",
+            "Resultatet skal være skjult for passasjeren inntil reisen er fullført."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 21 skal resultatet fra et taksameter være synlig for begge parter i en transaksjon både på en visningsanordning og på en salgskvittering. Videre må skriften eller registreringen være lett lesbar og permanent, ikke noe som kan fjernes, og resultatene må være klare og entydige."
+    },
+    {
+        "Question Number": 55,
+        "Title": "Hva skal skje med visningen av en oppdragspris på taksameteret hvis det legges til et manuelt inntastet tillegg ifølge § 21?",
+        "Options": [
+            "Tillegget skal inkluderes i den opprinnelige oppdragsprisen og ikke vises separat.",
+            "Tillegget skal vises sammen med oppdragsprisen, men markeres som en valgfri ekstra kostnad.",
+            "Tillegget skal ikke vises overhodet for passasjeren.",
+            "Tillegget skal utelates fra den viste oppdragsprisen, men kan vises sammen med denne midlertidig."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Riktig svar: D) Tillegget skal utelates fra den viste oppdragsprisen, men kan vises sammen med denne midlertidig."
+    },
+    {
+        "Question Number": 56,
+        "Title": "I hvilke driftsstillinger er et taksameter konstruert for å vise henholdsvis beregnet og endelig oppdragspris ifølge § 22?",
+        "Options": [
+            "Beregnet oppdragspris i \"Ledig\", endelig pris i \"Stopp\"",
+            "Beregnet oppdragspris i \"Opptatt\", endelig pris i \"Ledig\"",
+            "Beregnet oppdragspris i \"Opptatt\", endelig pris i \"Stopp\"",
+            "Beregnet oppdragspris i \"Stopp\", endelig pris i \"Opptatt\""
+        ],
+        "Right Answer": 3,
+        "Explanation": "\" Forklaring: Ifølge § 22 er et taksameter konstruert for å beregne og vise oppdragsprisen i kroner når det er i driftsstillingen \"Opptatt\", og det skal vise den endelige prisen for turen når det er i driftsstillingen \"Stopp\". Dette sikrer at passasjeren kan se prisen under turen og den endelige prisen når turen er avsluttet."
+    },
+    {
+        "Question Number": 57,
+        "Title": "Hvilke enheter skal benyttes for å vise tilbakelagt avstand og medgått tid på et taksameter i samsvar med § 22?",
+        "Options": [
+            "Tilbakelagt avstand i meter, medgått tid i minutter",
+            "Tilbakelagt avstand i kilometer, medgått tid i sekunder",
+            "Tilbakelagt avstand i kilometer, medgått tid i sekunder, minutter eller timer etter egnethet",
+            "Tilbakelagt avstand i meter, medgått tid i sekunder, minutter eller timer etter behov"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 22 spesifiserer at taksameteret skal bruke kilometer for å vise tilbakelagt avstand, og for medgått tid skal det bruke sekunder, minutter eller timer, avhengig av hva som er mest hensiktsmessig. Dette sikrer at målinger er forståelige og unngår misforståelser ved å gi den nødvendige oppløsningen av tiden."
+    },
+    {
+        "Question Number": 58,
+        "Title": "Hva er den maksimale tillatte målefeilen for medgått tid på et taksameter, gitt ingen forstyrrelser, i henhold til § 23?",
+        "Options": [
+            "±1%, minimumsverdi 2 sekunder",
+            "±0,1%, minimumsverdi 0,2 sekunder",
+            "±0,5%, minimumsverdi 1 sekund",
+            "±0,2%, minimumsverdi 0,5 sekunder"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: I henhold til § 23 bokstav a, er den maksimale tillatte målefeilen for medgått tid på et taksameter ±0,1%, med en minimumsverdi for målefeilen satt til 0,2 sekunder. Dette sikrer en høy grad av nøyaktighet i tidsmålingene som taksameteret utfører."
+    },
+    {
+        "Question Number": 59,
+        "Title": "Hva sier § 24 om reproduserbarhet og repeterbarhet for et taksameter?",
+        "Options": [
+            "Resultatene av målinger skal variere betydelig for å tilpasse seg ulike brukere og steder.",
+            "Måleresultatene skal ikke stemme overens selv om måleforholdene er uendret.",
+            "Påfølgende målinger av samme målestørrelse skal ha stor variasjon selv på samme sted.",
+            "Påfølgende målinger skal gi resultater i nært samsvar, med liten variasjon i forhold til de maksimale tillatte målefeilene."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Ifølge § 24, skal et taksameter gi måleresultater som er reproduserbare og repeterbare, hvilket betyr at når de samme målestørrelsene måles under like forhold, bør resultatene være konsistente og ha liten variasjon sammenlignet med de maksimale tillatte målefeilene. Dette sikrer at taksameteret er pålitelig og gir nøyaktige målinger uavhengig av ulike brukere eller lokasjoner."
+    },
+    {
+        "Question Number": 60,
+        "Title": "Hvordan skal maksimale tillatte målefeil bestemmes i henhold til § 25 i forskriften?",
+        "Options": [
+            "Ved å kontrollere feil under varierende påvirkende størrelser samtidig.",
+            "Ved å utføre måleforsøk kun før påføring av en påvirkende størrelse.",
+            "Ved å holde alle påvirkende størrelser konstante på sine maksimale verdiene.",
+            "Ved å kontrollere hver påvirkende størrelse separat, mens andre holdes konstante ved deres referanseverdier."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: § 25 i forskriften spesifiserer at når man bestemmer de maksimale tillatte målefeilene for et taksameter, skal man utføre kontroller for hver relevant påvirkende størrelse separat. Dette betyr at mens man vurderer virkningen av en enkelt påvirkende størrelse, skal alle andre påvirkende størrelser være relativt konstante ved sine referanseverdier. Dette sikrer at man isolerer effekten av hver variabel for å bestemme dens påvirkning på målefeilen nøyaktig."
+    },
+    {
+        "Question Number": 61,
+        "Title": "Hva er produsentens ansvar angående taksameteret i henhold til § 26 i forskriften?",
+        "Options": [
+            "Å oppgi en universell strømforsyning for alle klimatiske forhold.",
+            "Å spesifisere de eksakte geografiske lokasjonene hvor taksameteret kan brukes.",
+            "Å angi det klimatiske, mekaniske og elektromagnetiske miljøet taksameteret er designet for, samt strømforsyning og andre påvirkende størrelser.",
+            "Å sikre at taksameteret kun brukes i tempererte klimaer."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 26 skal produsenten av et taksameter angi det spesifikke klimatiske, mekaniske, og elektromagnetiske miljøet som taksameteret er beregnet for å brukes i. Dette inkluderer også informasjon om passende strømforsyning og eventuelle andre størrelser som kan påvirke målenøyaktigheten. Dette er viktig for å sikre at målingene er nøyaktige under de forholdene som taksameteret faktisk vil bli brukt i."
+    },
+    {
+        "Question Number": 62,
+        "Title": "Hvilket temperaturområde må produsenten av et taksameter spesifisere ifølge § 27 i forskriften?",
+        "Options": [
+            "En fastsatt temperaturgrense på 0 °C til 80 °C.",
+            "Et minste temperaturområde på 80 °C med øvre og nedre grenser som kan velges blant forhåndsbestemte verdier.",
+            "Kun den nedre temperaturgrensen som skal være enten -10, -25 eller -40 °C.",
+            "Øvre og nedre temperaturgrense med valgfritt temperaturområde."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 27 skal produsenten av et taksameter angi både øvre og nedre temperaturgrense for utstyret, med et minimumstemperaturområde på 80 °C. Det er spesifisert at den øvre grensen skal være en av følgende: 40, 55, eller 70 °C, og den nedre grensen skal være en av følgende: -10, -25, eller -40 °C. Dette sikrer at taksameteret kan håndtere de temperaturer det vil bli utsatt for under normal bruk."
+    },
+    {
+        "Question Number": 63,
+        "Title": "Hvilken mekanisk miljøklasse er anvendelig for taksametre ifølge § 28 i forskriften?",
+        "Options": [
+            "Klasse M1, for miljøer med lav vibrasjon og sjokknivå.",
+            "Klasse M2, for miljøer med moderat vibrasjon og sjokknivå.",
+            "Klasse M3, for miljøer med høyt og meget høyt vibrasjons- og sjokknivå.",
+            "Klassen bestemmes individuelt for hvert taksameter, basert på hvor det er montert."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 28 er den mekaniske miljøklassen som er relevant for taksametre klassifisert som M3. Dette innebærer at taksametre skal være i stand til å tåle de vibrasjoner og sjokk som er typisk for miljøer med høyt og meget høyt nivå av disse påvirkningene, slik som de som finnes i kjøretøy som taksametre er vanligvis montert i."
+    },
+    {
+        "Question Number": 64,
+        "Title": "Hvilken elektromagnetisk miljøklasse gjelder for taksametre, som fastsatt i § 29 i forskriften?",
+        "Options": [
+            "Klasse E1, for måleredskap som benyttes i områder med svært lave elektromagnetiske forstyrrelser.",
+            "Klasse E2, for måleredskap som benyttes i industribygg med elektromagnetiske forstyrrelser.",
+            "Klasse E3, for måleredskap som får strøm fra batteriet i et kjøretøy.",
+            "Klasse E3, men kun for måleredskap som ikke er tilknyttet kjøretøyets strømforsyning."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 29 i forskriften er taksametre klassifisert under klasse E3. Dette indikerer at taksametre må kunne håndtere de elektromagnetiske forstyrrelsene som kan oppstå i et kjøretøy som får strøm fra batteriet. Klasse E3 inkluderer også kravene i klasse E2."
+    },
+    {
+        "Question Number": 65,
+        "Title": "Hva omfatter klasse E3 for elektromagnetiske miljø i tillegg til kravene i klasse E2?",
+        "Options": [
+            "Krav til beskyttelse mot spenningsfall ved oppladning av startkretsen og spenningstransienter ved frakobling av utladet batteri mens motoren er i drift.",
+            "Kun krav til beskyttelse mot spenningsavbrudd.",
+            "Kun krav til beskyttelse mot elektrostatiske utladninger.",
+            "Kun krav til beskyttelse mot overspenning på forsyningsledninger."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Klasse E3 omfatter de spesifikke situasjonene som er unike for kjøretøy som får strøm fra batteriet, i tillegg til kravene i klasse E2. Dette inkluderer beskyttelse mot spenningsfall og spenningstransienter som nevnt i § 29."
+    },
+    {
+        "Question Number": 66,
+        "Title": "Når er testforløp med syklisk fuktig varme (kondenserende) mest hensiktsmessig for taksametre, som angitt i § 30?",
+        "Options": [
+            "Når taksameteret kun skal brukes i tørre klimaer.",
+            "Når det er nødvendig med konstante fuktighetsnivåer i testmiljøet.",
+            "Når kondensering er viktig, eller dampgjennomtrengning fremskyndes av ventilasjon.",
+            "Når taksameteret utelukkende skal brukes i områder med høy temperatur."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 30, er testforløp med syklisk fuktig varme (kondenserende) tilrådelig når det er risiko for kondensering eller situasjoner hvor ventilasjon kan fremskynde dampgjennomtrengning. Dette er viktig for å sikre at taksametret tåler de miljømessige forholdene det vil bli utsatt for under faktisk bruk."
+    },
+    {
+        "Question Number": 67,
+        "Title": "Hvem anses normalt som ansvarlig for etterlevelse av kravene i kapittelet om bruk av taksameter, ifølge § 31?",
+        "Options": [
+            "Sjåføren som opererer taksameteret på hverdagsbasis.",
+            "Løyvehaveren av taksametertjenesten, med mindre spesielle grunner indikerer noe annet.",
+            "Produsenten av taksameteret.",
+            "Passasjeren som benytter tjenesten."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 31 er det løyvehaveren som normalt har ansvaret for at taksameteret følger de gjeldende kravene. Det er kun i spesielle tilfeller at ansvaret kan falle på sjåføren eller andre parter."
+    },
+    {
+        "Question Number": 68,
+        "Title": "Når er det tillatt å ta i bruk et taksameter i henhold til § 32?",
+        "Options": [
+            "Når taksameteret har en gyldig samsvarsvurdering, men installasjonen er ikke kontrollert.",
+            "Uavhengig av samsvarsvurdering, så lenge taksameteret er installert korrekt.",
+            "Når Justervesenet har godkjent installasjonen eller løyvehaver kan dokumentere rekvirert installasjonskontroll.",
+            "Når taksameteret er kjøpt direkte fra en autorisert forhandler."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 32 kan et taksameter kun tas i bruk når det foreligger en gyldig samsvarsvurdering, det er installert i henhold til forskriftene, og Justervesenet har enten godkjent installasjonen eller løyvehaver kan vise til en rekvirert installasjonskontroll."
+    },
+    {
+        "Question Number": 69,
+        "Title": "Hva må en ny løyvehaver gjøre med hensyn til taksameteret når det skifter eier, i følge § 32?",
+        "Options": [
+            "Ingenting, så lenge taksameteret fortsatt virker som det skal.",
+            "Gi melding til Justervesenet om eierskiftet.",
+            "Umiddelbart fjerne taksameteret og installere et nytt.",
+            "Søke om ny samsvarsvurdering for taksameteret."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 32 fastslår at når et taksameter skifter løyvehaver, skal den nye løyvehaveren gi melding til Justervesenet, med mindre skiftet utløser annen meldeplikt."
+    },
+    {
+        "Question Number": 70,
+        "Title": "Hva er et krav til installasjon av taksameter i henhold til § 33?",
+        "Options": [
+            "Taksameteret kan kobles fra strømtilførselen for enkel service uten å etterlate spor.",
+            "Taksameteret må installeres av en sertifisert tekniker utnevnt av transportmyndighetene.",
+            "Taksameterets tilkobling til strømtilførsel skal sikres mot frakobling uten at det etterlater spor.",
+            "Plomberinger av taksameteret trenger ikke ha et unikt identitetsmerke."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 33 skal taksameteret installeres i henhold til produsentens anvisninger, og tilkoblingen til strømtilførselen må sikres slik at frakobling ikke er mulig uten å etterlate spor. Dette er for å forhindre uautorisert og usporbar manipulasjon av taksameteret."
+    },
+    {
+        "Question Number": 71,
+        "Title": "Hvilken av følgende tilleggsinnretninger er ikke et krav å ha tilkoblet et taksameter under bruk ifølge § 34?",
+        "Options": [
+            "GPS-navigasjonssystem.",
+            "Visningsanordning og skriver.",
+            "Betalingsterminal dersom den skal benyttes.",
+            "Kommunikasjonsenhet for overføring av data."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Ifølge § 34 er det ikke nevnt at et GPS-navigasjonssystem er en nødvendig tilleggsinnretning som må være tilkoblet et taksameter under bruk. Det som er nevnt som obligatorisk er et takskilt (hvis brukt), visningsanordning og skriver, betalingsterminal (hvis den skal brukes), og en kommunikasjonsenhet for overføring av data."
+    },
+    {
+        "Question Number": 72,
+        "Title": "Hvordan skal takskiltet fungere i henhold til § 34 når taksameteret er i driftsstilling \"Opptatt\"?",
+        "Options": [
+            "Lampen skal blinke for å indikere at drosjen er opptatt.",
+            "Lampen skal være slukket.",
+            "Lampen skal veksle mellom ulike farger.",
+            "Lampen skal være kontinuerlig tent."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 34 skal takskiltet fungere slik at lampen er slukket i driftsstilling \"Opptatt\" og \"Stopp\". Det er en klar indikasjon til potensielle passasjerer om at taksien ikke er tilgjengelig."
+    },
+    {
+        "Question Number": 73,
+        "Title": "Hva er den maksimale tillatte målefeilen for beregning av oppdragspris ved installasjon og under bruk av et taksameter, i henhold til § 35?",
+        "Options": [
+            "±1 %",
+            "±0,25 %",
+            "±0,1 %",
+            "±3 %"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 35 er den maksimale tillatte målefeilen for beregning av oppdragspris ved installasjon og under bruk av et taksameter ±0,1 %. Dette sikrer en høy grad av nøyaktighet i prisen kunden betaler."
+    },
+    {
+        "Question Number": 74,
+        "Title": "Hvilken type opplysninger skal være lett tilgjengelig i et taksameter og lagres i minimum to år for måleteknisk kontroll, i henhold til § 36?",
+        "Options": [
+            "Daglige inntekter fra turer",
+            "Endringer i kalibreringsfaktor",
+            "Drivstofforbruk per tur",
+            "Tidspunkt for hver turstart og slutt"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 36 skal opplysninger om alle endringer i kalibreringsfaktor være lett tilgjengelig ved måleteknisk kontroll og lagres i taksameteret i minimum to år. Dette er viktig for å kunne verifisere og sikre taksameterets nøyaktighet over tid."
+    },
+    {
+        "Question Number": 75,
+        "Title": "Hva må et taksameter lagre informasjon om i minimum to år for formål med måleteknisk kontroll, ifølge § 36?",
+        "Options": [
+            "GPS-posisjoner for alle turer",
+            "Antall turer taksameteret har utført",
+            "Endringer i programvare som har avgjørende betydning for de måletekniske egenskapene",
+            "Kundetilbakemeldinger"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 36 krever at alle endringer i programvare som har avgjørende betydning for de måletekniske egenskapene, skal være lett tilgjengelig ved måleteknisk kontroll og lagres i taksameteret i minimum to år. Dette sikrer at taksameteret opprettholder sin nøyaktighet og pålitelighet, og at eventuelle oppdateringer eller endringer kan ettergås og verifiseres."
+    },
+    {
+        "Question Number": 76,
+        "Title": "Hvor kan Justervesenet kreve at tilsyn med taksameteret blir utført?",
+        "Options": [
+            "Utelukkende på det stedet hvor taksameteret er installert.",
+            "Kun innenfor Justervesenets egne lokaler.",
+            "På et spesifikt sted valgt av taksameterets eier.",
+            "På et nærmere bestemt sted i det området der taksameteret vanligvis brukes, eller i nærheten av Justervesenets lokaler."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Justervesenet har autoritet til å bestemme at tilsynet skal foretas enten på et bestemt sted der taksameteret vanligvis brukes, som gir fleksibilitet til å tilpasse tilsynet etter brukerens vanlige operasjonsområde, eller i nærheten av Justervesenets egne lokaler, som gir enkelhet for administrasjon og tilgang til deres ressurser."
+    },
+    {
+        "Question Number": 77,
+        "Title": "Hva er brukerens ansvar når det gjelder dekkskifte og plombebrudd på et taksameter?",
+        "Options": [
+            "Brukeren skal umiddelbart bruke taksameteret etter dekkskifte uten å melde fra til Justervesenet.",
+            "Brukeren er ansvarlig for å melde fra til Justervesenet om dekkskifte som påvirker måleresultatet og ved plombebrudd før taksameteret tas i bruk igjen.",
+            "Brukeren kan selv foreta ny plombering uten å melde fra til Justervesenet etter plombebrudd.",
+            "Ved plombebrudd er det ingen krav til å melde fra til Justervesenet så lenge taksameteret fungerer som normalt."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge § 38 er brukeren ansvarlig for å informere Justervesenet hvis det utføres et dekkskifte som vesentlig kan påvirke måleresultatet til taksameteret. Dette sikrer at måleresultatet forblir nøyaktig etter endringer i dekkdimensjonen. Videre må brukeren ta taksameteret ut av bruk ved plombebrudd inntil det er blitt foretatt en ny plombering av en kvalifisert installatør, og dette unike identitetsmerket for den nye plomberingen må rapporteres til Justervesenet."
+    },
+    {
+        "Question Number": 78,
+        "Title": "Hva kan konsekvensene være hvis man bryter bestemmelsene i forskriften om bruk av taksametre?",
+        "Options": [
+            "kan konsekvensene være hvis man bryter bestemmelsene i forskriften om bruk av taksametre?",
+            "Brudd på forskriftens bestemmelser kan medføre overtredelsesgebyr i henhold til forskrift 20. desember 2007 nr. 1723 om målenheter og måling kapittel 7.",
+            "Ved overtredelse av forskriftens bestemmelser blir man automatisk utestengt fra å bruke taksametre permanent.",
+            "Overtredelser av bestemmelsene håndheves kun med muntlige advarsler fra Justervesenet."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge § 39 kan overtredelse av forskriftene som regulerer bruk av taksametre resultere i et overtredelsesgebyr. Dette gebyret er utmålt i tråd med bestemmelsene i kapittel 7 i forskriften om målenheter og måling. Dette tjener som en økonomisk straff for å sikre at forskriftene blir fulgt og at taksametre brukes korrekt."
+    }
+]

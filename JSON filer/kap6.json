@@ -1,0 +1,50 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hvilken organisasjonsform har personlig ansvar for alle virksomhetens forpliktelser, og hvor eieren selv er identisk med virksomheten?",
+        "Options": [
+            "Aksjeselskap (AS)",
+            "Ansvarlig selskap (ANS)",
+            "Enkeltpersonforetak (ENK)",
+            "Norsk avdeling av utenlandske foretak (NUF)"
+        ],
+        "Right Answer": 3,
+        "Explanation": "I et enkeltpersonforetak er eieren personlig ansvarlig for all gjeld og andre forpliktelser virksomheten påtar seg. Dette fordi eieren og virksomheten er juridisk sett én og samme enhet."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilken organisasjonsform karakteriseres av at to eller flere deltakere samarbeider om en virksomhet, hvor alle deltakerne har et personlig, solidarisk ansvar for selskapets forpliktelser?",
+        "Options": [
+            "Aksjeselskap (AS)",
+            "Samvirkeforetak",
+            "Norsk avdeling av utenlandske foretak (NUF)",
+            "Ansvarlig selskap (ANS)"
+        ],
+        "Right Answer": 4,
+        "Explanation": "I et ANS har alle deltakerne personlig, solidarisk ansvar for selskapets forpliktelser. Dette betyr at hver deltaker kan holdes ansvarlig for hele selskapets gjeld."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hvor er det nødvendig å registrere et aksjeselskap (AS) etter opprettelsen for at det skal bli juridisk anerkjent og kunne drive virksomhet i Norge?",
+        "Options": [
+            "Arbeidstilsynet",
+            "Norsk Patentkontor",
+            "Enhetsregisteret ved Brønnøysundregistrene",
+            "Norges Bank"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Enhetsregisteret ved Brønnøysundregistrene er det sentrale registeret for enhetsinformasjon i Norge. Alle næringsdrivende enheter, inkludert aksjeselskaper, skal registreres her for juridisk anerkjennelse og muligheten til å drive virksomhet."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hvorfor er det viktig for drosjeselskaper å registrere seg i Merverdiavgiftsregisteret i Norge?",
+        "Options": [
+            "For å få tillatelse til å drive drosjevirksomhet.",
+            "For å kunne innkreve merverdiavgift (MVA) fra kundene.",
+            "For å unngå å betale inntektsskatt.",
+            "For å få tilgang til offentlige anbud."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Merverdiavgiftsregisteret er et offentlig register over virksomheter som skal betale inn merverdiavgift. Ved å være registrert her, kan en virksomhet lovlig innkreve MVA fra kundene og deretter betale dette til staten."
+    }
+]

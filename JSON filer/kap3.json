@@ -1,0 +1,74 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva er hovedformålet med Arbeidsmiljøloven?",
+        "Options": [
+            "Å regulere lønnsnivået i forskjellige bransjer.",
+            "Å sikre trygge ansettelsesforhold og et godt arbeidsmiljø, uavhengig av arbeidstakernes jobbtype og arbeidssted.",
+            "Å begrense antall arbeidstimer en ansatt kan jobbe per uke.",
+            "Å fremme norske industriinteresser i utlandet."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Arbeidsmiljøloven har som formål å sikre et arbeidsmiljø som gir grunnlag for en helsefremmende og meningsfylt arbeidssituasjon, som gir full trygghet mot fysiske og psykiske skadevirkninger, med en velferdsmessig standard som til enhver tid er i samsvar med den teknologiske og sosiale utvikling i samfunnet."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilken av følgende informasjoner er LOVPÅLAGT å inkludere i en arbeidsavtale i Norge?",
+        "Options": [
+            "Lønnens størrelse og eventuelle tillegg og andre godtgjøringer som ikke går fram av tariffavtalen.",
+            "Anbefalinger for videre karriereutvikling.",
+            "En liste over tidligere arbeidsgivere til arbeidstakeren.",
+            "Arbeidsgiverens hobbyer og interesser."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Arbeidsavtaleloven (arbeidsmiljøloven kapittel 14) stiller krav til hva som skal være med i en arbeidsavtale. Blant de obligatoriske elementene er lønnens størrelse, eventuelle tillegg, og andre godtgjøringer som ikke er beskrevet i en tariffavtale."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva er en vesentlig forskjell mellom oppsigelse og avskjed i arbeidsforhold i Norge?",
+        "Options": [
+            "Oppsigelse gis ved mindre forseelser, mens avskjed gis ved alvorlige forseelser.",
+            "Oppsigelse og avskjed er to ord for det samme fenomenet og har ingen vesentlig forskjell.",
+            "Avskjed kan kun gis til arbeidstakere som har vært i bedriften i mindre enn to år.",
+            "Oppsigelse krever en oppsigelsesperiode, mens avskjed ikke krever noen slik periode."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på og krever som regel en oppsigelsesperiode. Avskjed brukes i tilfeller der arbeidstakeren har brutt arbeidsavtalen på en alvorlig måte, og arbeidsforholdet avsluttes umiddelbart uten noen oppsigelsesperiode."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hvor lenge kan en arbeidstaker jobbe sammenhengende uten å ha rett til pause, ifølge den norske arbeidsmiljøloven?",
+        "Options": [
+            "2 timer",
+            "4 timer",
+            "6 timer",
+            "8 timer"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge den norske arbeidsmiljøloven har arbeidstakere rett til en pause dersom arbeidsdagen er lengre enn 6 timer. Pausen skal gi arbeidstakeren en mulighet til hvile og forpleining."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hvor mange virkedager ferie har en arbeidstaker rett til per år i henhold til den norske ferieloven?",
+        "Options": [
+            "20 virkedager",
+            "25 virkedager",
+            "28 virkedager",
+            "30 virkedager"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge den norske ferieloven har alle arbeidstakere rett til 25 virkedager ferie hvert år. Dette tilsvarer 5 ukers ferie, da lørdag regnes som virkedag selv om de fleste ikke jobber denne dagen."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hvor mange prosent av fjorårets lønn opptjenes som feriepenger for vanlige arbeidstakere i Norge?",
+        "Options": [
+            "8%",
+            "10,2%",
+            "12%",
+            "14,3%"
+        ],
+        "Right Answer": 2,
+        "Explanation": "For vanlige arbeidstakere er feriepengegrunnlaget 10,2% av fjorårets lønn. Dette gjelder for de som har mindre enn 5 ukers ferie. For de som har 5 ukers ferie, vil prosentsatsen være høyere."
+    }
+]

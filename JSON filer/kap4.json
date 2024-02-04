@@ -1,0 +1,74 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hvorfor er det viktig at et taksameter er godkjent av Justervesenet?",
+        "Options": [
+            "For å sikre at prisen på turen er basert på en tilfeldig rate.",
+            "For å sikre at taksameteret gir korrekte og rettferdige priser til kundene.",
+            "For å gi sjåføren mulighet til å endre priser etter eget ønske.",
+            "Kun fordi det gir en estetisk fordel i bilen."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Justervesenet godkjenner og kalibrerer måleinstrumenter som taksameter for å sikre at de gir nøyaktige målinger. Dette er for å beskytte både forbrukerne og bedriftene mot uriktige priser og sørge for at beregningen av kostnadene er korrekt og rettferdig."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hva er hovedfokus når man snakker om \"god kjøreadferd\" for en drosjesjåfør?",
+        "Options": [
+            "Å kjøre så raskt som mulig for å tjene mer penger.",
+            "Å alltid overholde trafikkreglene, være oppmerksom og vise hensyn til andre trafikanter.",
+            "Å spille høy musikk i bilen for å underholde passasjerene.",
+            "Å alltid ta den lengste ruten for å øke inntektene."
+        ],
+        "Right Answer": 2,
+        "Explanation": "God kjøreadferd handler om sikkerhet, respekt for trafikkreglene, og å vise hensyn til både passasjerer og andre trafikanter. Dette bidrar til tryggere veier og en bedre opplevelse for passasjerene."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva er hovedforskjellen mellom begrepene \"etikk\" og \"moral\"?",
+        "Options": [
+            "Etikk er personlige følelser, mens moral er samfunnets regler.",
+            "Etikk er studien av hva som er riktig og galt, mens moral er individets egne overbevisninger om hva som er riktig og galt.",
+            "Etikk og moral betyr akkurat det samme og kan brukes om hverandre.",
+            "Etikk er basert på religiøse overbevisninger, mens moral er basert på vitenskapelige fakta."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Etikk refererer til den filosofiske studien av hvordan mennesker bør handle, særlig i forhold til rettferdighet, rettigheter og samfunnsnormer. Det kan også referere til retningslinjer eller koder som bestemmes av bestemte grupper eller yrker. Moral, derimot, refererer til individets personlige overbevisninger om hva som er rett og galt."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hvordan bør en drosjesjåfør tilpasse sin service for å imøtekomme en eldre passasjer som har hørselstap og ikke bruker smarttelefon?",
+        "Options": [
+            "Ignorere passasjerens hørselstap og kommunisere som vanlig, mens man forventer at de bruker en smarttelefon for all kommunikasjon.",
+            "Be passasjeren skaffe seg høreapparat og laste ned en app for enklere kommunikasjon med drosjesjåføren.",
+            "Snakke høyere og tydeligere, tilby hjelp med bagasje, og sørge for at betaling kan skje med andre metoder enn kun via en app på smarttelefon.",
+            "Unngå all kommunikasjon med passasjeren for å ikke forstyrre dem."
+        ],
+        "Right Answer": 3,
+        "Explanation": "For å yte god service til eldre med hørselstap, bør drosjesjåføren ta hensyn til deres behov ved å kommunisere tydelig og tilby hjelp der det er nødvendig, som for eksempel med bagasje. Ikke alle eldre bruker smarttelefon, så det er viktig å ha alternative betalingsmetoder tilgjengelige."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hvorfor er lovpålagt kontroll av drosjekjøretøy viktig?",
+        "Options": [
+            "Kun for å øke inntektene til staten.",
+            "For å sikre at drosjekjøretøyet kun brukes av lisensinnehaveren.",
+            "For å sikre at drosjekjøretøyet oppfyller sikkerhets- og miljøkrav og er trygt for passasjerer og andre trafikanter.",
+            "For å sørge for at drosjekjøretøyet har en bestemt farge."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Lovpålagt kontroll av drosjekjøretøy sikrer at kjøretøyene som brukes i drosjetjenesten oppfyller de nødvendige sikkerhets- og miljøkrav. Dette bidrar til å beskytte passasjerer, sjåfører og andre trafikanter mot potensielle farer på veien."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hva er hovedformålet med å kreve kjøreseddel i henhold til yrkestransportloven kap. 7a?",
+        "Options": [
+            "Å sørge for at alle drosjesjåfører har en fast arbeidsplass.",
+            "Å sikre at drosjesjåfører har den nødvendige kompetansen og er skikket for yrket.",
+            "Å tvinge drosjesjåfører til å betale ekstra gebyrer til staten.",
+            "Å bestemme fargen på drosjene."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Kravet om kjøreseddel i yrkestransportloven kap. 7a er ment for å sikre at de som driver med persontransport mot vederlag har nødvendig kompetanse og er skikket til å utføre yrket. Dette beskytter både passasjerer og sikrer kvaliteten på transporttjenesten."
+    }
+]

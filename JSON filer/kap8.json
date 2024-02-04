@@ -1,0 +1,38 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva er hovedformålet med \"Forskrift om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn\"?",
+        "Options": [
+            "Å sikre like konkurransevilkår mellom ulike drosjetjenester.",
+            "Å fastsette en minstepris for alle drosjeturer.",
+            "Å bestemme antall drosjelisenser som skal gis ut i et år.",
+            "Å regulere kjøretøyets maksimale hastighet."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forskriften er utformet for å sikre at drosjetjenester opererer under like vilkår, slik at de kan konkurrere på en rettferdig måte. Dette innebærer blant annet å ha klare regler for hvordan takster beregnes og hva maksimalprisene er for tjenester, for å unngå urimelige prisforskjeller og villedende prissetting."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilken av følgende påstander er korrekt angående \"Forskrift om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn\"?",
+        "Options": [
+            "Forskriften gir drosjesjåfører full frihet til å bestemme prisen for en tur.",
+            "Forskriften sier at alle drosjeturer skal ha samme faste pris, uavhengig av avstand eller tid.",
+            "Forskriften legger føringer for hvordan takster kan beregnes og setter en øvre grense for hva som kan kreves for en drosjetur.",
+            "Forskriften pålegger alle drosjesjåfører å tilby rabatt for studenter og pensjonister."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forskriften gir veiledning og regulering for hvordan drosjetakster skal beregnes. Den sørger for at det er en viss grad av standardisering og rettferdighet i prissettingen, og den setter også maksimalpriser for å forhindre at kundene blir overbelastet."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva kan løyvestyresmakta gi påbud om ifølge \"Forskrift om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn\"?",
+        "Options": [
+            "At alle drosjer skal være elektriske innenfor en bestemt tidsperiode.",
+            "At drosjekjøring innenfor en kommune skal drives med motorvogn som har en øvre grense for miljøskadelig utslipp.",
+            "At drosjer skal tilby gratis WiFi for alle passasjerer.",
+            "At alle drosjeturer skal inkludere en obligatorisk tips på 10% av totalbeløpet."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Ifølge forskriften kan løyvestyresmakta gi påbud om at drosjekjøring innenfor en kommune skal drives med kjøretøy som oppfyller visse miljøkrav, spesielt med tanke på øvre grenser for miljøskadelig utslipp."
+    }
+]

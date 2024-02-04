@@ -1,0 +1,134 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva er maksimal starttakst fra en holdeplass eller gate ifølge forskriften?",
+        "Options": [
+            "92,00 kroner",
+            "55,00 kroner",
+            "122,00 kroner",
+            "19,50 kroner"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Maksimal starttakst fra holdeplass/gate er fastsatt til 5500 kroner​​."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilken takst gjelder for tilkjøring ut over 10 kilometer?",
+        "Options": [
+            "19,50 kroner per kilometer",
+            "20,20 kroner per kilometer",
+            "11,60 kroner per kilometer",
+            "481,00 kroner per time"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: For tilkjøring ut over 10 kilometer kan det beregnes avstandstakst inntil 1950 kroner per kilometer​​."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Når kan det kreves 45 % tillegg til takstene?",
+        "Options": [
+            "I helgene",
+            "På helligdager og spesielle dager",
+            "På hverdager etter kl. 18",
+            "For turer som varer over en time"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: 45 % tillegg til takstene kan kreves på helligdager og spesielle dager som nyttårsaften, første og andre juledag, osv."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hva er maksimalt tillatt tidstakst per time?",
+        "Options": [
+            "122,00 kroner",
+            "92,00 kroner",
+            "481,00 kroner",
+            "55,00 kroner"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Maksimalt tillatt tidstakst per time er 48100 kroner."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hva er definisjonen av parallelltakst?",
+        "Options": [
+            "En fast pris for en gitt strekning",
+            "Prisberegning basert på tid og avstand under hele turen",
+            "En pris som kun baseres på tid",
+            "En pris som kun baseres på avstand"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Parallelltakst er en prisberegning som baserer seg på samtidig anvendelse av tidstakst og avstandstakst under hele turen."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hva er det maksimale tillegget for transport av en passasjer i rullestol?",
+        "Options": [
+            "60,00 kroner",
+            "19,50 kroner",
+            "481,00 kroner",
+            "21,00 kroner"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Det kan kreves et tillegg på inntil 6000 kroner for transport av passasjerer som sitter i rullestol under transporten."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Hva gjelder for tillegg for bompenger?",
+        "Options": [
+            "Tillegg for alle bompasseringer",
+            "Ingen tillegg for passering av bomring",
+            "Fast tillegg på 500 kroner uavhengig av antall passeringer",
+            "Tillegg basert på antall bompasseringer per kilometer"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Det kan ikke kreves tillegg for passering av bomring. Tillegg kan kreves for å dekke andre bompengeutgifter."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Er det tillatt å kreve tillegg for spesielle anledninger som bryllup og konfirmasjon?",
+        "Options": [
+            "Ja, men tillegget er prisregulert",
+            "Ja, og tillegget kan fastsettes etter avtale med kunden",
+            "Nei, det er ikke tillatt å kreve tillegg for slike anledninger",
+            "Bare hvis turen overstiger 10 kilometer"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Det er adgang til å kreve særskilt tillegg for kjøring i forbindelse med spesielle anledninger, og tillegget er ikke prisregulert. Det kan fastsettes etter avtale med kunden."
+    },
+    {
+        "Question Number": 9,
+        "Title": "Hva er maksimal starttakst ved bestilling av drosje ifølge forskriften?",
+        "Options": [
+            "55,00 kroner",
+            "122,00 kroner",
+            "92,00 kroner",
+            "481,00 kroner"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Maksimal starttakst ved bestilling av drosje er fastsatt til 9200 kroner"
+    },
+    {
+        "Question Number": 10,
+        "Title": "Hvilken avstandstakst gjelder for de første 10 kilometerne av en tur?",
+        "Options": [
+            "19.50 kroner per kilometer",
+            "481.00 kroner per time",
+            "11.60 kroner per kilometer",
+            "20.20 kroner per kilometer"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: For de første 10 kilometerne av en tur kan det beregnes en avstandstakst på inntil 1160 kroner per kilometer."
+    },
+    {
+        "Question Number": 11,
+        "Title": "Hvilket prosentvis tillegg gjelder på lørdager ifølge forskriften?",
+        "Options": [
+            "21 %",
+            "45 %",
+            "30-35 %",
+            "0 %"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: På lørdager kan det kreves et tillegg på 30 % til 35 % til de grunnleggende takstene."
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hva er et enkeltpersonforetak?",
+        "Options": [
+            "Et selskap med flere eiere som deler ansvaret.",
+            "En bedrift eid og drevet av én person, hvor eieren har fullt økonomisk ansvar.",
+            "Et selskap med aksjer som kan kjøpes av offentligheten.",
+            "Et foretak som opererer internasjonalt med filialer i flere land."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Et enkeltpersonforetak er en bedriftsform der én person eier og driver virksomheten. Eieren er personlig ansvarlig for foretakets gjeld og forpliktelser."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Spørsmål: Hvilken type foretak er påkrevd å registrere seg ifølge foretaksregisterloven?",
+        "Options": [
+            "Ideelle organisasjoner uten noen form for næringsvirksomhet.",
+            "Private selskaper uten ansatte.",
+            "Statsforetak.",
+            "Uformelle studiegrupper."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 3,
+        "Title": "Spørsmål: Hvem har myndighet til å delegere sin myndighet til andre tjenestemenn ved Foretaksregisteret?",
+        "Options": [
+            "Kongen",
+            "Registerføreren",
+            "Nærings- og fiskeridepartementet",
+            "Statsministeren"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring til riktig svar: Ifølge § 1-1 i Foretaksregisterloven kan registerføreren, som er utnevnt av Kongen, delegere sin myndighet til andre tjenestemenn ved registeret. Dette gir registerføreren en viktig rolle i organisasjonen av registeret."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Spørsmål: Hva kjennetegner et norsk foretak ifølge § 1-2 i Foretaksregisterloven?",
+        "Options": [
+            "Foretak som er registrert i Norge",
+            "Foretak med hovedkontor i Norge eller på norsk kontinentalsokkel",
+            "Foretak som drives av norske statsborgere",
+            "Foretak som hovedsakelig opererer i Norge"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring til riktig svar: Ifølge § 1-2 i Foretaksregisterloven anses norske foretak som ethvert foretak med hovedkontor i Norge eller på norsk kontinentalsokkel. Dette er den definisjonen loven bruker for å skille norske foretak fra utenlandske."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Spørsmål: Hvilken type foretak er ikke nevnt i § 2-1 i Foretaksregisterloven som et registreringspliktig norsk foretak?",
+        "Options": [
+            "Ideelle organisasjoner uten næringsvirksomhet",
+            "Aksjeselskaper",
+            "Samvirkeforetak",
+            "Enkeltpersonforetak som driver handel"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring til riktig svar: Ideelle organisasjoner som ikke driver med næringsvirksomhet er ikke nevnt som registreringspliktige foretak i § 2-1 i Foretaksregisterloven. Loven spesifiserer at foretak som driver næringsvirksomhet eller har til formål å drive slik virksomhet, er registreringspliktige."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hvilken type utenlandsk foretak er ifølge § 2-1 i Foretaksregisterloven pliktig til å registreres?",
+        "Options": [
+            "Utenlandske foretak som kun driver handel på nett uten fysisk nærvær i Norge",
+            "Utenlandske foretak som driver næringsvirksomhet i Norge eller på norsk kontinentalsokkel",
+            "Alle utenlandske foretak uavhengig av virksomhetstype",
+            "Utenlandske ideelle organisasjoner som driver frivillig arbeid i Norge"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring til riktig svar: Ifølge § 2-1 i Foretaksregisterloven skal utenlandske foretak som driver næringsvirksomhet i Norge eller på norsk kontinentalsokkel registreres. Dette inkluderer foretak som har en form for fysisk eller økonomisk tilstedeværelse som innebærer næringsvirksomhet i landet eller på kontinentalsokkelen."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Hvilket av de følgende foretakene er ikke nevnt som registreringspliktige i § 2-1 i Foretaksregisterloven?",
+        "Options": [
+            "Statsforetak",
+            "Kommunale og fylkeskommunale foretak",
+            "Uavhengige konsulentfirmaer med enkeltpersonsforetak",
+            "Regionalt helseforetak"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: Uavhengige konsulentfirmaer som opererer som enkeltpersonforetak er ikke spesifikt nevnt i § 2-1 som registreringspliktige, med mindre de oppfyller andre kriterier i loven (for eksempel handel med innkjøpte varer eller sysselsetter mer enn fem fast ansatte)."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Spørsmål: Hvilken type foretak er spesifikt nevnt i § 2-1 i Foretaksregisterloven som ikke registreringspliktig?",
+        "Options": [
+            "Aksjeselskaper",
+            "Næringsdrivende stiftelser",
+            "Ideelle organisasjoner uten næringsvirksomhet",
+            "Samvirkeforetak"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: Selv om § 2-1 i Foretaksregisterloven ikke eksplisitt nevner ideelle organisasjoner uten næringsvirksomhet, kan det utledes at slike organisasjoner ikke er registreringspliktige, da loven spesifikt omhandler foretak som driver næringsvirksomhet eller har som formål å drive slik virksomhet."
+    },
+    {
+        "Question Number": 9,
+        "Title": "Hva sier § 2-2 i Foretaksregisterloven om norske enkeltpersonforetak og deres registreringsrett?",
+        "Options": [
+            "Alle norske enkeltpersonforetak har plikt til å registrere seg",
+            "Norske enkeltpersonforetak som ikke er registreringspliktige har ingen rett til å registrere seg",
+            "Norske enkeltpersonforetak som ikke er registreringspliktige, har rett til å registrere seg og er da underlagt reglene om registrering",
+            "Kun norske enkeltpersonforetak som driver handel med innkjøpte varer har rett til å registrere seg"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: Ifølge § 2-2 i Foretaksregisterloven har norske enkeltpersonforetak som ikke er underlagt registreringsplikten, rett til å registrere seg. Ved å velge å registrere seg, blir de underlagt lovgivningens regler om registrering. Dette gir slike foretak en valgmulighet basert på deres spesifikke forhold og behov."
+    },
+    {
+        "Question Number": 10,
+        "Title": "Hvilke opplysninger om aksjeselskapets styre skal inkluderes i Foretaksregisteret ifølge § 3-1?",
+        "Options": [
+            "Navn på styremedlemmene og deres bostedsadresse",
+            "Navn på styremedlemmene, eventuelle varamedlemmer og styreleder, samt observatører",
+            "Bare navn på styrets leder",
+            "Navn på alle ansatte i styret"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring til riktig svar: Ifølge § 3-1 i Foretaksregisterloven skal registeret inneholde opplysninger om styremedlemmene, eventuelle varamedlemmer, styrets leder, og observatører. Dette gir en fullstendig oversikt over selskapets styrestruktur."
+    },
+    {
+        "Question Number": 11,
+        "Title": "Hva må registreres i Foretaksregisteret om et aksjeselskap er unntatt revisjonsplikt?",
+        "Options": [
+            "Kun det faktum at selskapet er unntatt revisjonsplikt",
+            "Grunnene til at selskapet er unntatt revisjonsplikt",
+            "Informasjon om selskapets eventuelle eksterne statsautoriserte regnskapsfører",
+            "En detaljert finansiell rapport"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: § 3-1 i Foretaksregisterloven krever at informasjon om selskapets eventuelle eksterne statsautoriserte regnskapsfører skal registreres hvis selskapet er unntatt revisjonsplikt. Dette sikrer transparens og ansvarlighet i finansiell rapportering."
+    },
+    {
+        "Question Number": 12,
+        "Title": "Hva kreves for aksjeselskaper omfattet av aksjeloven § 20-6 i forhold til informasjon om styremedlemmer i Foretaksregisteret?",
+        "Options": [
+            "Navn og nasjonalitet på alle styremedlemmer",
+            "Detaljer om styremedlemmers erfaring og bakgrunn",
+            "Opplysninger om styremedlemmers kjønn og om de er valgt blant de ansatte",
+            "Styremedlemmers lønn og andre godtgjørelser"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: § 3-1 i Foretaksregisterloven spesifiserer at for selskaper som omfattes av aksjeloven § 20-6, skal registeret inneholde opplysninger om styremedlemmers og varamedlemmers kjønn, samt informasjon om medlemmene er valgt blant de ansatte."
+    },
+    {
+        "Question Number": 13,
+        "Title": "Hva må registreres i Foretaksregisteret vedrørende aksjeselskapets stiftelse?",
+        "Options": [
+            "Navn på grunnleggerne",
+            "Beløpet av startkapitalen",
+            "Stiftelsesdokumentet og dagen for stiftelsen av selskapet",
+            "Detaljert forretningsplan for selskapet"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: Ifølge § 3-1 i Foretaksregisterloven skal både stiftelsesdokumentet og datoen for stiftelsen av aksjeselskapet registreres. Dette gir grunnleggende og offisiell informasjon om selskapets etablering."
+    },
+    {
+        "Question Number": 14,
+        "Title": "Hva er hovedforskjellen mellom et enkeltpersonforetak og et aksjeselskap (AS)?",
+        "Options": [
+            "Enkeltpersonforetak og aksjeselskaper har samme ansvarsstruktur.",
+            "I et enkeltpersonforetak er eieren personlig ansvarlig for foretakets forpliktelser, mens i et AS er aksjeeiernes ansvar begrenset til innskutt aksjekapital.",
+            "Et enkeltpersonforetak kan utstede aksjer, mens et AS ikke kan.",
+            "Et enkeltpersonforetak har alltid flere eiere, mens et AS kan ha bare én eier."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring til riktig svar: Hovedforskjellen mellom et enkeltpersonforetak og et aksjeselskap ligger i ansvarsstrukturen. I et enkeltpersonforetak er eieren personlig ansvarlig for alle foretakets gjeld og forpliktelser, mens i et AS er aksjeeiernes ansvar begrenset til deres innskutte aksjekapital."
+    },
+    {
+        "Question Number": 15,
+        "Title": "Hvilket foretak må registreres i Foretaksregisteret?",
+        "Options": [
+            "Alle enkeltpersonforetak uavhengig av virksomhetstype.",
+            "Kun aksjeselskaper og ansvarlige selskaper.",
+            "Norske enkeltpersonforetak som driver handel med innkjøpte varer eller som sysselsetter mer enn fem fast ansatte i hovedstilling.",
+            "Ideelle organisasjoner uten næringsvirksomhet."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: Ifølge norsk lov er visse typer enkeltpersonforetak registreringspliktige i Foretaksregisteret. Dette gjelder spesielt for de som driver handel med innkjøpte varer eller som har mer enn fem fast ansatte."
+    },
+    {
+        "Question Number": 16,
+        "Title": "Hva kjennetegner et samvirkeforetak?",
+        "Options": [
+            "Et samvirkeforetak eies og drives av én person, med fokus på individuell profitt.",
+            "I et samvirkeforetak er det ingen fordeling av overskudd til medlemmene.",
+            "Et samvirkeforetak eies og styres av medlemmene, som drar nytte av foretakets tjenester og deler på overskuddet.",
+            "Samvirkeforetak kan ikke drive med næringsvirksomhet."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring til riktig svar: Samvirkeforetak er medlemseide og medlemsstyrte foretak der medlemmene nyter godt av foretakets tjenester, og eventuelt overskudd deles mellom medlemmene. Denne modellen fremmer medlemmenes felles interesser og behov."
+    },
+    {
+        "Question Number": 17,
+        "Title": "Hva er en norsk avdeling av utenlandsk foretak (NUF)?",
+        "Options": [
+            "En selvstendig juridisk enhet som er registrert i Norge, men eies av en utenlandsk statsborgerskap.",
+            "En filial av et utenlandsk selskap som opererer i Norge, men som ikke er en separat juridisk enhet fra morselskapet.",
+            "En organisasjon som kun jobber med import og eksport mellom Norge og utlandet.",
+            "Et foretak registrert i Norge som har rett til å drive næringsvirksomhet utelukkende i utlandet."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring til riktig svar: En NUF er en norsk avdeling eller filial av et utenlandsk foretak. Selv om den opererer i Norge, er den ikke en selvstendig juridisk enhet, men er juridisk en del av det utenlandske morselskapet."
+    }
+]

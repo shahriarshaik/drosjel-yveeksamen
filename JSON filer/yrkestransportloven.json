@@ -1,0 +1,830 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Hvilken av følgende påstander er riktig om virkeområdet til loven for transport med motorvogn eller fartøy i Norge?",
+        "Options": [
+            "Loven gjelder kun for transport med motorvogn, ikke for fartøy.",
+            "Loven gjelder for transport med luftputefartøy, men ikke for beltebiler.",
+            "Loven gjelder ikke for transport med luftputefartøy.",
+            "Beltebiler regnes som motorvogn i henhold til loven."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Loven inkluderer luftputefartøy under definisjonen av fartøy (§ 1.2), noe som betyr at transport med slike fartøy er underlagt samme lovgivning. Beltebiler er derimot eksplisitt utelukket fra å bli klassifisert som motorvogner (§ 1.3), og dermed faller de ikke under de samme regelverkene som vanlige motorvogner."
+    },
+    {
+        "Question Number": 2,
+        "Title": "I henhold til transportlovgivningen i Norge, hvordan klassifiseres en beltebil?",
+        "Options": [
+            "Som et fartøy",
+            "Som en motorvogn",
+            "Den klassifiseres ikke som en motorvogn",
+            "Som både motorvogn og fartøy"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge loven nevnt i § 1.3 anses ikke beltebiler som motorvogner. Dette er en spesiell bestemmelse som skiller beltebiler fra andre kjøretøy som vanligvis regnes som motorvogner, sannsynligvis på grunn av deres unike design og bruksområde som skiller dem fra konvensjonelle motorvogner."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva er en korrekt beskrivelse av rutetransport ifølge den gjeldende transportlovgivningen?",
+        "Options": [
+            "En transporttjeneste hvor passasjerene må reservere plass på forhånd.",
+            "En transporttjeneste som krever at alle passasjerer deltar i overnatting.",
+            "En transporttjeneste som opererer uregelmessig og kun på spesielle anledninger.",
+            "En regelmessig transporttjeneste i et bestemt trafikksamband som står åpen for alle."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Rutetransport defineres som regelmessig transport av personer i et bestemt trafikksamband som er åpent for alle, hvor på- og avstiging skjer på forhåndsbestemte stoppesteder (§ 2.1)."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hvilken situasjon beskrevet nedenfor vil ikke bli betraktet som rutetransport?",
+        "Options": [
+            "En fast fergerute som tillater passasjerer å stige av og på ved etablerte havner.",
+            "En turistcoach som kjører fra et punkt til et annet og inkluderer minst en overnatting i prisen.",
+            "En buss som tilbyr daglige turer mellom to byer med faste stoppesteder for på- og avstigning.",
+            "En skibuss som tar skiturister fra et hotell til skibakken og tilbake igjen."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Transport av personer som inkluderer minst en overnatting i samme pris, og hvor de påmeldte passasjerene er med på hele turen fra start til slutt, skal ikke regnes som rutetransport (§ 2."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Hvilken type transport regnes ikke som rutetransport?",
+        "Options": [
+            "En bybuss som følger en fastsatt rute og har et åpent billettsystem for publikum.",
+            "En utflukt med en minibuss som bringer en gruppe til et bestemmelsessted og tilbake uten å stoppe for å ta opp andre passasjerer.",
+            "En taxitjeneste som opererer basert på forhåndsbestillinger og faste priser.",
+            "En pendlerferge som tillater passasjerer å stige på og av på angitte havner."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Transport av personer fra ett sted og tilbake til det samme stedet uten å benytte motorvognen eller fartøyet til å transportere andre i mellomtiden regnes ikke som rutetransport (§ 2.2 a)."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Hva kreves for å drive persontransport med motorvogn mot vederlag i Norge?",
+        "Options": [
+            "En gyldig førerkort og en registrert motorvogn.",
+            "Godkjenning fra lokale myndigheter uavhengig av vandel.",
+            "Et løyve fra myndighetene.",
+            "En offentlig annonsering av tjenesten."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ifølge § 4.1 i loven må den som ønsker å drive med nasjonal eller internasjonal persontransport mot vederlag ha et løyve. Dette gjelder også for de som tilbyr persontransport på en måte som likner drosjetjeneste, enten det er på offentlig plass eller via digitale plattformer."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Hvilket av følgende kriterier er ikke et krav for å bli tildelt løyve for å drive persontransport med motorvogn?",
+        "Options": [
+            "Varig virksomhet i Norge.",
+            "Godkjent miljøvennlig kjøretøy.",
+            "Tilfredsstillende økonomisk evne.",
+            "Tilstrekkelig faglig kompetanse."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Kravene for å bli tildelt løyve ifølge § 4.2 inkluderer å drive en faktisk og varig virksomhet i Norge, ha god vandel, tilfredsstillende økonomisk evne og tilstrekkelig faglig kompetanse. Kravet om et godkjent miljøvennlig kjøretøy er ikke nevnt i denne seksjonen av loven."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Hva forstås med \"god vandel\" i konteksten av å få tildelt løyve for persontransport?",
+        "Options": [
+            "At søkeren har et førerkort for persontransport.",
+            "At søkeren har en historikk med gode kundeomtaler.",
+            "At søkeren ikke har relevante straffbare forhold på rullebladet.",
+            "At søkeren har et godt rykte i nærmiljøet."
+        ],
+        "Right Answer": 3,
+        "Explanation": "\"God vandel\" refererer vanligvis til at personen ikke har begått handlinger eller har dommer som kan være relevant og negativ for den tilliten som kreves for å drive med persontransport. Det innebærer at personen ikke har relevante straffbare forhold registrert."
+    },
+    {
+        "Question Number": 9,
+        "Title": "Hva innebærer det at en person må ha \"tilfredsstillende økonomisk evne\" for å få tildelt løyve for persontransport med motorvogn?",
+        "Options": [
+            "Personen må ha en bankkonto i et norsk finansinstitutt.",
+            "Personen må kunne fremvise en positiv kredittvurdering.",
+            "Personen må eie minst ett kjøretøy med fullverdiforsikring.",
+            "Personen må kunne vise til en økonomisk garanti eller tilstrekkelige midler til å drive virksomheten."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Ifølge § 4.2 i loven kreves det at en person som søker om løyve for persontransport må ha \"tilfredsstillende økonomisk evne.\" Dette betyr at personen må ha nok økonomisk kapasitet eller ressurser for å kunne drive en transportvirksomhet på en forsvarlig måte, noe som kan inkludere å kunne stille økonomisk garanti eller vise til tilstrekkelige midler. å ha en bankkonto, eie kjøretøy eller en positiv kredittvurdering kan være indikativt, men det er ikke spesifikt det som kreves for å demonstrere økonomisk evne i henhold til loven."
+    },
+    {
+        "Question Number": 10,
+        "Title": "Når kreves det å bruke konkurranse for tildeling av løyve der det gis godtgjørelse eller enerett?",
+        "Options": [
+            "Bare når det er internasjonale søkere.",
+            "Når tildelingen omfatter bruk av tunge kjøretøy.",
+            "I alle tilfeller av løyvetildeling.",
+            "Så langt det følger av relevant lovgivning, inkludert lov om fri utveksling av tjenester og lov om offentlige anskaffelser."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Ifølge § 8.1 i loven skal konkurranse brukes ved tildeling av løyve når det gis godtgjørelse eller einerett, så langt dette er pålagt av aktuell lovgivning. Dette inkluderer lov om fri utveksling av tjenester innen sjøtransport og lov om offentlige anskaffelser, samt tilhørende forskrifter."
+    },
+    {
+        "Question Number": 11,
+        "Title": "Hva gjelder \"tilsvarande\" når et løyve blir tildelt ved konkurranse, ifølge § 8 i løyveloven?",
+        "Options": [
+            "Miljøkravene for kjøretøyene som brukes.",
+            "Arbeidsmiljølovens regler om arbeidstakernes rettigheter ved overdragelse av virksomhet.",
+            "Kravene til løyvehavers bosted.",
+            "Skatteregler for den nye løyvehaveren."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 8.2 skal arbeidsmiljølovens regler om arbeidstakernes retter ved overdragelse av virksomhet gjelde \"tilsvarande\" når løyve tildelt ved konkurranse, og verksemda etter konkurranse drives med samme type transportmiddel som tidligere."
+    },
+    {
+        "Question Number": 12,
+        "Title": "Hva skal løyvestyresmakta informere om til deltakerne i en konkurranse om tildeling av løyve?",
+        "Options": [
+            "Økonomiske resultater av den forrige løyvehaveren.",
+            "Antall kjøretøy som den forrige løyvehaveren disponerte.",
+            "Antall ansatte, deres alder, ansiennitet og lønns- og arbeidsvilkår hos den nåværende løyvehaveren.",
+            "Den strategiske forretningsplanen til den forrige løyvehaveren."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 8.3 skal løyvestyresmakta gi informasjon til de som ønsker å delta i konkurransen om antall ansatte og deres alder, ansiennitet og lønns- og arbeidsvilkår i virksomheten som for øyeblikket har løyvet."
+    },
+    {
+        "Question Number": 13,
+        "Title": "Hvilket ansvar pålegges den som får tildelt løyve gjennom konkurranse, med hensyn til de ansattes lønns- og arbeidsvilkår?",
+        "Options": [
+            "Å tilby aksjeopsjoner til alle ansatte.",
+            "Å sikre at ansatte får lønns- og arbeidsvilkår i henhold til gjeldende landsomfattende tariffavtale eller det normale for stedet og yrket.",
+            "Å øke lønningene med 10 % fra forrige løyvehavers vilkår.",
+            "Å implementere en firsdagers arbeidsuke."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Ifølge § 8.5 må den som får tildelt løyve gjennom konkurranse forplikte seg til å sikre at de ansatte som direkte arbeider med å oppfylle kontrakten, får lønns- og arbeidsvilkår som ikke er dårligere enn det som følger av gjeldende landsomfattende tariffavtale, eller det som ellers er normalt for vedkommende sted og yrke. Dette ansvar gjelder også for underleverandører."
+    },
+    {
+        "Question Number": 14,
+        "Title": "Hvilket krav gjelder for personer som ønsker å drive persontransport utenfor rute med motorvogn registrert for inntil 9 personer?",
+        "Options": [
+            "De må ha en generell transportlisens.",
+            "De må ha et særskilt drosjeløyve og oppfylle de samme kravene som i § 4 andre ledd bokstav a til d.",
+            "De må kun registrere sitt firma for persontransport.",
+            "De trenger ingen form for løyve eller tillatelse."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 9 første ledd må de som ønsker å drive persontransport utenfor rute med motorvogn for inntil 9 personer ha et særskilt drosjeløyve. I tillegg gjelder de samme kravene som nevnt i § 4 andre ledd bokstav a til d, som innebærer at virksomheten må drives faktisk og varig i Norge, at de som får løyvet må ha god vandel, tilfredsstillende økonomisk evne og tilstrekkelig faglig kompetanse."
+    },
+    {
+        "Question Number": 15,
+        "Title": "Hva er kravet for loggføring av hver drosjetur ifølge § 9 tredje ledd?",
+        "Options": [
+            "Det må føres en papirbasert loggbok for hver tur.",
+            "Sjåføren må personlig rapportere turene til løyvestyresmakta hver uke.",
+            "Hver tur skal loggføres med start- og sluttpunkt ved bruk av et satellittbasert kommunikasjonssystem (GNSS), og opplysningene skal lagres i 60 dager.",
+            "Turene skal kun loggføres dersom de overstiger en viss avstand."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I følge § 9 tredje ledd skal den som har løyve etter denne paragrafen loggføre hver drosjetur med start- og sluttpunkt ved hjelp av et modul med satellittbasert kommunikasjonssystem (GNSS) for løpende registrering og logging av den geografiske posisjonen til drosjen. Disse opplysningene skal lagres i 60 dager. Dette kravet er et ledd i å sikre gjennomsiktighet og trygghet i drosjenæringen."
+    },
+    {
+        "Question Number": 16,
+        "Title": "Hva sier § 9 andre ledd om miljøkrav til drosjebiler?",
+        "Options": [
+            "Det er ingen spesifikke miljøkrav til drosjebiler.",
+            "Alle drosjebiler må være utslippsfrie innen to år.",
+            "Løyvestyresmakta kan sette en øvre grense for miljøskadelig utslipp for drosjebiler.",
+            "Drosjer er unntatt fra miljøkrav på grunn av sin samfunnstjeneste."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 9 andre ledd kan løyvestyresmakta gi påbud om at drosjekjøring innenfor en kommune skal drives med motorvogn som har en øvre grense for miljøskadelige utslipp. Det er også spesifisert at det skal settes en frist på minst fire år for å oppfylle disse kravene, noe som gir drosjeeiere en rimelig tid til å oppgradere eller bytte ut kjøretøyene sine for å møte de nye miljøkravene."
+    },
+    {
+        "Question Number": 17,
+        "Title": "Hvem har ansvar for å føre tilsyn med at reglene for kontrollutrustninger i drosjer blir fulgt, i henhold til § 9 femte ledd?",
+        "Options": [
+            "Det lokale drosjelaget.",
+            "Miljødirektoratet.",
+            "Departementet.",
+            "Et utpekt håndhevingsorgan."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: § 9 femte ledd sier at Departementet kan peke ut et håndhevingsorgan som skal føre tilsyn med at reglene for kontrollutrustninger mv. blir fulgt. Dette innebærer at det er et spesifikt organ, valgt av Departementet, som har ansvaret for å sørge for at drosjer etterlever de forskriftsmessige kravene til utrustning og kontrollsystemer, som for eksempel taksametere og andre nødvendige instrumenter."
+    },
+    {
+        "Question Number": 18,
+        "Title": "Hvem kan tildele enerett til drosjetjenester innenfor en eller flere kommuner ifølge § 9a første ledd?",
+        "Options": [
+            "Kommunen",
+            "Transporttilsynet",
+            "Fylkeskommunen",
+            "Statens vegvesen"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 9a første ledd kan fylkeskommunen tildele enerett eller godtgjørelse til en eller flere løyvehavere for å tilby drosjetjenester innenfor en eller flere kommuner. Det er fylkeskommunene som fastsetter avgjørelsen om bruk av enerett i forskrift."
+    },
+    {
+        "Question Number": 19,
+        "Title": "Hva er varigheten av en enerett tildelt for drosjetransport i henhold til § 9a fjerde ledd?",
+        "Options": [
+            "Inntil tre år",
+            "Inntil ti år",
+            "Inntil fem år",
+            "Ubegrenset tid"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I § 9a fjerde ledd står det at enerett kan tildeles for en periode på inntil fem år. Dette angir den maksimale tidsrammen for hvor lenge en enerett kan vare etter at den er tildelt."
+    },
+    {
+        "Question Number": 20,
+        "Title": "Kan en drosjeløyvehaver uten enerett utføre transport innenfor et område der enerett er tildelt, ifølge § 9a sjette og syvende ledd?",
+        "Options": [
+            "Ja, men kun når transporten er bestilt på forhånd.",
+            "Nei, det er ikke tillatt under noen omstendigheter.",
+            "Ja, når som helst og uten begrensninger.",
+            "Ja, men kun for transport fra enerettsområdet til et sted utenfor området."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Ifølge § 9a syvende ledd kan en drosjeløyvehaver som ikke har enerett, transportere passasjerer inn i et enerettsområde, og også transportere passasjerer fra et enerettsområde til et sted utenfor enerettsområdet hvis transporten er bestilt på forhånd."
+    },
+    {
+        "Question Number": 21,
+        "Title": "Hvem fastsetter reglene for tildeling av enerett for drosjetransport i kommuner, i henhold til § 9a tredje ledd?",
+        "Options": [
+            "keskommunen",
+            "Løyvehaverne selv",
+            "artementet",
+            "Kommunestyret"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Det er Departementet som fastsetter i forskrift, basert på innbyggertall og innbyggertetthet, hvilke kommuner det kan tildeles enerett i, jf. § 9a tredje ledd."
+    },
+    {
+        "Question Number": 22,
+        "Title": "Hva kan fylkeskommunen gjøre hvis det er nødvendig å tillate andre drosjeløyvehavere enn enerettshaveren å kjøre i enerettsområdet?",
+        "Options": [
+            "Ingenting, kun enerettshaveren kan operere der.",
+            "Gi generell tillatelse til alle drosjeløyvehavere.",
+            "Gi tillatelse gjennom enkeltvedtak eller forskrift.",
+            "Arrangere ny konkurranse for enerett."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 9a åttende ledd kan fylkeskommunen gi andre drosjeløyvehavere enn enerettshaveren tillatelse til kjøring i enerettsområdet gjennom enkeltvedtak eller forskrift."
+    },
+    {
+        "Question Number": 23,
+        "Title": "Forklaring: § 9a femte ledd sier at en drosjeløyvehaver som har enerett, kan utføre oppdrag fra enerettsområdet til hvilken som helst sted i eller utenfor enerettsområdet.",
+        "Options": [
+            "Ja, men kun til nærmeste nabokommune.",
+            "Nei, de kan kun operere innenfor enerettsområdet.",
+            "Ja, til hvilken som helst destinasjon.",
+            "Ja, men kun hvis oppdraget starter i enerettsområdet."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 9a femte ledd sier at en drosjeløyvehaver som har enerett, kan utføre oppdrag fra enerettsområdet til hvilken som helst sted i eller utenfor enerettsområdet."
+    },
+    {
+        "Question Number": 24,
+        "Title": "Hvilket kriterium må være oppfylt for at fylkeskommunen kan tildele enerett i en kommune?",
+        "Options": [
+            "Kommunen må være en hovedstad.",
+            "Det må være nødvendig for kommunen.",
+            "Kommunen må ha mer enn 50.000 innbyggere.",
+            "Alle løyvehavere i kommunen må være enige."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I henhold til § 9a andre ledd kan fylkeskommunen kun tildele enerett i kommuner der det er nødvendig. Dette er et vurderingsspørsmål som fylkeskommunen må ta stilling til."
+    },
+    {
+        "Question Number": 25,
+        "Title": "Hvordan fastsetter fylkeskommunen grensene for et enerettsområde for drosjetjenester?",
+        "Options": [
+            "Basert på geografisk størrelse",
+            "Etter nasjonale standarder",
+            "De følger kommunegrensene",
+            "Basert på antall drosjeløyver i området"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 9a første ledd følger grensene for et enerettsområde kommunegrensene. Fylkeskommunene fastsetter avgjørelsen om bruk av enerett i forskrift."
+    },
+    {
+        "Question Number": 26,
+        "Title": "Hva kan løyvestyresmakten gjøre ifølge § 11 i loven om persontransport?",
+        "Options": [
+            "Kunne gi løyve til alle som søker uten vilkår.",
+            "Kunne sette vilkår for det enkelte løyvet.",
+            "Utelukkende fokusere på økonomiske vilkår.",
+            "Gi løyve uten å kunne sette noen form for vilkår."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 11 i loven gir løyvestyresmakten rett til å sette vilkår for det enkelte løyvet for persontransport. Dette innebærer at myndighetene kan sette spesifikke betingelser som må oppfylles av den som innehar løyvet."
+    },
+    {
+        "Question Number": 27,
+        "Title": "Hvilken type krav kan Departementet fastsette ved kjøp av kjøretøy for de som har løyve eller løyvefritak og får godtgjørelse eller einerett for å utføre offentlig tjeneste?",
+        "Options": [
+            "Kun økonomiske krav til kjøretøyets pris.",
+            "Krav relatert til kjøretøyets farge og design.",
+            "Nærmere fastsatte energi- og miljøkrav.",
+            "Krav om minimum antall kjøretøy som skal kjøpes."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 11a kan Departementet i forskrift bestemme at de som har løyve eller løyvefritak, og som mottar godtgjørelse eller einerett for å utføre offentlig tjeneste, skal oppfylle bestemte energi- og miljøkrav ved kjøp av kjøretøy. Dette er for å sikre at kjøretøyene som brukes i levering av offentlige tjenester er energieffektive og miljøvennlige."
+    },
+    {
+        "Question Number": 28,
+        "Title": "Hvem omfattes av miljøkravene ved kjøp av kjøretøy i henhold til § 11a?",
+        "Options": [
+            "Alle privatpersoner som kjøper kjøretøy i Norge.",
+            "Kun de som har løyve for persontransport uten godtgjørelse eller einerett.",
+            "De som har løyve for persontransport og mottar godtgjørelse eller einerett.",
+            "Bare kjøretøyprodusentene som selger til det offentlige."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 11a spesifiserer at de som har løyve for persontransport etter loven, eller løyvefritak, og som mottar godtgjørelse eller einerett for å utføre offentlig tjeneste, er underlagt miljøkrav ved kjøp av kjøretøy. Dette sikrer at offentlige transporttjenester blir levert med en miljøvennlig standard."
+    },
+    {
+        "Question Number": 29,
+        "Title": "Hvem kan tildeles løyve etter loven?",
+        "Options": [
+            "De som fyller kravene i loven eller forskrift gitt med hjemmel i loven.",
+            "Kun offentlige transportmidler.",
+            "Enhver person som ønsker det.",
+            "Bare selskaper eid av staten."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Ifølge § 25 kan løyve etter loven tildeles de som oppfyller kravene som er satt i loven eller i forskrift med hjemmel i loven. Dette inkluderer både selskaper og andre juridiske personer under vilkår som departementet nærmere fastsetter."
+    },
+    {
+        "Question Number": 30,
+        "Title": "Når skal det kreves ordinær politiattest i forbindelse med løyve etter denne loven?",
+        "Options": [
+            "Kun ved søknad om løyve.",
+            "Ved søknad om løyve og periodisk etter at løyve er gitt, som fastsatt av departementet.",
+            "Hvert femte år, uavhengig av departementets fastsettelse.",
+            "Etter hver transportoppdrag."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 26 kreves det ordinær politiattest både ved søknad om løyve og etter at løyve er gitt, i en tidsperiode som departementet nærmere bestemmer."
+    },
+    {
+        "Question Number": 31,
+        "Title": "Hvor lenge gjelder løyve etter §§ 4, 5 og 9?",
+        "Options": [
+            "I fem år.",
+            "I åtte år.",
+            "I ti år.",
+            "På ubestemt tid."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I følge § 27 (1), gjelder løyve etter §§ 4, 5 og 9 i ti år. Dette gjelder også behovsprøvde løyve etter §§ 6 og 7, med visse unntak knyttet til konkurranse og inngåtte kontrakter."
+    },
+    {
+        "Question Number": 32,
+        "Title": "Kan en løyvehaver overlate sitt løyve til andre?",
+        "Options": [
+            "Ja, uten noen begrensninger.",
+            "Kun til familiemedlemmer.",
+            "Nei, det er ikke tillatt under noen omstendigheter.",
+            "Ja, men bare med samtykke fra løyvestyresmakten."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Ifølge § 28 kan en løyvehaver ikke overlate sitt løyve til andre uten samtykke fra løyvestyresmakten."
+    },
+    {
+        "Question Number": 33,
+        "Title": "Når kan løyvestyresmakten kalle tilbake et løyve?",
+        "Options": [
+            "Når løyvehaveren ber om det.",
+            "Hvis løyvehaveren ikke lenger oppfyller kravene som er satt i forskrifter og vilkår.",
+            "Hvert år som en rutinemessig handling.",
+            "Hvis løyvehaveren bruker løyvet til privat transport."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: § 29 (1) angir at løyvestyresmakten kan kalle tilbake løyve når løyvehaveren ikke oppfyller kravene som er satt i forskrifter og vilkår, eller ikke retter seg etter disse."
+    },
+    {
+        "Question Number": 34,
+        "Title": "Hvilket krav stilles til løyvehaveren i henhold til § 30 i loven?",
+        "Options": [
+            "Å overholde fartsgrenser spesielt strengt.",
+            "Å ha en detaljert driftsoppstilling som er tilgjengelig for kontroll.",
+            "Å kun benytte elektriske kjøretøy.",
+            "Å rapportere om alle inntekter til skattemyndighetene."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 30 skal løyvehaveren ha en driftsoppstilling som viser hvordan transporten skal utføres. Driftsoppstillingen skal være tilgjengelig for kontroll."
+    },
+    {
+        "Question Number": 35,
+        "Title": "Hvem har ansvar for tilsyn og kontroll med at vilkår for løyve etterholdes?",
+        "Options": [
+            "Løyvehaver selv.",
+            "Det lokale politiet.",
+            "Nasjonalt tilsynsorgan for samferdsel.",
+            "Departementet."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I henhold til § 31 har det nasjonale tilsynsorganet for samferdsel ansvar for tilsyn og kontroll med at vilkårene for løyve etterholdes."
+    },
+    {
+        "Question Number": 36,
+        "Title": "Hvem skal betale gebyr for tildeling og kontroll av løyve?",
+        "Options": [
+            "Passasjerene.",
+            "vehaver",
+            "Staten.",
+            "Kommunen der løyvehaver opererer."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Det fremgår av § 32 at det er løyvehaver som skal betale gebyr for tildeling og kontroll av løyve."
+    },
+    {
+        "Question Number": 37,
+        "Title": "I hvilke kjøretøy er det krav om bruk av fartsskriver?",
+        "Options": [
+            "Alle personbiler.",
+            "Kun kjøretøy over et bestemt tonnasje.",
+            "Alle kjøretøy som benyttes i løyvepliktig transport.",
+            "Kun kjøretøy som brukes til internasjonal transport."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 33 skal alle kjøretøy som benyttes i løyvepliktig transport være utstyrt med fartsskriver."
+    },
+    {
+        "Question Number": 38,
+        "Title": "Hvem er pålagt å bruke yrkeskompetansebevis i sin yrkesutøvelse?",
+        "Options": [
+            "Alle yrkessjåfører uavhengig av kjøretøyets størrelse.",
+            "Sjåfører av kjøretøy over 3,5 tonn og/eller for transport av mer enn 8 passasjerer.",
+            "Kun sjåfører i offentlig sektor.",
+            "Sjåfører som utfører internasjonal transport."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: § 34 krever at sjåfører som fører kjøretøy med en totalvekt over 3,5 tonn eller som er konstruert for å transportere flere enn 8 passasjerer, må ha og bruke yrkeskompetansebevis i sin yrkesutøvelse."
+    },
+    {
+        "Question Number": 39,
+        "Title": "Hvilket krav er satt til løyvehaveren med hensyn til utdanning?",
+        "Options": [
+            "Løyvehaveren må ha fullført videregående skole.",
+            "Løyvehaveren må regelmessig delta på etterutdanningskurs.",
+            "Løyvehaveren må ha høyere utdanning innen logistikk eller transportledelse.",
+            "Løyvehaveren må ha gjennomført godkjent yrkessjåførutdanning."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Ifølge § 35 må løyvehaveren ha gjennomført en godkjent yrkessjåførutdanning for å sikre at de har nødvendig kompetanse til å drive transportvirksomhet."
+    },
+    {
+        "Question Number": 40,
+        "Title": "Hvem må ha kjøresetel i tillegg til førerkort når de fører persontransport mot vederlag?",
+        "Options": [
+            "Lærere på skoletur",
+            "Førere av drosje, turvogn og rutevogn",
+            "Sykkelbud",
+            "Privat bilist på ferie"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 37 a i loven er det et krav at førere av drosje, turvogn og rutevogn må ha kjøresetel i tillegg til førerkort når de utfører persontransport mot vederlag. Dette er for å sikre at førere av kjøretøy som brukes i kommersiell persontransport har nødvendige kvalifikasjoner og godkjenninger."
+    },
+    {
+        "Question Number": 41,
+        "Title": "Hva skal legges ved søknaden om kjøresetel ifølge § 37 b?",
+        "Options": [
+            "Bare legeattest",
+            "Legeattest og bevis for tilstrekkelig faglig kompetanse",
+            "Anbefaling fra en tidligere arbeidsgiver",
+            "Kopi av gyldig pass"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 37 b skal en legeattest og bevis for tilstrekkelig faglig kompetanse legges ved søknaden om kjøresetel. Dette sikrer at føreren oppfyller helsekravene og har nødvendig kompetanse for å kunne utføre persontransport mot vederlag."
+    },
+    {
+        "Question Number": 42,
+        "Title": "Hvor gammel må man være for å få tildelt kjøresetel ifølge § 37 c?",
+        "Options": [
+            "16 år",
+            "18 år",
+            "20 år",
+            "25 år"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I § 37 c er det fastsatt at man må være fylt 20 år for å kunne motta et kjøresetel. Dette er et av flere vilkår som sikrer at føreren er tilstrekkelig moden og ansvarlig til å utføre jobben som krever transport av personer mot vederlag."
+    },
+    {
+        "Question Number": 43,
+        "Title": "Hvor lenge kan politimesteren bestemme at kjøresetel ikke skal utferdes uten orskurd fra tingretten ved mistanke om straffbart forhold?",
+        "Options": [
+            "Ubegrenset tid",
+            "6 måneder",
+            "3 måneder",
+            "1 måned"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 37 d kan politimesteren eller den han gir myndighet, bestemme at kjøresetel ikke skal utferdes før saken er endelig avgjort, dog ikke utover tre måneder uten orskurd fra tingretten. Dette er en forebyggende tiltak for å sikre at personer som er mistenkt for alvorlige forhold ikke får ansvaret for persontransport i mellomtiden."
+    },
+    {
+        "Question Number": 44,
+        "Title": "Når kan politiet beslaglegge et kjøresetel ifølge § 37 e?",
+        "Options": [
+            "Når kjøretøyet ikke har bestått EU-kontroll",
+            "Når innehaveren har ubetalte parkeringsbøter",
+            "Når innehaveren med skjellig grunn mistenkes for straffbart forhold som kan medføre tap av retten til å føre motorvogn ved persontransport mot vederlag",
+            "Ved rutinemessig trafikkontroll"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 45,
+        "Title": "Hva er en av vilkårene for å få tildelt kjøresetel i Norge?",
+        "Options": [
+            "Man må ha gyldig legeattest uavhengig av alder.",
+            "Man må ha hatt førerkort klasse B i minst fem år.",
+            "Man må være fylt 20 år og ha tilstrekkelig vandel.",
+            "Utenlandske statsborgere kan ikke få kjøresetel før de har bodd 10 år i Norge."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Man må være fylt 20 år og ha tilstrekkelig vandel. For å få tildelt kjøresetel i Norge, må søkere være minst 20 år gamle og oppfylle vandelkrav som sikrer at de er skikket til å fungere som førere. Vandel vurderes av politiet basert på søkernes historikk og oppførsel."
+    },
+    {
+        "Question Number": 46,
+        "Title": "Hva skjer hvis politiet mistenker en innehaver av kjøresetel for en straffbar handling?",
+        "Options": [
+            "Kjøresetelen blir automatisk ugyldig for alltid.",
+            "Kjøresetelen kan beslaglegges midlertidig av politiet.",
+            "Innehaveren må bestå en ny fagprøve.",
+            "Kjøresetelen blir suspendert for en periode på fem år."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Kjøresetelen kan beslaglegges midlertidig av politiet. Dersom politiet har en velbegrunnet mistanke om at innehaveren av et kjøresetel har begått en straffbar handling som kan medføre tap av retten til å føre motorvogn ved persontransport mot vederlag, kan de beslaglegge kjøresetelen."
+    },
+    {
+        "Question Number": 47,
+        "Title": "Hva kan føre til tilbakekalling av kjøresetel?",
+        "Options": [
+            "Manglende betaling av veiavgifter.",
+            "Mottak av mer enn tre fartsovertredelser.",
+            "Ikke lenger oppfyller kravene til helse, vandel og førleik.",
+            "Manglende fornyelse av førerkortet i tide."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Ikke lenger oppfyller kravene til helse, vandel og førleik. Politimesteren eller den han gir myndighet, kan tilbakekalle retten til å føre motorvogn ved persontransport mot vederlag dersom vedkommende ikke lenger oppfyller kravene som er satt, blant annet med hensyn til helse, vandel og førleik."
+    },
+    {
+        "Question Number": 48,
+        "Title": "Når skal en innehaver av kjøresetel levere det tilbake til politiet?",
+        "Options": [
+            "Ved oppnådd pensjonsalder.",
+            "Ved beslag, tilbakekalling eller tap av retten til å føre motorvogn ved persontransport mot vederlag.",
+            "Hvert 5. år for standardkontroll.",
+            "Når kjøresetelen har utløpt."
+        ],
+        "Right Answer": 2,
+        "Explanation": "Not found"
+    },
+    {
+        "Question Number": 49,
+        "Title": "Hva inneholder det offentlige registeret over innehavere av kjøresetel?",
+        "Options": [
+            "Personlige opplysninger som navn, adresse og fødselsnummer.",
+            "Kjøretøyets registreringsnummer og informasjon om kjøretøyets eier.",
+            "En oversikt over alle bøter og straffer knyttet til trafikkforseelser.",
+            "Informasjon om gyldigheten av kjøresetel og eventuelle merknader."
+        ],
+        "Right Answer": 4,
+        "Explanation": "informasjon om gyldigheten av kjøresetel og eventuelle merknader. Det offentlige registeret over innehavere av kjøresetel inneholder opplysninger om gyldigheten av kjøresetel og eventuelle merknader som er relevante for deres status som kjøresetelinnehavere."
+    },
+    {
+        "Question Number": 50,
+        "Title": "Hva må innehaveren av et kjøresetel gjøre hvis vedkommendes forhold endres på en måte som påvirker vilkårene for å ha kjøresetel?",
+        "Options": [
+            "Innehaveren må informere politiet innen en uke.",
+            "Innehaveren trenger ikke å informere politiet før neste fornyelse av kjøresetel.",
+            "Innehaveren må rapportere endringen i personlige forhold under den årlige skatteerklæringen.",
+            "Innehaveren må oppdatere sitt kjøresetel hos en autorisert kjøreskole."
+        ],
+        "Right Answer": 1,
+        "Explanation": "Innehaveren må informere politiet innen en uke. Enhver endring i forholdene som kunne påvirke en persons kvalifikasjoner for å holde et kjøresetel, for eksempel endring i helsestatus eller vandel, må rapporteres til politiet snarest, og senest innen en uke."
+    },
+    {
+        "Question Number": 51,
+        "Title": "Hvor mye er gebyret for utstedelse eller fornyelse av et kjøresetel?",
+        "Options": [
+            "Gebyret er likt halvparten av grunnbeløpet i folketrygden (G).",
+            "Gebyret fastsettes av politidistriktet og kan variere.",
+            "Det er ingen gebyrer forbundet med utstedelse eller fornyelse av kjøresetel.",
+            "Gebyret er fastsatt i forskrift og er likt i hele landet."
+        ],
+        "Right Answer": 4,
+        "Explanation": "Gebyret er fastsatt i forskrift og er likt i hele landet. Gebyret for utstedelse eller fornyelse av kjøresetel er fastsatt i forskrift, noe som innebærer at det er et standardisert beløp som gjelder i hele Norge."
+    },
+    {
+        "Question Number": 52,
+        "Title": "Hvis en søknad om kjøresetel blir avslått, hva kan søkeren gjøre?",
+        "Options": [
+            "Søkeren kan sende en ny søknad etter 12 måneder.",
+            "Søkeren kan klage på vedtaket til politimesteren.",
+            "Søkeren kan klage på vedtaket til Transportklagenemnda.",
+            "Søkeren kan ta saken til domstolene direkte."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Søkeren kan klage på vedtaket til Transportklagenemnda. Hvis en søknad om kjøresetel blir avslått, har søkeren rett til å klage på vedtaket, og vanligvis vil dette være til en spesifikk klagenemnd, i dette tilfellet Transportklagenemnda."
+    },
+    {
+        "Question Number": 53,
+        "Title": "Hvem har rett til å utføre kontroll i henhold til trafikklovgivningen, og hvor kan denne kontrollen finne sted?",
+        "Options": [
+            "Bare politiet har rett til å utføre kontroll, og dette kan kun skje ved politistasjoner.",
+            "Kun ansatte i Statens vegvesen kan utføre kontroll, og dette kan kun skje på godkjente verksteder.",
+            "Statens vegvesen, politiet og eventuelt andre offentlige organer godkjent av departementet kan utføre kontroll, enten langs veien eller ved transportvirksomhetens forretningssted.",
+            "Private vaktselskaper kan utføre kontroll på vegne av transportvirksomheter, men bare på deres forretningssted."
+        ],
+        "Right Answer": 3,
+        "Explanation": "I henhold til § 38 i trafikklovgivningen har Statens vegvesen og politiet rett til å føre kontroll med bestemmelser gitt i eller med hjemmel i denne loven. Departementet kan også gi ansatte i andre offentlige organer rett til å utføre slike kontroller. Kontrollene kan utføres langs veien eller ved transportvirksomhetens forretningssted, noe som gjør at både statlige organer som Vegvesenet og politiet, samt andre offentlige organer med tillatelse, kan sørge for at trafikkloven blir fulgt. Dette gir en bred myndighet til å overvåke trafikksikkerheten og regeloverholdelsen i transportsektoren."
+    },
+    {
+        "Question Number": 54,
+        "Title": "Hvilke handlinger kan kontrollorganene utføre under kontroll?",
+        "Options": [
+            "Utelukkende utskrive bøter",
+            "Bare foreta mekaniske inspeksjoner",
+            "Gjøre gransking og kreve nødvendige opplysninger",
+            "Kun kontrollere kjøretøyets emisjonsnivåer"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Under kontroll har kontrollorganene rett til å utføre granskinger og kreve inn opplysninger som er nødvendige for å gjennomføre kontrollen."
+    },
+    {
+        "Question Number": 55,
+        "Title": "Spørsmål: Når kan elektroniske kontrollverktøy brukes ifølge trafikkloven?",
+        "Options": [
+            "Kun etter en kontroll er fullført",
+            "Bare før en kontroll starter",
+            "Under transport av farlig gods",
+            "Før, under og etter kontroll langs vei eller ved transportvirksomhetens forretningssted"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Elektroniske kontrollverktøy kan brukes i alle stadier av kontrollprosessen, både langs veien og på transportvirksomhetens forretningssted, for å sikre overholdelse av trafikklovgivningen."
+    },
+    {
+        "Question Number": 56,
+        "Title": "Spørsmål: Hvem kan gi forskrifter om kontroll etter trafikkloven?",
+        "Options": [
+            "Statens vegvesen",
+            "Transportvirksomhetene selv",
+            "Politiet",
+            "Departementet"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Det er departementet som har myndighet til å gi forskrifter om kontroll etter trafikkloven, noe som innebærer at de kan fastsette nærmere regler om hvordan kontrollene skal utføres."
+    },
+    {
+        "Question Number": 57,
+        "Title": "Spørsmål: Hva er førers plikter når kontrollmyndigheten ber om det i forbindelse med kontroll av eigentransport?",
+        "Options": [
+            "Å oppgi antall kilometer kjørt",
+            "Å gi tilgang til motorvognens varerom eller container",
+            "Å presentere et gyldig førerkort",
+            "Å vise fram vognkortet for kjøretøyet"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 39 i loven er føreren pliktig til å gi kontrollmyndigheten tilgang til motorvognens varerom, container, kapell, eller lignende når det gjøres en kontroll av eigentransport, som er unntatt fra løyveplikt i henhold til §§ 16 og 17."
+    },
+    {
+        "Question Number": 58,
+        "Title": "Hvilket kjøretøy er fritatt fra løyveplikten som omtales i § 39 ved kontroll av eigentransport?",
+        "Options": [
+            "En personbil brukt til privat transport",
+            "En motorvogn brukt til kommersiell varetransport",
+            "En motorvogn fritatt fra løyve i henhold til §§ 16 og 17",
+            "Alle kjøretøy i offentlig tjeneste"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 39 i loven, gjelder plikten til å gi tilgang til motorvognens varerom eller container for kjøretøy som er fritatt fra løyveplikten, som definert i §§ 16 og 17 i loven. Dette angår vanligvis eigentransport, som er transport av varer eller materiale for egen virksomhets behov, og ikke for transport mot vederlag."
+    },
+    {
+        "Question Number": 59,
+        "Title": "Spørsmål: Hva kan kontrollmyndigheten gjøre med et kjøretøy som blir brukt uten påkrevd løyve?",
+        "Options": [
+            "Øke løyveavgiften for eieren",
+            "Forby bruken av kjøretøyet for en nødvendig periode",
+            "Pålegge eieren å male kjøretøyet i en annen farge",
+            "Kreve at eieren installerer en GPS-tracker i kjøretøyet"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ifølge § 40 (1), kan den som har fullmakt til å føre kontroll, forby bruken av et kjøretøy som brukes uten nødvendig løyve, for en periode som anses som nødvendig."
+    },
+    {
+        "Question Number": 60,
+        "Title": "Spørsmål: Hvor kan et forbud mot å bruke et kjøretøy iverksettes?",
+        "Options": [
+            "Ved nærmeste politistasjon",
+            "På stedet der kjøretøyet blir inspisert",
+            "I eierens bolig",
+            "På kontrollorganets kontorer"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I følge § 40 (2), kan forbud mot å bruke et kjøretøy iverksettes direkte på stedet hvor kjøretøyet blir kontrollert."
+    },
+    {
+        "Question Number": 61,
+        "Title": "Spørsmål: Hvordan kan et forbud etter § 40 første ledd sikres?",
+        "Options": [
+            "Gjennom en rettslig prosess",
+            "Ved å sende et brev til kjøretøyets eier",
+            "Ved inndragning av kjennemerke og vognkort",
+            "Ved å pålegge eieren en advarsel"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 40 (3), kan et forbud sikres ved å inndra kjøretøyets kjennemerker og vognkort eller ved bruk av mekaniske eller elektroniske innretninger."
+    },
+    {
+        "Question Number": 62,
+        "Title": "Spørsmål: Hvem kan ilegges et lovbruddsgebyr ved overtredelse av § 38?",
+        "Options": [
+            "Både individuelle personer og foretak",
+            "Kun det private firmaet",
+            "Kun sjåføren av kjøretøyet",
+            "Kun offentlige virksomheter"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: I følge § 40a (1), kan både enkeltpersoner og foretak pålegges lovbruddsgebyr for brudd på § 38, selv om ingen enkeltperson direkte kan ilegges gebyret. Foretaket kan være et selskap, enkeltmannsforetak, stiftelse, forening eller annen sammenslutning, konkursbo eller offentlig virksomhet."
+    },
+    {
+        "Question Number": 63,
+        "Title": "Spørsmål: Hva skjer hvis et lovbruddsgebyr ikke blir betalt ved forfall?",
+        "Options": [
+            "Gebyret blir slettet fra registret",
+            "Det blir gitt en utsettelse på seks måneder",
+            "Det påløper renter og tilleggsgebyr",
+            "Kjøretøyet blir automatisk beslaglagt"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 40a (4), kan forskrifter gitt av departementet inneholde regler om renter og tilleggsgebyr dersom et lovbruddsgebyr ikke blir betalt ved forfall, samt at andre enn den som er ilagt sanksjonen, kan holdes ansvarlig for betalingen."
+    },
+    {
+        "Question Number": 64,
+        "Title": "Under hvilke forhold kan departementet ilegge en oppdragsgiver et lovbruddsgebyr i forbindelse med tildeling av konsesjonskontrakter for transporttjenester?",
+        "Options": [
+            "Kun hvis oppdragsgiveren har mottatt en advarsel fra EFTA-domstolen",
+            "Hvis bruddet er konstatert ved rettskraftig dom eller innrømmelse etter behandling i relevante organer",
+            "Hvis oppdragsgiveren har fått en anbefaling om endring av praksis",
+            "Kun hvis oppdragsgiveren har ignorert skriftlige pålegg fra departementet"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: I følge § 40b (1), kan et lovbruddsgebyr bli pålagt dersom bruddet er konstatert ved rettskraftig dom i en norsk domstol, ved dom i EFTA-domstolen, eller ved at norske myndigheter har innrømmet bruddet etter at saken er behandlet i EFTAs overvåkningsorgan."
+    },
+    {
+        "Question Number": 65,
+        "Title": "Spørsmål: Hva er den maksimale størrelsen på et lovbruddsgebyr som kan pålegges oppdragsgivere for brudd på reglene om tildeling av konsesjonskontrakter?",
+        "Options": [
+            "5 % av kontraktsverdien",
+            "10 % av kontraktsverdien",
+            "15 % av kontraktsverdien",
+            "20 % av kontraktsverdien"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 40b (2), skal lovbruddsgebyret ikke overstige 15 % av kontraktsverdien. Dette angir grensen for det økonomiske ansvaret en oppdragsgiver kan pålegges som følge av et konstatert brudd i forbindelse med tildeling av tjenestekonsesjonskontrakter."
+    },
+    {
+        "Question Number": 66,
+        "Title": "Spørsmål: Hvilken type straff kan ilegges en person som med vilje eller uaktsomhet bryter loven eller forskrifter gitt i medhold av loven?",
+        "Options": [
+            "Bot",
+            "Samfunnstjeneste",
+            "Fengselsstraff",
+            "Varsel"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: I henhold til § 41 i loven, blir en person som med vilje eller uaktsomhet bryter loven, forskrifter eller vilkår fastsatt med hjemmel i loven, straffet med bot. Dette er den eneste formen for straff som er spesifisert i denne paragrafen, og det er ingen omtale av fengselsstraff eller samfunnstjeneste for slike brudd."
+    },
+    {
+        "Question Number": 67,
+        "Title": "Spørsmål: Er forsøk på brudd av loven, forskrifter eller vilkår fastsatt med hjemmel i loven straffbart?",
+        "Options": [
+            "Ja, men kun hvis det følger av en særskilt bestemmelse",
+            "Nei, forsøk er ikke straffbart",
+            "Ja, forsøk på slike brudd er også straffbart",
+            "Kun hvis forsøket medfører skade"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: § 41 slår fast at også forsøk på å bryte loven, forskrifter eller vilkår som er fastsatt med hjemmel i loven, er straffbart. Dette betyr at lovgiver ønsker å ha en preventiv effekt ved å også gjøre det klart at selv et mislykket forsøk på å bryte regelverket kan føre til straffereaksjoner, i dette tilfellet i form av bot."
+    },
+    {
+        "Question Number": 68,
+        "Title": "Spørsmål: Hva er et vilkår for at en kontrollør har rett til å holde tilbake en motorvogn ifølge § 41 a?",
+        "Options": [
+            "Kjøretøyet har tekniske mangler.",
+            "Eieren har ubetalte parkeringsgebyrer.",
+            "Eieren har fått eller sannsynligvis vil få bot eller lovbruddsgebyr for brudd på bestemmelser gitt i eller i medhold av denne loven.",
+            "Kjøretøyet er involvert i en trafikkulykke."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ifølge § 41 a (1), kan den som har fullmakt til å føre kontroll etter loven holde tilbake motorvogn og kjøretøy som blir trukket av motorvogn, dersom eieren har fått eller antas å vil få bot eller lovbruddsgebyr for brudd på lovens bestemmelser. Dette er et tiltak for å sikre betaling av boten eller gebyret."
+    },
+    {
+        "Question Number": 69,
+        "Title": "Spørsmål: Hva er den maksimale tiden et kjøretøy kan holdes tilbake før det eventuelt kan selges ifølge § 41 a?",
+        "Options": [
+            "1 måned etter rettskraftig avgjørelse eller endelig fastsatt gebyr.",
+            "2 måneder etter rettskraftig avgjørelse eller endelig fastsatt gebyr.",
+            "3 måneder etter rettskraftig avgjørelse eller endelig fastsatt gebyr.",
+            "6 måneder etter rettskraftig avgjørelse eller endelig fastsatt gebyr."
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: I følge § 41 a (6), kan kjøretøy som er holdt tilbake selges etter reglene i vegtrafikkloven § 37 femte til åttende ledd dersom beløpet ikke er betalt innen tre måneder etter rettskraftig avgjørelse eller endelig fastsatt gebyr. Dette er en sikkerhet for at staten kan inndrive utestående bøter eller gebyrer ved å selge kjøretøyet."
+    }
+]

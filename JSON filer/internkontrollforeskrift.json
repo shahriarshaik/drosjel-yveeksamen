@@ -1,0 +1,242 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "Spørsmål: Hva er formålet med Internkontrollforskriften?",
+        "Options": [
+            "Å regulere lønnsnivået i virksomheter",
+            "Å fremme et forbedringsarbeid innen arbeidsmiljø og sikkerhet",
+            "Å fastsette miljøstandarder for industriutslipp",
+            "Å definere arbeidstidsbestemmelser for ansatte"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Formålet med forskriften er å fremme forbedringsarbeid innen arbeidsmiljø, sikkerhet, helse, og miljøvern."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Spørsmål: Hvilke virksomheter gjelder Internkontrollforskriften for?",
+        "Options": [
+            "Alle virksomheter, inkludert enmannsbedrifter",
+            "Bare industrielle virksomheter",
+            "Alle virksomheter, unntatt de på Svalbard",
+            "Bare offentlige virksomheter"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Forskriften gjelder for de fleste virksomheter i Norge, men ikke på Svalbard."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Spørsmål: Hva betyr 'internkontroll' ifølge Internkontrollforskriften?",
+        "Options": [
+            "Finansiell revisjon av en virksomhet",
+            "Rutiner for arbeidssikkerhet kun i byggebransjen",
+            "Systematiske tiltak for å oppfylle krav i helse-, miljø- og sikkerhetslovgivningen",
+            "Prosedyrer for håndtering av interne konflikter"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Internkontroll refererer til systematiske tiltak for å overholde relevante krav i helse-, miljø- og sikkerhetslovgivningen."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Spørsmål: Hvem er ansvarlig for å innføre og utøve internkontroll i en virksomhet?",
+        "Options": [
+            "Kun arbeidstakerne",
+            "Kun ledelsen",
+            "Både ledelsen og arbeidstakerne",
+            "Eksterne konsulenter"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Ledelsen er ansvarlig for å innføre og utøve internkontroll, men dette skal skje i samarbeid med arbeidstakerne og deres representanter."
+    },
+    {
+        "Question Number": 5,
+        "Title": "Spørsmål: Hva er et krav for internkontrollen i en virksomhet?",
+        "Options": [
+            "Å ha en uavhengig revisjon hvert år",
+            "Å tilpasse internkontrollen til virksomhetens art, aktiviteter, risikoforhold og størrelse",
+            "Å ha en standardisert internkontroll uavhengig av virksomhetstype",
+            "Å utelukkende fokusere på finansielle aspekter"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Internkontrollen skal være tilpasset virksomhetens unike karakteristikker for å sikre effektiv overholdelse av helse-, miljø- og sikkerhetslovgivningen."
+    },
+    {
+        "Question Number": 6,
+        "Title": "Spørsmål: Hva er hovedformålet med samordning ifølge § 6 i Internkontrollforskriften?",
+        "Options": [
+            "Å tildele ansvar for økonomisk styring mellom flere virksomheter",
+            "Å sikre at én virksomhet tar fullt ansvar for internkontroll",
+            "Å etablere en felles standard for miljøvern",
+            "Å sikre samordning av internkontroll når flere virksomheter arbeider på samme arbeidsplass"
+        ],
+        "Right Answer": 4,
+        "Explanation": "Forklaring: Formålet med samordning er å sikre at når flere virksomheter arbeider på samme arbeidsplass, er det en koordinering og samordning av internkontrollaktiviteter, slik at helse, miljø og sikkerhet blir ivaretatt på en effektiv måte."
+    },
+    {
+        "Question Number": 7,
+        "Title": "Spørsmål: Hvilken rolle har tilsynsmyndigheten ifølge § 7 i Internkontrollforskriften?",
+        "Options": [
+            "Å gi finansiell støtte til virksomheter for internkontroll",
+            "Å føre tilsyn med og gi veiledning om gjennomføringen av internkontroll",
+            "Å fastsette lønnsnivåer for arbeidere i forskjellige bransjer",
+            "Å utvikle nye miljøteknologier for industrien"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Tilsynsmyndighetens rolle er å føre tilsyn med og gi veiledning om hvordan internkontroll skal gjennomføres og etterleves i samsvar med forskriften."
+    },
+    {
+        "Question Number": 8,
+        "Title": "Spørsmål: Når kan Arbeids- og sosialdepartementet gi dispensasjon fra Internkontrollforskriften?",
+        "Options": [
+            "Når en virksomhet ønsker å redusere kostnadene ved internkontroll",
+            "Hvis det foreligger særlige forhold som gjør det nødvendig",
+            "For alle virksomheter som opererer internasjonalt",
+            "Når en virksomhet har hatt et uhell eller ulykke"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Arbeids- og sosialdepartementet kan gi dispensasjon fra forskriften når det er særlige forhold som rettferdiggjør det, vanligvis i tilfeller hvor standardreglene ikke passer eller er uhensiktsmessige."
+    },
+    {
+        "Question Number": 9,
+        "Title": "Spørsmål: Hvilke vedtak truffet med hjemmel i Internkontrollforskriften kan påklages?",
+        "Options": [
+            "Beslutninger om lønn og ansettelse",
+            "Enkeltvedtak som gjelder forskriftens krav",
+            "Generelle policybeslutninger tatt av virksomhetens ledelse",
+            "Alle administrative beslutninger i en virksomhet"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Enkeltvedtak truffet med hjemmel i forskriften, som pålegg om å oppfylle forskriftens krav, kan påklages til det nærmeste overordnede forvaltningsorgan."
+    },
+    {
+        "Question Number": 10,
+        "Title": "Spørsmål: Hvilke reaksjoner kan anvendes ved overtredelse av Internkontrollforskriften?",
+        "Options": [
+            "Sosialtjenestens inngrep",
+            "Straff og andre reaksjonsmidler i henhold til relevant lovgivning",
+            "Automatisk oppsigelse av ansvarlig leder",
+            "Obligatorisk salg av virksomheten"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ved overtredelse av forskriftens bestemmelser kan straff og andre reaksjonsmidler, som er angitt i relevant helse-, miljø- og sikkerhetslovgivning, anvendes."
+    },
+    {
+        "Question Number": 11,
+        "Title": "Hvilken av følgende er IKKE en del av formålet med Internkontrollforskriften?",
+        "Options": [
+            "Å forbedre arbeidsmiljøet",
+            "Å fremme bærekraftig utvikling",
+            "Å redusere administrativt byråkrati",
+            "Å forhindre helseskade"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Formålet med forskriften er å fremme forbedringer i arbeidsmiljøet, forhindre helseskade, og bidra til et bedre ytre miljø, men ikke spesifikt å redusere administrativt byråkrati."
+    },
+    {
+        "Question Number": 12,
+        "Title": "Hvilken type virksomhet faller utenfor virkeområdet til Internkontrollforskriften?",
+        "Options": [
+            "Industrielle virksomheter",
+            "Offentlige etater",
+            "Virksomheter på Svalbard",
+            "Småbedrifter"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Forskriften gjelder for de fleste virksomheter i Norge, men uttrykkelig ikke for virksomheter på Svalbard."
+    },
+    {
+        "Question Number": 13,
+        "Title": "Hvilket av følgende er ikke en del av definisjonen av internkontroll i forskriften?",
+        "Options": [
+            "Systematisk arbeid med finanser",
+            "Forebygging av helseskade",
+            "Tiltak for miljøforstyrrelser",
+            "Sikkerhetsarbeid"
+        ],
+        "Right Answer": 1,
+        "Explanation": "Forklaring: Internkontroll i forskriften refererer til systematisk arbeid for å oppfylle krav i helse-, miljø- og sikkerhetslovgivningen, men inkluderer ikke direkte finansielt arbeid."
+    },
+    {
+        "Question Number": 14,
+        "Title": "Ekstra spørsmål: Hva innebærer internkontroll i en virksomhet?",
+        "Options": [
+            "Overvåkning av finansielle transaksjoner",
+            "Systematisk gjennomføring av tiltak for HMS",
+            "Utelukkende fokus på miljøbeskyttelse",
+            "Overholdelse av bransjespesifikke standarder"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Internkontroll i en virksomhet innebærer systematisk gjennomføring av tiltak som sikrer overholdelse av krav i helse-, miljø- og sikkerhetslovgivningen."
+    },
+    {
+        "Question Number": 15,
+        "Title": "Hvilket av følgende er et viktig aspekt av internkontroll i henhold til § 5?",
+        "Options": [
+            "Årlig revisjon av virksomhetens markedsverdi",
+            "Kartlegging av risiko og utarbeidelse av tilhørende planer",
+            "Fokus på aksjonærenes interesser",
+            "Overvåkning av konkurransesituasjonen i markedet"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Et viktig aspekt av internkontrollen er kartlegging av farer og problemer, vurdering av risiko, og utarbeidelse av planer og tiltak for å redusere risikoforholdene."
+    },
+    {
+        "Question Number": 16,
+        "Title": "Hva er et viktig element i samordning av internkontroll i henhold til § 6?",
+        "Options": [
+            "Å etablere en felles markedsstrategi mellom virksomheter",
+            "Skriftlig avtale om ansvar for internkontroll mellom virksomheter",
+            "Å dele økonomiske ressurser mellom virksomheter",
+            "Utveksling av personell mellom virksomheter"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Når flere virksomheter arbeider på samme arbeidsplass, er det viktig med en skriftlig avtale om hvem som skal ha ansvaret for å samordne internkontrollen for deres felles aktiviteter eller områder."
+    },
+    {
+        "Question Number": 17,
+        "Title": "Hvilket ansvar har tilsynsmyndigheten i forhold til internkontrollforskriften?",
+        "Options": [
+            "Å tildele finansiering for HMS-tiltak i virksomheter",
+            "Å gi opplæring til alle nye ansatte i virksomheter",
+            "Å føre tilsyn og gi veiledning om internkontroll",
+            "Å definere lønnspolitikk for ansatte i forhold til HMS"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Forklaring: Tilsynsmyndigheten er ansvarlig for å føre tilsyn med og gi veiledning om gjennomføringen og etterlevelsen av internkontrollforskriften i virksomhetene."
+    },
+    {
+        "Question Number": 18,
+        "Title": "Under hvilke omstendigheter kan dispensasjon fra forskriften vurderes?",
+        "Options": [
+            "Når virksomheten har eksistert i mer enn 10 år",
+            "Ved spesielle forhold som gjør standardreglene uhensiktsmessige",
+            "Når virksomheten opererer i et lavrisikomiljø",
+            "Hvis virksomheten har færre enn 5 ansatte"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Dispensasjon fra forskriften kan vurderes når det foreligger spesielle forhold som gjør at de standardiserte reglene ikke passer eller er uhensiktsmessige for den aktuelle virksomheten."
+    },
+    {
+        "Question Number": 19,
+        "Title": "Hvilke beslutninger truffet under internkontrollforskriften er underlagt klagerett?",
+        "Options": [
+            "Beslutninger om ansettelser og oppsigelser",
+            "Enkeltvedtak i henhold til forskriftens krav",
+            "Generelle policyendringer i en virksomhet",
+            "Beslutninger om årlige budsjettallokeringer"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Enkeltvedtak som er truffet med hjemmel i internkontrollforskriften, og som har direkte betydning for virksomheten eller enkeltpersoner innenfor den, kan påklages til overordnet forvaltningsorgan."
+    },
+    {
+        "Question Number": 20,
+        "Title": "Hva kan være en konsekvens av å ikke overholde Internkontrollforskriften?",
+        "Options": [
+            "Midlertidig nedleggelse av virksomheten",
+            "Straffereaksjoner i henhold til relevant HMS-lovgivning",
+            "Obligatorisk omstrukturering av virksomheten",
+            "Automatisk overføring av virksomheten til statlig eierskap"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Forklaring: Ved overtredelse av forskriftens bestemmelser kan det iverksettes straffereaksjoner og andre tiltak i henhold til gjeldende helse-, miljø- og sikkerhetslovgivning."
+    }
+]

@@ -12,23 +12,34 @@ def process_html_file(file_name):
         soup = BeautifulSoup(html_file, 'html.parser')
 
     # Find all quiz elements in the parsed HTML
-    quiz_elements = soup.find_all('div', class_='quiz_element')
+    quiz_elements = soup.find_all('div', class_='course_quiz_element')
 
     # Open the output file
     with open(output_file_name, 'w', encoding='utf-8') as output_file:
+        output_data = []
         # Loop through all found quiz elements
         for quiz_element in quiz_elements:
             # Parse the required elements within each quiz element
             qnum_element = quiz_element.find('span', class_='course_quiz_qnum')
-            qnum = ' '.join(qnum_element.text.split()) if qnum_element else 'Not found'
+            qnum = ' '.join(qnum_element.text[9:].split())[:-1] if qnum_element else 'Not found'
+
+            try:
+                qnum = int(qnum)
+            except:
+                pass
+
             title_element = quiz_element.find('span', class_='quiz_element_title')
             title = ' '.join(title_element.text.split()) if title_element else 'Not found'
-            options = [' '.join(fg.text.split()) for fg in quiz_element.find_all('div', class_='form-group')]
-            options = '\n'.join(options)  # Join options with newline
+            options = [' '.join(fg.text[3:].split()) for fg in quiz_element.find_all('div', class_='form-group')]
             right_answer_element = quiz_element.find('input', {'name': lambda x: x and x.startswith('right_')})
-            right_answer = right_answer_element.get('value') if right_answer_element else 'Not found'
             explanation_element = quiz_element.find('div', class_='explanationText')
             explanation = ' '.join(explanation_element.text.split()) if explanation_element else 'Not found'
+            right_answer = right_answer_element.get('value')
+            
+            try: 
+                right_answer = int(right_answer)
+            except: 
+                right_answer = f"Error in metadata: look for question \"{qnum}\" in {file_name}"
 
             # Before writing to the JSON file
             data = {
@@ -38,9 +49,9 @@ def process_html_file(file_name):
                 'Right Answer': right_answer,
                 'Explanation': explanation
             }
-            print(f"data: {data}")  # Debug print
-            json.dump(data, output_file)
-            output_file.write('\n')
+            output_data.append(data)
+
+        json.dump(output_data, output_file, ensure_ascii=False)
 
 def process_all_html_files_in_folder(folder_path):
     # Get a list of all files in the directory

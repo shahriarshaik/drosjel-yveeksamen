@@ -1,0 +1,50 @@
+[
+    {
+        "Question Number": 1,
+        "Title": "1. Hva er hovedmålet med internkontrollforskriften (HMS-forskriften)?",
+        "Options": [
+            "Å øke produktiviteten i virksomheter",
+            "Å forebygge ulykker, skader og sykdommer i arbeidsmiljøet",
+            "Å redusere kostnader for bedriften",
+            "Å forbedre markedsføringen av virksomheter"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Internkontrollforskriften er designet for å sikre at virksomheter jobber systematisk med helse-, miljø- og sikkerhetsspørsmål for å forebygge uheldige hendelser i arbeidsmiljøet."
+    },
+    {
+        "Question Number": 2,
+        "Title": "Hvilken faktor er IKKE nevnt som en potensiell risiko for drosjesjåfører?",
+        "Options": [
+            "Trafikkulykker",
+            "Overfall",
+            "Kundebehandling",
+            "Stress på grunn av tidspress"
+        ],
+        "Right Answer": 3,
+        "Explanation": "Mens kundebehandling er en vesentlig del av drosjesjåførens jobb, er det ikke nevnt som en direkte risiko i teksten. De andre alternativene er nevnt som potensielle risikofaktorer."
+    },
+    {
+        "Question Number": 3,
+        "Title": "Hva bør alle sjåfører få i forbindelse med virksomhetens HMS-rutiner?",
+        "Options": [
+            "Gratis lunsj",
+            "Bonus",
+            "Grundig opplæring",
+            "Ny bil hvert år"
+        ],
+        "Right Answer": 3,
+        "Explanation": ": Det er viktig at sjåfører forstår og kan følge HMS-rutinene i virksomheten. Grundig opplæring sikrer at de er forberedt og kan handle riktig i forskjellige situasjoner."
+    },
+    {
+        "Question Number": 4,
+        "Title": "Hva er spesielt relevant for drosjevirksomheter å jobbe med i forhold til HMS?",
+        "Options": [
+            "Salgstrategier",
+            "Opplæring i defensiv kjøring",
+            "Markedsanalyse",
+            "Produktutvikling"
+        ],
+        "Right Answer": 2,
+        "Explanation": "Opplæring i defensiv kjøring er spesielt relevant for drosjevirksomheter for å unngå trafikkulykker og sikre sikkerheten til både sjåfører og passasjerer."
+    }
+]
